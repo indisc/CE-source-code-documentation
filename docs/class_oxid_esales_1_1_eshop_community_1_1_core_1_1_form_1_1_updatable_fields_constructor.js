@@ -1,0 +1,4 @@
+var class_oxid_esales_1_1_eshop_community_1_1_core_1_1_form_1_1_updatable_fields_constructor =
+[
+    [ "getAllowedFieldsCleaner", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_form_1_1_updatable_fields_constructor.html#a4c77b5fdcfcea6b5a274ce16e37f2d3c", null ]
+];

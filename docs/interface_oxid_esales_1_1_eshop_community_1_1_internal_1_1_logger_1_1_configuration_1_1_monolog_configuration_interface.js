@@ -1,0 +1,5 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_configuration_1_1_monolog_configuration_interface =
+[
+    [ "getLogFilePath", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_configuration_1_1_monolog_configuration_interface.html#a063b8ababd085e89fce89ab3117d434a", null ],
+    [ "getLoggerName", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_configuration_1_1_monolog_configuration_interface.html#a93feda3779fdc1d9c82d51aa70081e4d", null ]
+];

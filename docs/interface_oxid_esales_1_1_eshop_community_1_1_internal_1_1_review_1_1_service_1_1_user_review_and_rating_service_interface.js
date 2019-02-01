@@ -1,0 +1,5 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_user_review_and_rating_service_interface =
+[
+    [ "getReviewAndRatingList", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_user_review_and_rating_service_interface.html#a7c97b031683336108e8067d948bb6318", null ],
+    [ "getReviewAndRatingListCount", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_user_review_and_rating_service_interface.html#a6a78dd7bd29170817419e54c52e204c6", null ]
+];

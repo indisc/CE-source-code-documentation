@@ -1,0 +1,4 @@
+var class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_newsletter_preview =
+[
+    [ "render", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_newsletter_preview.html#a9d579cb0e2a88bf1de0462667e19d46b", null ]
+];

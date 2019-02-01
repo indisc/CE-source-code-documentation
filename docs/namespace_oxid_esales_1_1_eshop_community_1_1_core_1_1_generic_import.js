@@ -1,0 +1,5 @@
+var namespace_oxid_esales_1_1_eshop_community_1_1_core_1_1_generic_import =
+[
+    [ "ImportObject", "namespace_oxid_esales_1_1_eshop_community_1_1_core_1_1_generic_import_1_1_import_object.html", "namespace_oxid_esales_1_1_eshop_community_1_1_core_1_1_generic_import_1_1_import_object" ],
+    [ "GenericImport", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_generic_import_1_1_generic_import.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_generic_import_1_1_generic_import" ]
+];

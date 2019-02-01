@@ -1,0 +1,4 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_controller_map_provider_interface =
+[
+    [ "getControllerMap", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_controller_map_provider_interface.html#a63d1b0e7c5a1171ce134b5f89800ac30", null ]
+];

@@ -1,0 +1,20 @@
+var namespace_oxid_esales_1_1_eshop_community_1_1_core_1_1_module =
+[
+    [ "Module", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module" ],
+    [ "ModuleCache", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_cache.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_cache" ],
+    [ "ModuleChainsGenerator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_chains_generator.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_chains_generator" ],
+    [ "ModuleExtensionsCleaner", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_extensions_cleaner.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_extensions_cleaner" ],
+    [ "ModuleInstaller", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_installer.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_installer" ],
+    [ "ModuleList", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_list.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_list" ],
+    [ "ModuleMetadataValidator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_metadata_validator.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_metadata_validator" ],
+    [ "ModuleSmartyPluginDirectories", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_smarty_plugin_directories.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_smarty_plugin_directories" ],
+    [ "ModuleSmartyPluginDirectoryRepository", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_smarty_plugin_directory_repository.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_smarty_plugin_directory_repository" ],
+    [ "ModuleSmartyPluginDirectoryValidator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_smarty_plugin_directory_validator.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_smarty_plugin_directory_validator" ],
+    [ "ModuleTemplateBlockContentReader", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_template_block_content_reader.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_template_block_content_reader" ],
+    [ "ModuleTemplateBlockPathFormatter", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_template_block_path_formatter.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_template_block_path_formatter" ],
+    [ "ModuleTemplateBlockRepository", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_template_block_repository.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_template_block_repository" ],
+    [ "ModuleTemplatePathCalculator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_template_path_calculator.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_template_path_calculator" ],
+    [ "ModuleTranslationPathFinder", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_translation_path_finder.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_translation_path_finder" ],
+    [ "ModuleValidatorFactory", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_validator_factory.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_validator_factory" ],
+    [ "ModuleVariablesLocator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_variables_locator.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_variables_locator" ]
+];

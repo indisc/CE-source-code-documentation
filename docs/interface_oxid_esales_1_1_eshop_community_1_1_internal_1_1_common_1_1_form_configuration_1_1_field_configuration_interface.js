@@ -1,0 +1,9 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_form_configuration_1_1_field_configuration_interface =
+[
+    [ "getLabel", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_form_configuration_1_1_field_configuration_interface.html#a1acc09a9163fd640f2306b6833c491d0", null ],
+    [ "getName", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_form_configuration_1_1_field_configuration_interface.html#aeb3ce1ae782b1041a472553cab4e0a15", null ],
+    [ "isRequired", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_form_configuration_1_1_field_configuration_interface.html#a719207fd4b292cc0647d480f6a57e4c6", null ],
+    [ "setIsRequired", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_form_configuration_1_1_field_configuration_interface.html#ae0425b3eeb1b20ad576b5f7022911a23", null ],
+    [ "setLabel", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_form_configuration_1_1_field_configuration_interface.html#a91e94341a264834f47ac6a356e50d036", null ],
+    [ "setName", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_form_configuration_1_1_field_configuration_interface.html#a812656ae4e6f9139aefc671f92b32edf", null ]
+];

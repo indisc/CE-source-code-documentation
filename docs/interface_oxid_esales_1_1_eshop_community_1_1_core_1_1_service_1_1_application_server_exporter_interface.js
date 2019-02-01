@@ -1,0 +1,4 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_service_1_1_application_server_exporter_interface =
+[
+    [ "exportAppServerList", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_service_1_1_application_server_exporter_interface.html#a297f1ba9afa960e4a4471c8b5a0ca275", null ]
+];

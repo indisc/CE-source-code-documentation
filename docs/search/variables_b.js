@@ -1,0 +1,9 @@
+var searchData=
+[
+  ['nbsp',['nbsp',['../dbinfo_8php.html#aef915316f784c9063d942974538301a6',1,'dbinfo.php']]],
+  ['new_5fcategory_5fid',['NEW_CATEGORY_ID',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_category_main.html#a33e00779930643828fbe4cc5787e13d8',1,'OxidEsales::EshopCommunity::Application::Controller::Admin::CategoryMain']]],
+  ['new_5fdiscount_5fid',['NEW_DISCOUNT_ID',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_discount_categories_ajax.html#aeb1dfcf55c6cc91d2482ec5e35c30a59',1,'OxidEsales\EshopCommunity\Application\Controller\Admin\DiscountCategoriesAjax\NEW_DISCOUNT_ID()'],['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_discount_groups_ajax.html#ac81ebd42aae1667e4d62810379062491',1,'OxidEsales\EshopCommunity\Application\Controller\Admin\DiscountGroupsAjax\NEW_DISCOUNT_ID()']]],
+  ['new_5fdiscount_5flist_5fid',['NEW_DISCOUNT_LIST_ID',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_discount_articles_ajax.html#af856e3a5983ce558c4ca600313486218',1,'OxidEsales::EshopCommunity::Application::Controller::Admin::DiscountArticlesAjax']]],
+  ['new_5fshop_5fid',['NEW_SHOP_ID',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_shop_list.html#a067864757edaccdef9431d66610d0dc3',1,'OxidEsales\EshopCommunity\Application\Controller\Admin\ShopList\NEW_SHOP_ID()'],['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_shop_main.html#ad2f83fc7e20843b2836328be99408114',1,'OxidEsales\EshopCommunity\Application\Controller\Admin\ShopMain\NEW_SHOP_ID()']]],
+  ['no_5fuser',['NO_USER',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_file.html#a85867fbbd2df20b4682efcc013c5477f',1,'OxidEsales::EshopCommunity::Application::Model::File']]]
+];

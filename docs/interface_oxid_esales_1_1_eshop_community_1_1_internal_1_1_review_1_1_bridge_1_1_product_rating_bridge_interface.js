@@ -1,0 +1,4 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_product_rating_bridge_interface =
+[
+    [ "updateProductRating", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_product_rating_bridge_interface.html#a05b6a1908c57648b155c9048aab3283d", null ]
+];

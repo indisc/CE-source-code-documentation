@@ -1,0 +1,4 @@
+var class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_validator_factory =
+[
+    [ "getModuleMetadataValidator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_validator_factory.html#a3fc0ac51f032d4915cd4d19178003c1e", null ]
+];

@@ -1,0 +1,5 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_form_configuration_1_1_form_configuration_interface =
+[
+    [ "addFieldConfiguration", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_form_configuration_1_1_form_configuration_interface.html#addd104d0a78d02da6e4ba32da327f12c", null ],
+    [ "getFieldConfigurations", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_form_configuration_1_1_form_configuration_interface.html#a6e5b81df986fef2e2bd05c53cee13920", null ]
+];

@@ -1,0 +1,4 @@
+var class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_voucher_serie_groups =
+[
+    [ "render", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_voucher_serie_groups.html#a5a81664d94e184b3d6555c75db1818da", null ]
+];

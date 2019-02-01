@@ -1,0 +1,4 @@
+var class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_database_not_configured_exception =
+[
+    [ "__construct", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_database_not_configured_exception.html#ac5bf5074a97ff329c08cc31347e81853", null ]
+];

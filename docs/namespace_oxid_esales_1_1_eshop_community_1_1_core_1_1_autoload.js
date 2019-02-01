@@ -1,0 +1,5 @@
+var namespace_oxid_esales_1_1_eshop_community_1_1_core_1_1_autoload =
+[
+    [ "BackwardsCompatibilityAutoload", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_autoload_1_1_backwards_compatibility_autoload.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_autoload_1_1_backwards_compatibility_autoload" ],
+    [ "ModuleAutoload", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_autoload_1_1_module_autoload.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_autoload_1_1_module_autoload" ]
+];

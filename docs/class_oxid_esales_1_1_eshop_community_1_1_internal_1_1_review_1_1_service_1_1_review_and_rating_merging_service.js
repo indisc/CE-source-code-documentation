@@ -1,0 +1,10 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_review_and_rating_merging_service =
+[
+    [ "getRatingWithoutReviewData", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_review_and_rating_merging_service.html#a9aba427bba116190182796021b01cb02", null ],
+    [ "getReviewDataWithRating", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_review_and_rating_merging_service.html#a4442773d3c8fcc2ef002dbd572004d1c", null ],
+    [ "isRatingWithoutReview", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_review_and_rating_merging_service.html#a3d365a909c8838bc074d88908520bebe", null ],
+    [ "isReviewRating", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_review_and_rating_merging_service.html#ae5bcc19aaef79354cab8835d2650ee20", null ],
+    [ "mapReviewAndRating", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_review_and_rating_merging_service.html#ab40987b059d11a932060442e4add6814", null ],
+    [ "mapReviewAndRatingList", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_review_and_rating_merging_service.html#a1ea574607b3e53a6630902d7e7c50b4f", null ],
+    [ "mergeReviewAndRating", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_review_and_rating_merging_service.html#a066fef690ba8a504c52c0d12c420a160", null ]
+];

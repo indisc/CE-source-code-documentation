@@ -1,0 +1,4 @@
+var class_oxid_esales_1_1_eshop_community_1_1_core_1_1_generic_import_1_1_import_object_1_1_article2_action =
+[
+    [ "$tableName", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_generic_import_1_1_import_object_1_1_article2_action.html#a1e6b50451324093f1c9675951c364181", null ]
+];
