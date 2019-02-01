@@ -274,5 +274,6 @@ var class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article 
     [ "$_sDynImageDir", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#afab0fbee9c119abdc4bc466bd0e7b6f4", null ],
     [ "$_sItemKey", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a0168cf31feb93975eb9f4de50db99908", null ],
     [ "$_sMoreDetailLink", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a652681361071b0b23d40f35d39b97a05", null ],
-    [ "$_sToBasketLink", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a8e992026a3939814ba19c50c8a2f7e79", null ]
+    [ "$_sToBasketLink", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a8e992026a3939814ba19c50c8a2f7e79", null ],
+    [ "$basketAttributeList", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a30caa800d0960b359ef1334d56efd05f", null ]
 ];

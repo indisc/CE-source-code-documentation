@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">OXID eShop CE
-   &#160;<span id="projectnumber">6.0.0</span>
+   &#160;<span id="projectnumber">6.0.1</span>
    </div>
   </td>
  </tr>
@@ -88,6 +88,8 @@ $(document).ready(function(){initNavTree('class_oxid_esales_1_1_eshop_community_
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pro-methods">Protected Member Functions</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_actions_main-members.html">List of all members</a>  </div>
   <div class="headertitle">
 <div class="title">OxidEsales\EshopCommunity\Application\Controller\Admin\ActionsMain Class Reference</div>  </div>
@@ -124,10 +126,117 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a5a224f6fd807d39fec7765161a948a39"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9057e8abecf7bd492fad3b3a070d2a7c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_actions_main.html#a9057e8abecf7bd492fad3b3a070d2a7c">saveinnlang</a> ()</td></tr>
 <tr class="separator:a9057e8abecf7bd492fad3b3a070d2a7c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-methods"></a>
+Protected Member Functions</h2></td></tr>
+<tr class="memitem:ab30503abb0c9e380efd351749ec2532f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_actions_main.html#ab30503abb0c9e380efd351749ec2532f">checkAccessToEditAction</a> (Actions $action)</td></tr>
+<tr class="separator:ab30503abb0c9e380efd351749ec2532f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a9d48e91c272edea76c99c39bb25a8376"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_actions_main.html#a9d48e91c272edea76c99c39bb25a8376">getActionFormData</a> ()</td></tr>
+<tr class="separator:a9d48e91c272edea76c99c39bb25a8376"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a25a10559be20ccd80095b9a05654d4cf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_actions_main.html#a25a10559be20ccd80095b9a05654d4cf">normalizeActionFormData</a> ($formData)</td></tr>
+<tr class="separator:a25a10559be20ccd80095b9a05654d4cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p><a class="el" href="namespace_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin.html">Admin</a> article main actions manager. There is possibility to change actions description, assign articles to this actions, etc. <a class="el" href="namespace_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin.html">Admin</a> Menu: Manage Products -&gt; actions -&gt; Main. </p>
 </div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="ab30503abb0c9e380efd351749ec2532f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab30503abb0c9e380efd351749ec2532f">&#9670;&nbsp;</a></span>checkAccessToEditAction()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">OxidEsales\EshopCommunity\Application\Controller\Admin\ActionsMain::checkAccessToEditAction </td>
+          <td>(</td>
+          <td class="paramtype">Actions&#160;</td>
+          <td class="paramname"><em>$action</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<p>Checks access to edit Action.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramtype">Actions</td><td class="paramname">$action</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>bool </dd></dl>
+
+</div>
+</div>
+<a id="a9d48e91c272edea76c99c39bb25a8376"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a9d48e91c272edea76c99c39bb25a8376">&#9670;&nbsp;</a></span>getActionFormData()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">OxidEsales\EshopCommunity\Application\Controller\Admin\ActionsMain::getActionFormData </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<p>Returns form data for Action.</p>
+<dl class="section return"><dt>Returns</dt><dd>array </dd></dl>
+
+</div>
+</div>
+<a id="a25a10559be20ccd80095b9a05654d4cf"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a25a10559be20ccd80095b9a05654d4cf">&#9670;&nbsp;</a></span>normalizeActionFormData()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">OxidEsales\EshopCommunity\Application\Controller\Admin\ActionsMain::normalizeActionFormData </td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>$formData</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<p>Normalizes form data for Action.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramtype">array</td><td class="paramname">$formData</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>array </dd></dl>
+
+</div>
+</div>
 <a id="a942f8cde76261f3b7bd31456d825eb91"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a942f8cde76261f3b7bd31456d825eb91">&#9670;&nbsp;</a></span>render()</h2>
 
@@ -184,7 +293,7 @@ Public Member Functions</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>/home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.0.0/vendor/oxid-esales/oxideshop-ce/source/Application/Controller/Admin/<a class="el" href="_actions_main_8php.html">ActionsMain.php</a></li>
+<li>/home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.0.1/vendor/oxid-esales/oxideshop-ce/source/Application/Controller/Admin/<a class="el" href="_actions_main_8php.html">ActionsMain.php</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

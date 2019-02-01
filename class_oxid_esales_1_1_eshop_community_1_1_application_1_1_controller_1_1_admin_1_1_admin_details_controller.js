@@ -9,6 +9,8 @@ var class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_adm
     [ "_resetCounts", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_admin_details_controller.html#a36870d5cffa84f3a476b0859d4b27a6e", null ],
     [ "_setupNavigation", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_admin_details_controller.html#a71e67447fe90c64c69a5f1584e0cb512", null ],
     [ "changeFolder", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_admin_details_controller.html#af6a741a881d1c4f220406bee33d7cfc3", null ],
+    [ "configureTextEditorHandler", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_admin_details_controller.html#aacbe2db99a1a50806eea579c87aa2812", null ],
+    [ "createTextEditorHandler", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_admin_details_controller.html#a80f89a1af27df50acc6a70916a004b17", null ],
     [ "generateTextEditor", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_admin_details_controller.html#a72c02f9976037f57e665171dba09367e", null ],
     [ "getDocumentationLanguageId", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_admin_details_controller.html#ad927f7d629057df8ead865c568156900", null ],
     [ "render", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_admin_details_controller.html#acf4ccd37d702f199857b74735058d0d4", null ],

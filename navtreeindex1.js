@@ -1,5 +1,11 @@
 var NAVTREEINDEX1 =
 {
+"_diagnostics_8php.html":[3,0,0,0,0,0,0,0,0,0,0,1,2,25],
+"_diagnostics_controller_8php.html":[3,0,0,0,0,0,0,0,0,0,0,1,1,0,86],
+"_diagnostics_list_8php.html":[3,0,0,0,0,0,0,0,0,0,0,1,1,0,87],
+"_diagnostics_main_8php.html":[3,0,0,0,0,0,0,0,0,0,0,1,1,0,88],
+"_diagnostics_output_8php.html":[3,0,0,0,0,0,0,0,0,0,0,1,2,26],
+"_discount_8php.html":[3,0,0,0,0,0,0,0,0,0,0,1,2,27],
 "_discount_articles_8php.html":[3,0,0,0,0,0,0,0,0,0,0,1,1,0,89],
 "_discount_articles_ajax_8php.html":[3,0,0,0,0,0,0,0,0,0,0,1,1,0,90],
 "_discount_categories_ajax_8php.html":[3,0,0,0,0,0,0,0,0,0,0,1,1,0,91],
@@ -44,6 +50,8 @@ var NAVTREEINDEX1 =
 "_forgot_password_controller_8php.html":[3,0,0,0,0,0,0,0,0,0,0,1,1,20],
 "_form_fields_8php.html":[3,0,0,0,0,0,0,0,0,0,0,3,9,0],
 "_form_fields_cleaner_8php.html":[3,0,0,0,0,0,0,0,0,0,0,3,9,1],
+"_form_fields_trimmer_8php.html":[3,0,0,0,0,0,0,0,0,0,0,3,9,2],
+"_form_fields_trimmer_interface_8php.html":[3,0,0,0,0,0,0,0,0,0,0,3,9,3],
 "_frontend_controller_8php.html":[3,0,0,0,0,0,0,0,0,0,0,1,1,21],
 "_frontend_controller_8php.html#a28426bdc57943d3318ae71c40ffffafc":[3,0,0,0,0,0,0,0,0,0,0,1,1,21,3],
 "_frontend_controller_8php.html#a70b77aa90c10a2f4fdfaed1f4bc70a95":[3,0,0,0,0,0,0,0,0,0,0,1,1,21,2],
@@ -241,13 +249,5 @@ var NAVTREEINDEX1 =
 "_seo_encoder_recomm_8php.html":[3,0,0,0,0,0,0,0,0,0,0,1,2,71],
 "_seo_encoder_vendor_8php.html":[3,0,0,0,0,0,0,0,0,0,0,1,2,72],
 "_sepa_b_i_c_validator_8php.html":[3,0,0,0,0,0,0,0,0,0,0,3,70],
-"_sepa_i_b_a_n_validator_8php.html":[3,0,0,0,0,0,0,0,0,0,0,3,71],
-"_sepa_validator_8php.html":[3,0,0,0,0,0,0,0,0,0,0,3,72],
-"_service_list_8php.html":[3,0,0,0,0,0,0,0,0,0,0,1,0,0,14],
-"_service_menu_8php.html":[3,0,0,0,0,0,0,0,0,0,0,1,0,0,15],
-"_settings_handler_8php.html":[3,0,0,0,0,0,0,0,0,0,0,3,74],
-"_setup_2_database_8php.html":[3,0,0,0,0,0,0,0,0,0,0,6,7],
-"_setup_2_de_2lang_8php.html":[3,0,0,0,0,0,0,0,0,0,0,6,1,0],
-"_setup_2_de_2lang_8php.html#a81e64087cf8dd69f7963ec9480204c46":[3,0,0,0,0,0,0,0,0,0,0,6,1,0,0],
-"_setup_2_en_2lang_8php.html":[3,0,0,0,0,0,0,0,0,0,0,6,2,0]
+"_sepa_i_b_a_n_validator_8php.html":[3,0,0,0,0,0,0,0,0,0,0,3,71]
 };

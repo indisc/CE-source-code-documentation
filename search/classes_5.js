@@ -12,5 +12,7 @@ var searchData=
   ['forgotpasswordcontroller',['ForgotPasswordController',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_forgot_password_controller.html',1,'OxidEsales::EshopCommunity::Application::Controller']]],
   ['formfields',['FormFields',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_form_1_1_form_fields.html',1,'OxidEsales::EshopCommunity::Core::Form']]],
   ['formfieldscleaner',['FormFieldsCleaner',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_form_1_1_form_fields_cleaner.html',1,'OxidEsales::EshopCommunity::Core::Form']]],
+  ['formfieldstrimmer',['FormFieldsTrimmer',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_form_1_1_form_fields_trimmer.html',1,'OxidEsales::EshopCommunity::Core::Form']]],
+  ['formfieldstrimmerinterface',['FormFieldsTrimmerInterface',['../interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_form_1_1_form_fields_trimmer_interface.html',1,'OxidEsales::EshopCommunity::Core::Form']]],
   ['frontendcontroller',['FrontendController',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html',1,'OxidEsales::EshopCommunity::Application::Controller']]]
 ];

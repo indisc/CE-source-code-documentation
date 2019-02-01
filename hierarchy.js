@@ -351,6 +351,9 @@ var hierarchy =
     [ "OxidEsales\\EshopCommunity\\Core\\Smarty\\Plugin\\Emos", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_smarty_1_1_plugin_1_1_emos.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\Smarty\\Plugin\\EmosItem", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_smarty_1_1_plugin_1_1_emos_item.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\Encryptor", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_encryptor.html", null ],
+    [ "EshopFormFieldsTrimmerInterface", "class_eshop_form_fields_trimmer_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Core\\Form\\FormFieldsTrimmer", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_form_1_1_form_fields_trimmer.html", null ]
+    ] ],
     [ "OxidEsales\\EshopCommunity\\Core\\Exception\\ExceptionHandler", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_handler.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\Field", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_field.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\Model\\FieldNameHelper", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_field_name_helper.html", null ],
@@ -364,6 +367,7 @@ var hierarchy =
     [ "OxidEsales\\EshopCommunity\\Core\\FileSystem\\FileSystem", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_file_system_1_1_file_system.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\Form\\FormFields", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_form_1_1_form_fields.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\Form\\FormFieldsCleaner", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_form_1_1_form_fields_cleaner.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Core\\Form\\FormFieldsTrimmerInterface", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_form_1_1_form_fields_trimmer_interface.html", null ],
     [ "FrontendController", null, [
       [ "OxidEsales\\EshopCommunity\\Application\\Component\\Widget\\WidgetController", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_widget_1_1_widget_controller.html", null ],
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\AccountController", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html", null ],
@@ -409,11 +413,11 @@ var hierarchy =
       [ "OxidEsales\\EshopCommunity\\Core\\CompanyVatInCountryChecker", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_company_vat_in_country_checker.html", null ]
     ] ],
     [ "OxidEsales\\EshopCommunity\\Core\\Contract\\ICountryAware", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_country_aware.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Core\\Contract\\IDisplayError", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_display_error.html", null ],
     [ "IDisplayError", null, [
       [ "OxidEsales\\EshopCommunity\\Core\\DisplayError", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_display_error.html", null ],
       [ "OxidEsales\\EshopCommunity\\Core\\Exception\\ExceptionToDisplay", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_to_display.html", null ]
     ] ],
-    [ "OxidEsales\\EshopCommunity\\Core\\Contract\\IDisplayError", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_display_error.html", null ],
     [ "IModuleValidator", null, [
       [ "OxidEsales\\EshopCommunity\\Core\\Module\\ModuleMetadataValidator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_metadata_validator.html", null ]
     ] ],
@@ -434,17 +438,18 @@ var hierarchy =
       [ "OxidEsales\\EshopCommunity\\Core\\GenericImport\\ImportObject\\Vendor", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_generic_import_1_1_import_object_1_1_vendor.html", null ]
     ] ],
     [ "OxidEsales\\EshopCommunity\\Core\\GenericImport\\ImportObject\\ImportObject", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_generic_import_1_1_import_object_1_1_import_object.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Core\\Contract\\ISelectList", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_select_list.html", null ],
     [ "ISelectList", null, [
       [ "OxidEsales\\EshopCommunity\\Application\\Model\\SelectList", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_select_list.html", null ],
       [ "OxidEsales\\EshopCommunity\\Application\\Model\\VariantSelectList", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_variant_select_list.html", null ]
     ] ],
-    [ "OxidEsales\\EshopCommunity\\Core\\Contract\\ISelectList", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_select_list.html", null ],
     [ "Iterator", "class_iterator.html", [
       [ "OxidEsales\\EshopCommunity\\Core\\Model\\ListModel", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_list_model.html", null ]
     ] ],
     [ "IteratorAggregate", "class_iterator_aggregate.html", [
       [ "OxidEsales\\EshopCommunity\\Core\\Database\\Adapter\\Doctrine\\ResultSet", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_database_1_1_adapter_1_1_doctrine_1_1_result_set.html", null ]
     ] ],
+    [ "OxidEsales\\EshopCommunity\\Core\\Contract\\IUrl", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_url.html", null ],
     [ "IUrl", null, [
       [ "OxidEsales\\EshopCommunity\\Application\\Model\\Article", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html", null ],
       [ "OxidEsales\\EshopCommunity\\Application\\Model\\Category", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_category.html", null ],
@@ -454,7 +459,6 @@ var hierarchy =
       [ "OxidEsales\\EshopCommunity\\Application\\Model\\SimpleVariant", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_simple_variant.html", null ],
       [ "OxidEsales\\EshopCommunity\\Application\\Model\\Vendor", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_vendor.html", null ]
     ] ],
-    [ "OxidEsales\\EshopCommunity\\Core\\Contract\\IUrl", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_url.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\ViewHelper\\JavaScriptRegistrator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_view_helper_1_1_java_script_registrator.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\ViewHelper\\JavaScriptRenderer", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_view_helper_1_1_java_script_renderer.html", null ],
     [ "ListComponentAjax", null, [
@@ -575,11 +579,11 @@ var hierarchy =
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\Admin\\ManufacturerSeo", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_manufacturer_seo.html", null ],
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\Admin\\VendorSeo", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_vendor_seo.html", null ]
     ] ],
+    [ "OxidEsales\\EshopCommunity\\Core\\OnlineCaller", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_caller.html", null ],
     [ "OnlineCaller", null, [
       [ "OxidEsales\\EshopCommunity\\Core\\OnlineLicenseCheckCaller", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_license_check_caller.html", null ],
       [ "OxidEsales\\EshopCommunity\\Core\\OnlineModuleVersionNotifierCaller", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_module_version_notifier_caller.html", null ]
     ] ],
-    [ "OxidEsales\\EshopCommunity\\Core\\OnlineCaller", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_caller.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\OnlineLicenseCheck", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_license_check.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\OnlineLicenseCheckResponse", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_license_check_response.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\OnlineModuleVersionNotifier", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_module_version_notifier.html", null ],

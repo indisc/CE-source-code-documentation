@@ -1,46 +1,11 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,1700,139,1727"/>
-<area shape="rect" id="node2" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_actions_article_ajax.html" title=" " alt="" coords="199,5,389,61"/>
-<area shape="rect" id="node3" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_actions_groups_ajax.html" title=" " alt="" coords="199,85,389,141"/>
-<area shape="rect" id="node4" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_actions_main_ajax.html" title=" " alt="" coords="199,165,389,221"/>
-<area shape="rect" id="node5" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_actions_order_ajax.html" title=" " alt="" coords="199,245,389,301"/>
-<area shape="rect" id="node6" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_article_accessories_ajax.html" title=" " alt="" coords="195,325,393,381"/>
-<area shape="rect" id="node7" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_article_attribute_ajax.html" title=" " alt="" coords="199,405,389,461"/>
-<area shape="rect" id="node8" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_article_bundle_ajax.html" title=" " alt="" coords="199,485,389,541"/>
-<area shape="rect" id="node9" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_article_crossselling_ajax.html" title=" " alt="" coords="195,565,393,621"/>
-<area shape="rect" id="node10" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_article_extend_ajax.html" title=" " alt="" coords="199,645,389,701"/>
-<area shape="rect" id="node11" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_article_selection_ajax.html" title=" " alt="" coords="199,725,389,781"/>
-<area shape="rect" id="node12" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_attribute_category_ajax.html" title=" " alt="" coords="198,805,390,861"/>
-<area shape="rect" id="node13" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_attribute_main_ajax.html" title=" " alt="" coords="199,885,389,941"/>
-<area shape="rect" id="node14" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_attribute_order_ajax.html" title=" " alt="" coords="199,965,389,1021"/>
-<area shape="rect" id="node15" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_category_main_ajax.html" title=" " alt="" coords="199,1045,389,1101"/>
-<area shape="rect" id="node16" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_category_order_ajax.html" title=" " alt="" coords="199,1125,389,1181"/>
-<area shape="rect" id="node17" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_delivery_articles_ajax.html" title=" " alt="" coords="199,1205,389,1261"/>
-<area shape="rect" id="node18" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_delivery_categories_ajax.html" title=" " alt="" coords="195,1285,393,1341"/>
-<area shape="rect" id="node19" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_delivery_groups_ajax.html" title=" " alt="" coords="199,1365,389,1421"/>
-<area shape="rect" id="node20" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_delivery_main_ajax.html" title=" " alt="" coords="199,1445,389,1501"/>
-<area shape="rect" id="node21" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_delivery_set_country_ajax.html" title=" " alt="" coords="193,1525,395,1581"/>
-<area shape="rect" id="node22" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_delivery_set_groups_ajax.html" title=" " alt="" coords="195,1605,393,1661"/>
-<area shape="rect" id="node23" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_delivery_set_main_ajax.html" title=" " alt="" coords="199,1685,389,1741"/>
-<area shape="rect" id="node24" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_delivery_set_payment_ajax.html" title=" " alt="" coords="190,1765,398,1821"/>
-<area shape="rect" id="node25" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_delivery_set_users_ajax.html" title=" " alt="" coords="199,1845,389,1901"/>
-<area shape="rect" id="node26" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_delivery_users_ajax.html" title=" " alt="" coords="199,1925,389,1981"/>
-<area shape="rect" id="node27" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_discount_articles_ajax.html" title=" " alt="" coords="199,2005,389,2061"/>
-<area shape="rect" id="node28" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_discount_categories_ajax.html" title=" " alt="" coords="193,2085,395,2141"/>
-<area shape="rect" id="node29" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_discount_groups_ajax.html" title=" " alt="" coords="199,2165,389,2221"/>
-<area shape="rect" id="node30" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_discount_item_ajax.html" title=" " alt="" coords="199,2245,389,2301"/>
-<area shape="rect" id="node31" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_discount_main_ajax.html" title=" " alt="" coords="199,2325,389,2381"/>
-<area shape="rect" id="node32" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_discount_users_ajax.html" title=" " alt="" coords="199,2405,389,2461"/>
-<area shape="rect" id="node33" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_manufacturer_main_ajax.html" title=" " alt="" coords="196,2485,392,2541"/>
-<area shape="rect" id="node34" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_newsletter_selection_ajax.html" title=" " alt="" coords="191,2565,397,2621"/>
-<area shape="rect" id="node35" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_news_main_ajax.html" title=" " alt="" coords="199,2645,389,2701"/>
-<area shape="rect" id="node36" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_payment_country_ajax.html" title=" " alt="" coords="199,2725,389,2781"/>
-<area shape="rect" id="node37" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_payment_main_ajax.html" title=" " alt="" coords="199,2805,389,2861"/>
-<area shape="rect" id="node38" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_select_list_main_ajax.html" title=" " alt="" coords="199,2885,389,2941"/>
-<area shape="rect" id="node39" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_select_list_order_ajax.html" title=" " alt="" coords="199,2965,389,3021"/>
-<area shape="rect" id="node40" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_shop_default_category_ajax.html" title=" " alt="" coords="187,3045,401,3101"/>
-<area shape="rect" id="node41" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_user_group_main_ajax.html" title=" " alt="" coords="199,3125,389,3181"/>
-<area shape="rect" id="node42" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_user_main_ajax.html" title=" " alt="" coords="199,3205,389,3261"/>
-<area shape="rect" id="node43" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_vendor_main_ajax.html" title=" " alt="" coords="199,3285,389,3341"/>
-<area shape="rect" id="node44" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_voucher_serie_groups_ajax.html" title=" " alt="" coords="189,3365,399,3421"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,300,131,327"/>
+<area shape="rect" id="node2" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_downloads_controller.html" title=" " alt="" coords="182,5,373,61"/>
+<area shape="rect" id="node3" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_newsletter_controller.html" title=" " alt="" coords="183,85,372,141"/>
+<area shape="rect" id="node4" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_notice_list_controller.html" title=" " alt="" coords="183,165,372,221"/>
+<area shape="rect" id="node5" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_order_controller.html" title=" " alt="" coords="183,245,372,301"/>
+<area shape="rect" id="node6" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_password_controller.html" title=" " alt="" coords="183,325,372,381"/>
+<area shape="rect" id="node7" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_recommlist_controller.html" title=" " alt="" coords="179,405,376,461"/>
+<area shape="rect" id="node8" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_user_controller.html" title=" " alt="" coords="183,485,372,541"/>
+<area shape="rect" id="node9" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_wishlist_controller.html" title=" " alt="" coords="183,565,372,621"/>
 </map>

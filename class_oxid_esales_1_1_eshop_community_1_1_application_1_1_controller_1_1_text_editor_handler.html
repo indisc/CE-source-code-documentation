@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">OXID eShop CE
-   &#160;<span id="projectnumber">6.0.0</span>
+   &#160;<span id="projectnumber">6.0.1</span>
    </div>
   </td>
  </tr>
@@ -88,6 +88,7 @@ $(document).ready(function(){initNavTree('class_oxid_esales_1_1_eshop_community_
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pro-attribs">Protected Attributes</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_text_editor_handler-members.html">List of all members</a>  </div>
   <div class="headertitle">
@@ -107,6 +108,15 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a3940c3556b91dc950f93df7eaa3f2fa8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a59f0118b318e894283e4d607fbb6c28b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_text_editor_handler.html#a59f0118b318e894283e4d607fbb6c28b">getStyleSheet</a> ()</td></tr>
 <tr class="separator:a59f0118b318e894283e4d607fbb6c28b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a00bede7593a6a52f2f35a4bbb9935c72"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_text_editor_handler.html#a00bede7593a6a52f2f35a4bbb9935c72">disableTextEditor</a> ()</td></tr>
+<tr class="separator:a00bede7593a6a52f2f35a4bbb9935c72"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa574b9103f44cc4858bd7bcff079b897"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_text_editor_handler.html#aa574b9103f44cc4858bd7bcff079b897">isTextEditorDisabled</a> ()</td></tr>
+<tr class="separator:aa574b9103f44cc4858bd7bcff079b897"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-attribs"></a>
+Protected Attributes</h2></td></tr>
+<tr class="memitem:ab33e9ec9a7ad1d97072ee0d572ebfd37"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_text_editor_handler.html#ab33e9ec9a7ad1d97072ee0d572ebfd37">$textEditorDisabled</a> = false</td></tr>
+<tr class="separator:ab33e9ec9a7ad1d97072ee0d572ebfd37"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
@@ -117,6 +127,24 @@ Private Attributes</h2></td></tr>
 <div class="textblock"><p>Responsible for generation of text editor output.</p>
 <p>Class <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_text_editor_handler.html">TextEditorHandler</a> </p>
 </div><h2 class="groupheader">Member Function Documentation</h2>
+<a id="a00bede7593a6a52f2f35a4bbb9935c72"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a00bede7593a6a52f2f35a4bbb9935c72">&#9670;&nbsp;</a></span>disableTextEditor()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">OxidEsales\EshopCommunity\Application\Controller\TextEditorHandler::disableTextEditor </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Mark text editor disabled: information in it should not be editable. </p>
+
+</div>
+</div>
 <a id="a59f0118b318e894283e4d607fbb6c28b"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a59f0118b318e894283e4d607fbb6c28b">&#9670;&nbsp;</a></span>getStyleSheet()</h2>
 
@@ -133,6 +161,25 @@ Private Attributes</h2></td></tr>
 </div><div class="memdoc">
 <p>Get the style sheet for the editor.</p>
 <dl class="section return"><dt>Returns</dt><dd>string The stylesheet for the editor. </dd></dl>
+
+</div>
+</div>
+<a id="aa574b9103f44cc4858bd7bcff079b897"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa574b9103f44cc4858bd7bcff079b897">&#9670;&nbsp;</a></span>isTextEditorDisabled()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">OxidEsales\EshopCommunity\Application\Controller\TextEditorHandler::isTextEditorDisabled </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>If information in text editor is not editable.</p>
+<dl class="section return"><dt>Returns</dt><dd>bool </dd></dl>
 
 </div>
 </div>
@@ -337,8 +384,30 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
+<a id="ab33e9ec9a7ad1d97072ee0d572ebfd37"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab33e9ec9a7ad1d97072ee0d572ebfd37">&#9670;&nbsp;</a></span>$textEditorDisabled</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">OxidEsales\EshopCommunity\Application\Controller\TextEditorHandler::$textEditorDisabled = false</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>/home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.0.0/vendor/oxid-esales/oxideshop-ce/source/Application/Controller/<a class="el" href="_text_editor_handler_8php.html">TextEditorHandler.php</a></li>
+<li>/home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.0.1/vendor/oxid-esales/oxideshop-ce/source/Application/Controller/<a class="el" href="_text_editor_handler_8php.html">TextEditorHandler.php</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

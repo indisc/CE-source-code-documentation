@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['language',['Language',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_language.html',1,'OxidEsales\EshopCommunity\Core\Language'],['../class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_language.html',1,'OxidEsales\EshopCommunity\Setup\Language']]],
+  ['language',['Language',['../class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_language.html',1,'OxidEsales\EshopCommunity\Setup\Language'],['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_language.html',1,'OxidEsales\EshopCommunity\Core\Language']]],
   ['languagecomponent',['LanguageComponent',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_language_component.html',1,'OxidEsales::EshopCommunity::Application::Component']]],
   ['languagecontroller',['LanguageController',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_language_controller.html',1,'OxidEsales::EshopCommunity::Application::Controller::Admin']]],
   ['languageexception',['LanguageException',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_language_exception.html',1,'OxidEsales::EshopCommunity::Core::Exception']]],

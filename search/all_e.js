@@ -94,7 +94,7 @@ var searchData=
   ['moduleextensionscleaner_2ephp',['ModuleExtensionsCleaner.php',['../_module_extensions_cleaner_8php.html',1,'']]],
   ['moduleinstaller',['ModuleInstaller',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_installer.html',1,'OxidEsales::EshopCommunity::Core::Module']]],
   ['moduleinstaller_2ephp',['ModuleInstaller.php',['../_module_installer_8php.html',1,'']]],
-  ['modulelist',['ModuleList',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_list.html',1,'OxidEsales\EshopCommunity\Core\Module\ModuleList'],['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_module_list.html',1,'OxidEsales\EshopCommunity\Application\Controller\Admin\ModuleList']]],
+  ['modulelist',['ModuleList',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_module_list.html',1,'OxidEsales\EshopCommunity\Application\Controller\Admin\ModuleList'],['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_list.html',1,'OxidEsales\EshopCommunity\Core\Module\ModuleList']]],
   ['modulelist_2ephp',['ModuleList.php',['../_application_2_controller_2_admin_2_module_list_8php.html',1,'(Global Namespace)'],['../_core_2_module_2_module_list_8php.html',1,'(Global Namespace)']]],
   ['modulemain',['ModuleMain',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_module_main.html',1,'OxidEsales::EshopCommunity::Application::Controller::Admin']]],
   ['modulemain_2ephp',['ModuleMain.php',['../_module_main_8php.html',1,'']]],

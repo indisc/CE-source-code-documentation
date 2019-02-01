@@ -16,6 +16,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_adm
     [ "addDefaultValues", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_article_main.html#ab794973251ab5c0d847e598213cc5247", null ],
     [ "addToCategory", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_article_main.html#a19d856481450f06196881e790de0f325", null ],
     [ "copyArticle", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_article_main.html#a83f36425a5e21ff2eb5feca868efa7a7", null ],
+    [ "createArticle", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_article_main.html#ad7e40bb863f503ed3ce391e8364b10c8", null ],
     [ "customizeArticleInformation", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_article_main.html#a9ce79fe202d7035cd7c506991e3e10ec", null ],
     [ "formQueryForCopyingToCategory", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_article_main.html#a5c791699575389968dc0cbc09852ba5b", null ],
     [ "getCategoryList", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_article_main.html#a3b21fe07508910d09620951171386300", null ],

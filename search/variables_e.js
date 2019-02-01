@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['return',['return',['../_backwards_compatibility_class_map_8php.html#aeae63846c9767e8c9175204c89b9a7a3',1,'return():&#160;BackwardsCompatibilityClassMap.php'],['../_unified_name_space_class_map_8php.html#a33b8a104509b298fb563b5f5fcae3baa',1,'return():&#160;UnifiedNameSpaceClassMap.php']]],
+  ['return',['return',['../_backwards_compatibility_class_map_8php.html#aeae63846c9767e8c9175204c89b9a7a3',1,'return():&#160;BackwardsCompatibilityClassMap.php'],['../_unified_name_space_class_map_8php.html#a7e63e7161375b00b7bd5033e5bb0d97b',1,'return():&#160;UnifiedNameSpaceClassMap.php']]],
   ['rss_5fartrecommlists',['RSS_ARTRECOMMLISTS',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rss_feed.html#a21af721d97bb1a3ad90006f43d739a5c',1,'OxidEsales::EshopCommunity::Application::Model::RssFeed']]],
   ['rss_5fbargain',['RSS_BARGAIN',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rss_feed.html#add82dca74c3dea297d619689a969bba1',1,'OxidEsales::EshopCommunity::Application::Model::RssFeed']]],
   ['rss_5fcatarts',['RSS_CATARTS',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rss_feed.html#a091f02e539d9a6d9b60ff168e44e3514',1,'OxidEsales::EshopCommunity::Application::Model::RssFeed']]],

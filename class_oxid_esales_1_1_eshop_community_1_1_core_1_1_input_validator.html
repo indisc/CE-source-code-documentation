@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">OXID eShop CE
-   &#160;<span id="projectnumber">6.0.0</span>
+   &#160;<span id="projectnumber">6.0.1</span>
    </div>
   </td>
  </tr>
@@ -147,6 +147,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:af4090b4b0ee6c9489c41359ddbd0af80"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3bcf038afe7ee5930c72c9cf4e01b997"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_input_validator.html#a3bcf038afe7ee5930c72c9cf4e01b997">validatePaymentInputData</a> ($sPaymentId, &amp; $aDynValue)</td></tr>
 <tr class="separator:a3bcf038afe7ee5930c72c9cf4e01b997"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aee23183c9d3bc3ae0e788216b7aab113"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_input_validator.html#aee23183c9d3bc3ae0e788216b7aab113">addValidationError</a> ($sFieldName, $oErr)</td></tr>
+<tr class="separator:aee23183c9d3bc3ae0e788216b7aab113"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a64f2d41af62d518dc13996db744e298a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_input_validator.html#a64f2d41af62d518dc13996db744e298a">setCompanyVatInValidator</a> ($oCompanyVatInValidator)</td></tr>
 <tr class="separator:a64f2d41af62d518dc13996db744e298a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae72ed53b6402a9d4ea7b7b7e47a93156"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_input_validator.html#ae72ed53b6402a9d4ea7b7b7e47a93156">getCompanyVatInValidator</a> ($oCountry)</td></tr>
@@ -252,6 +254,7 @@ Private Member Functions</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <p>Used to collect user validation errors. This method is called from all of the input checking functionality to report found error.</p>
+<dl class="deprecated"><dt><b><a class="el" href="deprecated.html#_deprecated000173">Deprecated:</a></b></dt><dd>since v6.0.0(2017-12-22); Use addValidationError.</dd></dl>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramtype">string</td><td class="paramname">$sFieldName</td><td>field name </td></tr>
@@ -554,6 +557,43 @@ Private Member Functions</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>bool|int </dd></dl>
+
+</div>
+</div>
+<a id="aee23183c9d3bc3ae0e788216b7aab113"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aee23183c9d3bc3ae0e788216b7aab113">&#9670;&nbsp;</a></span>addValidationError()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">OxidEsales\EshopCommunity\Core\InputValidator::addValidationError </td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>$sFieldName</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>$oErr</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Used to collect user validation errors. This method is called from all of the input checking functionality to report found error.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramtype">string</td><td class="paramname">$sFieldName</td><td>field name </td></tr>
+    <tr><td class="paramtype">exception</td><td class="paramname">$oErr</td><td>exception</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>exception </dd></dl>
 
 </div>
 </div>
@@ -1134,7 +1174,7 @@ Private Member Functions</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>/home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.0.0/vendor/oxid-esales/oxideshop-ce/source/Core/<a class="el" href="_input_validator_8php.html">InputValidator.php</a></li>
+<li>/home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.0.1/vendor/oxid-esales/oxideshop-ce/source/Core/<a class="el" href="_input_validator_8php.html">InputValidator.php</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

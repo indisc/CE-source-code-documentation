@@ -19,6 +19,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_adm
     [ "getServiceUrl", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_admin_controller.html#ae2222751480804ad61ff87b560515bca", null ],
     [ "getViewId", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_admin_controller.html#aa23204a13e500a2d088cd7b62389320f", null ],
     [ "init", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_admin_controller.html#acb2ec2c821c8b09a188175dbf9ece126", null ],
+    [ "isNewEditObject", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_admin_controller.html#ac2c4931b9f6814db56dbe4c8b1e6ab06", null ],
     [ "render", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_admin_controller.html#a60737ce25361a27ea26e10d46dd59a34", null ],
     [ "resetContentCache", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_admin_controller.html#a030ed83e7fbc21e4be3650b25f7624de", null ],
     [ "resetCounter", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_admin_controller.html#a220652ad166362c0f6c9971d536196ae", null ],

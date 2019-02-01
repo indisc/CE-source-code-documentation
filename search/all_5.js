@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['database',['Database',['../class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_database.html',1,'OxidEsales\EshopCommunity\Setup\Database'],['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_database_1_1_adapter_1_1_doctrine_1_1_database.html',1,'OxidEsales\EshopCommunity\Core\Database\Adapter\Doctrine\Database']]],
+  ['database',['Database',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_database_1_1_adapter_1_1_doctrine_1_1_database.html',1,'OxidEsales\EshopCommunity\Core\Database\Adapter\Doctrine\Database'],['../class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_database.html',1,'OxidEsales\EshopCommunity\Setup\Database']]],
   ['database_2ephp',['Database.php',['../_core_2_database_2_adapter_2_doctrine_2_database_8php.html',1,'(Global Namespace)'],['../_setup_2_database_8php.html',1,'(Global Namespace)']]],
   ['database_5fsql_5fdirectory',['DATABASE_SQL_DIRECTORY',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_edition_1_1_edition_path_provider.html#a9934e51b6d6265698cc03ce620f3597b',1,'OxidEsales::EshopCommunity::Core::Edition::EditionPathProvider']]],
   ['databasecanbeoverwritten',['databaseCanBeOverwritten',['../class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_controller.html#a363dee530180090780a2c0483c66af35',1,'OxidEsales::EshopCommunity::Setup::Controller']]],
@@ -137,6 +137,7 @@ var searchData=
   ['disablemodule',['disableModule',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_chains_generator.html#a7ac12e35d9f981b985de0a7f49371f8e',1,'OxidEsales::EshopCommunity::Core::Module::ModuleChainsGenerator']]],
   ['disablepriceload',['disablePriceLoad',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a86ccb3b5b12d54d34c3bdc8ff479e1a8',1,'OxidEsales::EshopCommunity::Application::Model::Article']]],
   ['disablereminder',['disableReminder',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#adc4bc26973882c9cbefea0d2152c5d85',1,'OxidEsales::EshopCommunity::Application::Model::Article']]],
+  ['disabletexteditor',['disableTextEditor',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_text_editor_handler.html#a00bede7593a6a52f2f35a4bbb9935c72',1,'OxidEsales::EshopCommunity::Application::Controller::TextEditorHandler']]],
   ['discardarticlereservation',['discardArticleReservation',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_basket_reservation.html#a4f102a64c82c388e7fdaaa410124a326',1,'OxidEsales::EshopCommunity::Application::Model::BasketReservation']]],
   ['discardreservations',['discardReservations',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_basket_reservation.html#a0f48d0294b6e9e97a25434a5f178617b',1,'OxidEsales::EshopCommunity::Application::Model::BasketReservation']]],
   ['discardunusedreservations',['discardUnusedReservations',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_basket_reservation.html#a41382250ef13f1708ebd2abdf2211ab5',1,'OxidEsales::EshopCommunity::Application::Model::BasketReservation']]],

@@ -13,6 +13,8 @@ var searchData=
   ['forgotpasswordcontroller_2ephp',['ForgotPasswordController.php',['../_forgot_password_controller_8php.html',1,'']]],
   ['formfields_2ephp',['FormFields.php',['../_form_fields_8php.html',1,'']]],
   ['formfieldscleaner_2ephp',['FormFieldsCleaner.php',['../_form_fields_cleaner_8php.html',1,'']]],
+  ['formfieldstrimmer_2ephp',['FormFieldsTrimmer.php',['../_form_fields_trimmer_8php.html',1,'']]],
+  ['formfieldstrimmerinterface_2ephp',['FormFieldsTrimmerInterface.php',['../_form_fields_trimmer_interface_8php.html',1,'']]],
   ['frontendcontroller_2ephp',['FrontendController.php',['../_frontend_controller_8php.html',1,'']]],
   ['function_2eassign_5fadv_2ephp',['function.assign_adv.php',['../function_8assign__adv_8php.html',1,'']]],
   ['function_2eoxcontent_2ephp',['function.oxcontent.php',['../function_8oxcontent_8php.html',1,'']]],

@@ -26,6 +26,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_user
     [ "resetPermissions", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_user_component.html#a5ae1e97e8bb162036423cbf23a7b0862", null ],
     [ "setLoginStatus", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_user_component.html#a23cf0d12d762f0bf86b2bbda2c372923", null ],
     [ "setRecipient", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_user_component.html#a0ed3b3e84ed45a6fe211248bca37c254", null ],
+    [ "trimAddress", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_user_component.html#a50fcd462cf1e7efdcfe128160f33aade", null ],
     [ "$_aAllowedClasses", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_user_component.html#a3c459eedb0af7ba471e21107cf30a894", null ],
     [ "$_blIsComponent", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_user_component.html#a43d287be30a149c6f3fa90020e938457", null ],
     [ "$_blIsNewUser", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_user_component.html#a33735be3f21f40f784604fcf8490b278", null ],

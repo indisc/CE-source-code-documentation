@@ -47,6 +47,7 @@ var searchData=
   ['error_5fno_5finit',['ERROR_NO_INIT',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_generic_import_1_1_generic_import.html#abc417fad166953776aa06c5aefd1b824',1,'OxidEsales::EshopCommunity::Core::GenericImport::GenericImport']]],
   ['error_5fopening_5fsql_5ffile',['ERROR_OPENING_SQL_FILE',['../class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_database.html#ab21c686718bd04dfdac3dcf9b087e04f',1,'OxidEsales::EshopCommunity::Setup::Database']]],
   ['error_5fuser_5fno_5frights',['ERROR_USER_NO_RIGHTS',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_generic_import_1_1_generic_import.html#a0878601ad5a94bc22b42ae5a0c1e1af3',1,'OxidEsales::EshopCommunity::Core::GenericImport::GenericImport']]],
+  ['eshopformfieldstrimmerinterface',['EshopFormFieldsTrimmerInterface',['../class_eshop_form_fields_trimmer_interface.html',1,'']]],
   ['exceptionerrorcontroller',['ExceptionErrorController',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_exception_error_controller.html',1,'OxidEsales::EshopCommunity::Application::Controller']]],
   ['exceptionerrorcontroller_2ephp',['ExceptionErrorController.php',['../_exception_error_controller_8php.html',1,'']]],
   ['exceptionhandler',['ExceptionHandler',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_handler.html',1,'OxidEsales::EshopCommunity::Core::Exception']]],

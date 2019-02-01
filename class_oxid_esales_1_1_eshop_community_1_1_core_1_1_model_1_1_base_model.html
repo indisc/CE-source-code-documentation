@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">OXID eShop CE
-   &#160;<span id="projectnumber">6.0.0</span>
+   &#160;<span id="projectnumber">6.0.1</span>
    </div>
   </td>
  </tr>
@@ -91,6 +91,7 @@ $(document).ready(function(){initNavTree('class_oxid_esales_1_1_eshop_community_
 <a href="#pro-methods">Protected Member Functions</a> &#124;
 <a href="#pro-attribs">Protected Attributes</a> &#124;
 <a href="#pro-static-attribs">Static Protected Attributes</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model-members.html">List of all members</a>  </div>
   <div class="headertitle">
 <div class="title">OxidEsales\EshopCommunity\Core\Model\BaseModel Class Reference</div>  </div>
@@ -212,6 +213,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a2dd98d1388a817a4a1716a1737cbbe48"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4094922e3f3dc33c52edab20f696a41e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#a4094922e3f3dc33c52edab20f696a41e">getLanguage</a> ()</td></tr>
 <tr class="separator:a4094922e3f3dc33c52edab20f696a41e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a51b0663a32909fe3d3396216a25e4eee"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#a51b0663a32909fe3d3396216a25e4eee">isPropertyLoaded</a> ($name)</td></tr>
+<tr class="separator:a51b0663a32909fe3d3396216a25e4eee"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
@@ -243,8 +246,8 @@ Protected Member Functions</h2></td></tr>
 <tr class="separator:aabd9cecc027fd86647abbd878e2dc291"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acfaef04d83077a2e8727d69e2fa2747b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#acfaef04d83077a2e8727d69e2fa2747b">_getFieldLongName</a> ($fieldName)</td></tr>
 <tr class="separator:acfaef04d83077a2e8727d69e2fa2747b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3f18ee738601794ec878acd7513aef83"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#a3f18ee738601794ec878acd7513aef83">_setFieldData</a> ($fieldName, $fieldValue, $dataType=\OxidEsales\Eshop\Core\Field::T_TEXT)</td></tr>
-<tr class="separator:a3f18ee738601794ec878acd7513aef83"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adbdb38837a96f49c792a1ec15ec9e15b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#adbdb38837a96f49c792a1ec15ec9e15b">_setFieldData</a> ($fieldName, $fieldValue, $dataType=<a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_field.html#a8bef18b5d816a5d15c5f5594351d950e">Field::T_TEXT</a>)</td></tr>
+<tr class="separator:adbdb38837a96f49c792a1ec15ec9e15b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5875279b2fb923086702a1d7741492bf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#a5875279b2fb923086702a1d7741492bf">_canFieldBeNull</a> ($fieldName)</td></tr>
 <tr class="separator:a5875279b2fb923086702a1d7741492bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae7854eac1bb44c87a0f0b40539bc4223"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#ae7854eac1bb44c87a0f0b40539bc4223">_getFieldDefaultValue</a> ($fieldName)</td></tr>
@@ -319,6 +322,11 @@ Protected Attributes</h2></td></tr>
 Static Protected Attributes</h2></td></tr>
 <tr class="memitem:af329214d6c69fc01e2dd249178d482de"><td class="memItemLeft" align="right" valign="top">static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#af329214d6c69fc01e2dd249178d482de">$_blDisableFieldCaching</a> = []</td></tr>
 <tr class="separator:af329214d6c69fc01e2dd249178d482de"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a896cc5ef1a9bb1605833cb7cec0b29ce"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#a896cc5ef1a9bb1605833cb7cec0b29ce">isPropertyField</a> ($name)</td></tr>
+<tr class="separator:a896cc5ef1a9bb1605833cb7cec0b29ce"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
 <a id="a48bb4f13d7924eb1b7d0a6c51874160e"></a>
@@ -927,7 +935,7 @@ Static Protected Attributes</h2></td></tr>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramtype">string</td><td class="paramname">$fieldName</td><td>name of field </td></tr>
-    <tr><td class="paramtype">\OxidEsales\Eshop\Core\Field</td><td class="paramname">$field</td><td>field object</td></tr>
+    <tr><td class="paramtype"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_field.html">Field</a></td><td class="paramname">$field</td><td>field object</td></tr>
   </table>
   </dd>
 </dl>
@@ -1082,8 +1090,8 @@ Static Protected Attributes</h2></td></tr>
 
 </div>
 </div>
-<a id="a3f18ee738601794ec878acd7513aef83"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a3f18ee738601794ec878acd7513aef83">&#9670;&nbsp;</a></span>_setFieldData()</h2>
+<a id="adbdb38837a96f49c792a1ec15ec9e15b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adbdb38837a96f49c792a1ec15ec9e15b">&#9670;&nbsp;</a></span>_setFieldData()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -1107,7 +1115,7 @@ Static Protected Attributes</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">&#160;</td>
-          <td class="paramname"><em>$dataType</em> = <code>\OxidEsales\Eshop\Core\Field::T_TEXT</code>&#160;</td>
+          <td class="paramname"><em>$dataType</em> = <code><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_field.html#a8bef18b5d816a5d15c5f5594351d950e">Field::T_TEXT</a></code>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -2039,6 +2047,66 @@ Static Protected Attributes</h2></td></tr>
 
 </div>
 </div>
+<a id="a896cc5ef1a9bb1605833cb7cec0b29ce"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a896cc5ef1a9bb1605833cb7cec0b29ce">&#9670;&nbsp;</a></span>isPropertyField()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">OxidEsales\EshopCommunity\Core\Model\BaseModel::isPropertyField </td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>$name</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<p>Returns true if the property is a <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_field.html">Field</a>.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramtype">string</td><td class="paramname">$name</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>bool </dd></dl>
+
+</div>
+</div>
+<a id="a51b0663a32909fe3d3396216a25e4eee"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a51b0663a32909fe3d3396216a25e4eee">&#9670;&nbsp;</a></span>isPropertyLoaded()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">OxidEsales\EshopCommunity\Core\Model\BaseModel::isPropertyLoaded </td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>$name</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Returns true if the property is loaded.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramtype">string</td><td class="paramname">$name</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>bool </dd></dl>
+
+</div>
+</div>
 <a id="a9510f8165eb2a5e5abb58a1b8d9c0388"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a9510f8165eb2a5e5abb58a1b8d9c0388">&#9670;&nbsp;</a></span>isReadOnly()</h2>
 
@@ -2839,7 +2907,7 @@ Static Protected Attributes</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>/home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.0.0/vendor/oxid-esales/oxideshop-ce/source/Core/Model/<a class="el" href="_base_model_8php.html">BaseModel.php</a></li>
+<li>/home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.0.1/vendor/oxid-esales/oxideshop-ce/source/Core/Model/<a class="el" href="_base_model_8php.html">BaseModel.php</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

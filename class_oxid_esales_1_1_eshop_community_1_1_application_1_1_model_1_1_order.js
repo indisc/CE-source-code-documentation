@@ -113,6 +113,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order =
     [ "$_sShipTrackUrl", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#a406bcd881b3211f9e74e93bce8b611b9", null ],
     [ "ORDER_STATE_BELOWMINPRICE", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#a54f0a8d02d929a35e80c941946df7b33", null ],
     [ "ORDER_STATE_INVALIDDElADDRESSCHANGED", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#a6d97d974b1db694789462b84e52c17ca", null ],
+    [ "ORDER_STATE_INVALIDDELADDRESSCHANGED", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#a1cb9cf67e16d5f8731eb30d241a7995c", null ],
     [ "ORDER_STATE_INVALIDDELIVERY", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#a6b191d0208c9f4fe91941d6a2301dba7", null ],
     [ "ORDER_STATE_INVALIDPAYMENT", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#a46d65615b5b32a90ee78358ff00373aa", null ],
     [ "ORDER_STATE_MAILINGERROR", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#ab11eccced98efb98bc431e3ed5eb8cd5", null ],
