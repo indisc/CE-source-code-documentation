@@ -30,7 +30,7 @@ var searchData=
   ['paymentcountryajax_2ephp',['PaymentCountryAjax.php',['../_payment_country_ajax_8php.html',1,'']]],
   ['paymentgateway',['PaymentGateway',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_payment_gateway.html',1,'OxidEsales::EshopCommunity::Application::Model']]],
   ['paymentgateway_2ephp',['PaymentGateway.php',['../_payment_gateway_8php.html',1,'']]],
-  ['paymentlist',['PaymentList',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_payment_list.html',1,'OxidEsales\EshopCommunity\Application\Model\PaymentList'],['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_payment_list.html',1,'OxidEsales\EshopCommunity\Application\Controller\Admin\PaymentList']]],
+  ['paymentlist',['PaymentList',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_payment_list.html',1,'OxidEsales\EshopCommunity\Application\Controller\Admin\PaymentList'],['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_payment_list.html',1,'OxidEsales\EshopCommunity\Application\Model\PaymentList']]],
   ['paymentlist_2ephp',['PaymentList.php',['../_controller_2_admin_2_payment_list_8php.html',1,'(Global Namespace)'],['../_model_2_payment_list_8php.html',1,'(Global Namespace)']]],
   ['paymentmain',['PaymentMain',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_payment_main.html',1,'OxidEsales::EshopCommunity::Application::Controller::Admin']]],
   ['paymentmain_2ephp',['PaymentMain.php',['../_payment_main_8php.html',1,'']]],

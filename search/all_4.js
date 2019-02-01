@@ -227,7 +227,7 @@ var searchData=
   ['content_2ephp',['Content.php',['../_content_8php.html',1,'']]],
   ['contentcontroller',['ContentController',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_content_controller.html',1,'OxidEsales::EshopCommunity::Application::Controller']]],
   ['contentcontroller_2ephp',['ContentController.php',['../_content_controller_8php.html',1,'']]],
-  ['contentlist',['ContentList',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_content_list.html',1,'OxidEsales\EshopCommunity\Application\Controller\Admin\ContentList'],['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_content_list.html',1,'OxidEsales\EshopCommunity\Application\Model\ContentList']]],
+  ['contentlist',['ContentList',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_content_list.html',1,'OxidEsales\EshopCommunity\Application\Model\ContentList'],['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_content_list.html',1,'OxidEsales\EshopCommunity\Application\Controller\Admin\ContentList']]],
   ['contentlist_2ephp',['ContentList.php',['../_controller_2_admin_2_content_list_8php.html',1,'(Global Namespace)'],['../_model_2_content_list_8php.html',1,'(Global Namespace)']]],
   ['contentmain',['ContentMain',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_content_main.html',1,'OxidEsales::EshopCommunity::Application::Controller::Admin']]],
   ['contentmain_2ephp',['ContentMain.php',['../_content_main_8php.html',1,'']]],

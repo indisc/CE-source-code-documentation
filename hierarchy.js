@@ -8,6 +8,7 @@ var hierarchy =
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\AccountOrderController", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_order_controller.html", null ],
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\AccountPasswordController", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_password_controller.html", null ],
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\AccountRecommlistController", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_recommlist_controller.html", null ],
+      [ "OxidEsales\\EshopCommunity\\Application\\Controller\\AccountReviewController", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_review_controller.html", null ],
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\AccountUserController", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_user_controller.html", null ],
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\AccountWishlistController", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_wishlist_controller.html", null ]
     ] ],
@@ -406,9 +407,7 @@ var hierarchy =
     ] ],
     [ "FrontendController", null, [
       [ "OxidEsales\\EshopCommunity\\Application\\Component\\Widget\\WidgetController", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_widget_1_1_widget_controller.html", null ],
-      [ "OxidEsales\\EshopCommunity\\Application\\Controller\\AccountController", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html", [
-        [ "OxidEsales\\EshopCommunity\\Application\\Controller\\AccountReviewController", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_review_controller.html", null ]
-      ] ],
+      [ "OxidEsales\\EshopCommunity\\Application\\Controller\\AccountController", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html", null ],
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\ArticleDetailsController", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_article_details_controller.html", null ],
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\ArticleListController", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_article_list_controller.html", null ],
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\BasketController", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_basket_controller.html", null ],
@@ -813,7 +812,8 @@ var hierarchy =
       [ "OxidEsales\\EshopCommunity\\Migrations\\Version20171018144650", "class_oxid_esales_1_1_eshop_community_1_1_migrations_1_1_version20171018144650.html", null ],
       [ "OxidEsales\\EshopCommunity\\Migrations\\Version20180214152228", "class_oxid_esales_1_1_eshop_community_1_1_migrations_1_1_version20180214152228.html", null ],
       [ "OxidEsales\\EshopCommunity\\Migrations\\Version20180228160418", "class_oxid_esales_1_1_eshop_community_1_1_migrations_1_1_version20180228160418.html", null ],
-      [ "OxidEsales\\EshopCommunity\\Migrations\\Version20180703135728", "class_oxid_esales_1_1_eshop_community_1_1_migrations_1_1_version20180703135728.html", null ]
+      [ "OxidEsales\\EshopCommunity\\Migrations\\Version20180703135728", "class_oxid_esales_1_1_eshop_community_1_1_migrations_1_1_version20180703135728.html", null ],
+      [ "OxidEsales\\EshopCommunity\\Migrations\\Version20180928072235", "class_oxid_esales_1_1_eshop_community_1_1_migrations_1_1_version20180928072235.html", null ]
     ] ],
     [ "AbstractUpdatableFields", null, [
       [ "OxidEsales\\EshopCommunity\\Application\\Model\\User\\UserShippingAddressUpdatableFields", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user_1_1_user_shipping_address_updatable_fields.html", null ],

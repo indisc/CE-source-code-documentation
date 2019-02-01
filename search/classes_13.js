@@ -2,7 +2,7 @@ var searchData=
 [
   ['universallyuniqueidgenerator',['UniversallyUniqueIdGenerator',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_universally_unique_id_generator.html',1,'OxidEsales::EshopCommunity::Core']]],
   ['updatablefieldsconstructor',['UpdatableFieldsConstructor',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_form_1_1_updatable_fields_constructor.html',1,'OxidEsales::EshopCommunity::Core::Form']]],
-  ['user',['User',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user.html',1,'OxidEsales\EshopCommunity\Application\Model\User'],['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_generic_import_1_1_import_object_1_1_user.html',1,'OxidEsales\EshopCommunity\Core\GenericImport\ImportObject\User']]],
+  ['user',['User',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_generic_import_1_1_import_object_1_1_user.html',1,'OxidEsales\EshopCommunity\Core\GenericImport\ImportObject\User'],['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user.html',1,'OxidEsales\EshopCommunity\Application\Model\User']]],
   ['useraddress',['UserAddress',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_user_address.html',1,'OxidEsales::EshopCommunity::Application::Controller::Admin']]],
   ['useraddresslist',['UserAddressList',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user_address_list.html',1,'OxidEsales::EshopCommunity::Application::Model']]],
   ['userarticle',['UserArticle',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_user_article.html',1,'OxidEsales::EshopCommunity::Application::Controller::Admin']]],

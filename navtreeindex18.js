@@ -1,5 +1,8 @@
 var NAVTREEINDEX18 =
 {
+"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_delivery_list.html":[2,0,0,0,0,2,22],
+"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_delivery_list.html#a0b288ab0596bb0207295363367569fa5":[2,0,0,0,0,2,22,3],
+"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_delivery_list.html#a329bf8e6cfe915a1eca41395f17ee49c":[2,0,0,0,0,2,22,9],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_delivery_list.html#a3b3af63f6e1b69d7e9db2f738f383f06":[2,0,0,0,0,2,22,13],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_delivery_list.html#a3caff1446bfa738950aec87d151747c5":[2,0,0,0,0,2,22,12],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_delivery_list.html#a6151378f6fc5e7d204f0d4fb38fde5df":[2,0,0,0,0,2,22,8],
@@ -246,8 +249,5 @@ var NAVTREEINDEX18 =
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_manufacturer.html#ad88b9d618f656c45facb619f1f265b8b":[2,0,0,0,0,2,37,0],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_manufacturer.html#ade9d184916bed7f85317b1c7b76a6fa4":[2,0,0,0,0,2,37,3],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_manufacturer.html#adeba3d6ed93893b03d169115d14399ae":[2,0,0,0,0,2,37,28],
-"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_manufacturer.html#ae1effe741c6cc41714cef5337d932d98":[2,0,0,0,0,2,37,18],
-"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_manufacturer.html#aea0cf199aa855fffe3abfdcfa1b09b35":[2,0,0,0,0,2,37,9],
-"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_manufacturer.html#aedee311fbb1177ef5dec45beb7b24a70":[2,0,0,0,0,2,37,1],
-"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_manufacturer.html#af50b3618cdcd0c87237995efd388c3e0":[2,0,0,0,0,2,37,26]
+"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_manufacturer.html#ae1effe741c6cc41714cef5337d932d98":[2,0,0,0,0,2,37,18]
 };

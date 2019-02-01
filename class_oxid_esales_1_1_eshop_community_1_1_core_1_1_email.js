@@ -88,6 +88,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_core_1_1_email =
     [ "setUseInlineImages", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_email.html#a39595d7e90654df98adf8d329c8b7de1", null ],
     [ "setUser", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_email.html#ae623ee399ec31c372856deb3d14758a8", null ],
     [ "setViewData", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_email.html#a730ded990f34bb2703cdd52240782f13", null ],
+    [ "shouldProductReviewLinksBeIncluded", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_email.html#a2b3bf8b93d830bb01a6c2cb9f7f239ed", null ],
     [ "$_aAttachments", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_email.html#a114255bd72fa5f2306af5acd2011661b", null ],
     [ "$_aRecipients", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_email.html#ab897b787e993895800f3fb185c032dca", null ],
     [ "$_aReplies", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_email.html#a0b0cec85615dbe82f8c803afeb1c45df", null ],

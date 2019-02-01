@@ -1,5 +1,8 @@
 var NAVTREEINDEX24 =
 {
+"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_config.html#ae18e2a933266b55cf9e93bb779a85c15":[2,0,0,0,1,23,10],
+"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_config.html#ae23ec7993f3d3d619c6f2a151f613535":[2,0,0,0,1,23,123],
+"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_config.html#ae3adeeb52c9bbb2c4e4c7bf73f14169a":[2,0,0,0,1,23,140],
 "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_config.html#ae40f1c979a8346dd57490b3e08e9daa7":[2,0,0,0,1,23,71],
 "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_config.html#aec344c55e5c8adbf2753d701b09498e8":[2,0,0,0,1,23,74],
 "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_config.html#aece2a99dae5762ada1f316cfdea8a931":[2,0,0,0,1,23,146],
@@ -246,8 +249,5 @@ var NAVTREEINDEX24 =
 "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_database_1_1_adapter_1_1_doctrine_1_1_database.html#aea1712d5a06dbe8561c5f714bd1ff5ae":[2,0,0,0,1,4,0,0,0,22],
 "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_database_1_1_adapter_1_1_doctrine_1_1_database.html#aec786ab59bcc46117603f63dfaa94f90":[2,0,0,0,1,4,0,0,0,32],
 "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_database_1_1_adapter_1_1_doctrine_1_1_database.html#aed2457a10f0a9147a435bae23b0fbc93":[2,0,0,0,1,4,0,0,0,27],
-"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_database_1_1_adapter_1_1_doctrine_1_1_database.html#af1d70377353b766dbf1b884bfa17444e":[2,0,0,0,1,4,0,0,0,5],
-"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_database_1_1_adapter_1_1_doctrine_1_1_database.html#af9d0eeb585d78977664f33eec0135d80":[2,0,0,0,1,4,0,0,0,36],
-"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_database_1_1_adapter_1_1_doctrine_1_1_database.html#afa4f28adea9b11554f9d5b05d3662b5d":[2,0,0,0,1,4,0,0,0,9],
-"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_database_1_1_adapter_1_1_doctrine_1_1_database.html#afc96c75ce45dcefdb0a2312f4eceb440":[2,0,0,0,1,4,0,0,0,48]
+"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_database_1_1_adapter_1_1_doctrine_1_1_database.html#af1d70377353b766dbf1b884bfa17444e":[2,0,0,0,1,4,0,0,0,5]
 };

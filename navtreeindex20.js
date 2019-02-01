@@ -1,5 +1,8 @@
 var NAVTREEINDEX20 =
 {
+"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order_article.html#a1267895e3a38f446c246e06c2f57823c":[2,0,0,0,0,2,48,45],
+"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order_article.html#a13424c8b6f2447608ac47f7fbd72d80b":[2,0,0,0,0,2,48,16],
+"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order_article.html#a18f0cd517b1e53af8e02e847c6be29d1":[2,0,0,0,0,2,48,30],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order_article.html#a1be45e7d8124e7078357c9979d5e840f":[2,0,0,0,0,2,48,2],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order_article.html#a1fd75fcba2d507a4c16a2a81658c08a3":[2,0,0,0,0,2,48,9],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order_article.html#a21c55e94f687bf64264bd8c6b821127f":[2,0,0,0,0,2,48,32],
@@ -246,8 +249,5 @@ var NAVTREEINDEX20 =
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rss_feed.html#a857c2e96d8f0e48cd88b0ba529f9723d":[2,0,0,0,0,2,63,36],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rss_feed.html#a8c01bd418ee320f3a690cc683cc7dbcb":[2,0,0,0,0,2,63,35],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rss_feed.html#a9dee00ac54f4b4fa853df5a548dd3292":[2,0,0,0,0,2,63,8],
-"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rss_feed.html#aa7c1d81692369e611bcad0b760d3d20d":[2,0,0,0,0,2,63,40],
-"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rss_feed.html#aa7d3995bf2ab0960b5b893d050dc80fc":[2,0,0,0,0,2,63,6],
-"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rss_feed.html#aa823360e68eba1718f6d7d2a8a4706fe":[2,0,0,0,0,2,63,1],
-"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rss_feed.html#aaf3b03c4f1c55eedb66b6f5ca1e7d11f":[2,0,0,0,0,2,63,19]
+"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rss_feed.html#aa7c1d81692369e611bcad0b760d3d20d":[2,0,0,0,0,2,63,40]
 };

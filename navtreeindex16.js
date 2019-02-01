@@ -1,5 +1,8 @@
 var NAVTREEINDEX16 =
 {
+"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_basket.html#a08f1a42b3241493669bc817f025c39da":[2,0,0,0,0,2,10,167],
+"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_basket.html#a0b8829970a5b0eaded002a911b8adf73":[2,0,0,0,0,2,10,85],
+"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_basket.html#a0c05b409c7e6b6f2368200dd4f931586":[2,0,0,0,0,2,10,34],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_basket.html#a0d606350611fa1aae6e7cf0fa2cf8691":[2,0,0,0,0,2,10,165],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_basket.html#a0ecf011e5f5dfb5cc53b7dfa3ccdeee5":[2,0,0,0,0,2,10,82],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_basket.html#a0f127c12469a70f282326f0f3a3785b5":[2,0,0,0,0,2,10,168],
@@ -246,8 +249,5 @@ var NAVTREEINDEX16 =
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_basket_item.html#ac01267cca677ba3ebc4922182a9f28d2":[2,0,0,0,0,2,12,47],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_basket_item.html#acaf3dc6dba4ac922f7867ff8591e494b":[2,0,0,0,0,2,12,53],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_basket_item.html#acdb677344c188b6725156ea9264640c1":[2,0,0,0,0,2,12,50],
-"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_basket_item.html#ace57fea0a1d92f6f596cc7283e32c38a":[2,0,0,0,0,2,12,22],
-"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_basket_item.html#ad7022fb08e68e916000c3db9e8fca2ee":[2,0,0,0,0,2,12,19],
-"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_basket_item.html#ad75ce7b6a0ecc634525edde46461e10a":[2,0,0,0,0,2,12,11],
-"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_basket_item.html#adf4e1800f4cb5ac89a6fec8826b52cb9":[2,0,0,0,0,2,12,27]
+"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_basket_item.html#ace57fea0a1d92f6f596cc7283e32c38a":[2,0,0,0,0,2,12,22]
 };
