@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.16"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>OXID eShop CE: /home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.0.2/vendor/oxid-esales/oxideshop-ce/source/bootstrap.php File Reference</title>
+<title>OXID eShop CE: /home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.1.0/vendor/oxid-esales/oxideshop-ce/source/bootstrap.php File Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">OXID eShop CE
-   &#160;<span id="projectnumber">6.0.2</span>
+   &#160;<span id="projectnumber">6.1.0</span>
    </div>
   </td>
  </tr>
@@ -113,7 +113,7 @@ Variables</h2></td></tr>
 <tr class="separator:ae740077a7f86ed1f0b4bdfee5ddfd952"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a94a17c4dc26c561ab2b4a21985668d84"><td class="memItemLeft" align="right" valign="top">const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="bootstrap_8php.html#a94a17c4dc26c561ab2b4a21985668d84">OX_BASE_PATH</a> <a class="el" href="bootstrap_8php.html#ae740077a7f86ed1f0b4bdfee5ddfd952">INSTALLATION_ROOT_PATH</a> . DIRECTORY_SEPARATOR . 'source' . DIRECTORY_SEPARATOR</td></tr>
 <tr class="separator:a94a17c4dc26c561ab2b4a21985668d84"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af4a27cb07df2134ada70f570ddf7492f"><td class="memItemLeft" align="right" valign="top">const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="bootstrap_8php.html#af4a27cb07df2134ada70f570ddf7492f">OX_LOG_FILE</a> <a class="el" href="bootstrap_8php.html#a94a17c4dc26c561ab2b4a21985668d84">OX_BASE_PATH</a> . 'log' . DIRECTORY_SEPARATOR . 'EXCEPTION_LOG.txt'</td></tr>
+<tr class="memitem:af4a27cb07df2134ada70f570ddf7492f"><td class="memItemLeft" align="right" valign="top">const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="bootstrap_8php.html#af4a27cb07df2134ada70f570ddf7492f">OX_LOG_FILE</a> <a class="el" href="bootstrap_8php.html#a94a17c4dc26c561ab2b4a21985668d84">OX_BASE_PATH</a> . 'log' . DIRECTORY_SEPARATOR . 'oxideshop.log'</td></tr>
 <tr class="separator:af4a27cb07df2134ada70f570ddf7492f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9a5694b11ff00dae5536b3dd47ee1397"><td class="memItemLeft" align="right" valign="top">const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="bootstrap_8php.html#a9a5694b11ff00dae5536b3dd47ee1397">OX_OFFLINE_FILE</a> <a class="el" href="bootstrap_8php.html#a94a17c4dc26c561ab2b4a21985668d84">OX_BASE_PATH</a> . 'offline.html'</td></tr>
 <tr class="separator:a9a5694b11ff00dae5536b3dd47ee1397"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -123,14 +123,14 @@ Variables</h2></td></tr>
 <tr class="separator:a51b833f92d5186f57bfd0d585b1a4b5a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aeb865a2c56964b1078b59e1331df011e"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="bootstrap_8php.html#aeb865a2c56964b1078b59e1331df011e">$configMissing</a> = !is_readable(<a class="el" href="bootstrap_8php.html#a94a17c4dc26c561ab2b4a21985668d84">OX_BASE_PATH</a> . &quot;config.inc.php&quot;)</td></tr>
 <tr class="separator:aeb865a2c56964b1078b59e1331df011e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af1508928f52837091aef6e7570f541eb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="dbconnect_8php.html#ae26aea1c8fc7e4349e099a69205c1d24">if</a>($configMissing||!is_readable(<a class="el" href="bootstrap_8php.html#ad795422a85219c63de806a3a5a454726">VENDOR_PATH</a> . 'autoload.php'))&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="bootstrap_8php.html#af1508928f52837091aef6e7570f541eb">$bootstrapConfigFileReader</a> = new \<a class="el" href="class_bootstrap_config_file_reader.html">BootstrapConfigFileReader</a>()</td></tr>
-<tr class="separator:af1508928f52837091aef6e7570f541eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a515bb98e7f614e7757764e3ccd763186"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="bootstrap_8php.html#a515bb98e7f614e7757764e3ccd763186">if</a> ( $bootstrapConfigFileReader-&gt;isDebugMode())</td></tr>
-<tr class="separator:a515bb98e7f614e7757764e3ccd763186"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aacc8908fd52fedb1fe3afc54de58ba8a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="bootstrap_8php.html#aacc8908fd52fedb1fe3afc54de58ba8a">$bootstrapConfigFileReader</a> = new \<a class="el" href="class_bootstrap_config_file_reader.html">BootstrapConfigFileReader</a>()</td></tr>
+<tr class="separator:aacc8908fd52fedb1fe3afc54de58ba8a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3e265c431ca42bf2f20753540bb64d00"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="bootstrap_8php.html#a3e265c431ca42bf2f20753540bb64d00">$configFile</a> = new \OxidEsales\Eshop\Core\ConfigFile(<a class="el" href="bootstrap_8php.html#a94a17c4dc26c561ab2b4a21985668d84">OX_BASE_PATH</a> . &quot;config.inc.php&quot;)</td></tr>
 <tr class="separator:a3e265c431ca42bf2f20753540bb64d00"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a48e0b8a12c6e890d450e4de90e467848"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="bootstrap_8php.html#a48e0b8a12c6e890d450e4de90e467848">$debugMode</a> = (bool) \OxidEsales\Eshop\Core\Registry::get(\OxidEsales\Eshop\Core\ConfigFile::class)-&gt;getVar('iDebug')</td></tr>
 <tr class="separator:a48e0b8a12c6e890d450e4de90e467848"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aee19aa8104e1c98d5a41a98c51691b12"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="bootstrap_8php.html#aee19aa8104e1c98d5a41a98c51691b12">if</a> ( @is_readable(<a class="el" href="bootstrap_8php.html#a94a17c4dc26c561ab2b4a21985668d84">OX_BASE_PATH</a> . 'modules/functions.php'))</td></tr>
+<tr class="separator:aee19aa8104e1c98d5a41a98c51691b12"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
 <a id="a83cb4c9d0f13a0f28cc42056124c33de"></a>
@@ -166,6 +166,7 @@ Variables</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
+<dl class="deprecated"><dt><b><a class="el" href="deprecated.html#_deprecated000161">Deprecated:</a></b></dt><dd>since v6.3 (2018-04-18); This method will be removed completely. Use <a class="el" href="namespace_oxid_esales.html">OxidEsales</a>\Eshop\Core\Registry::getLogger() in the future.</dd></dl>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramtype">string</td><td class="paramname">$message</td><td></td></tr>
@@ -176,14 +177,14 @@ Variables</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Variable Documentation</h2>
-<a id="af1508928f52837091aef6e7570f541eb"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#af1508928f52837091aef6e7570f541eb">&#9670;&nbsp;</a></span>$bootstrapConfigFileReader</h2>
+<a id="aacc8908fd52fedb1fe3afc54de58ba8a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aacc8908fd52fedb1fe3afc54de58ba8a">&#9670;&nbsp;</a></span>$bootstrapConfigFileReader</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="dbconnect_8php.html#ae26aea1c8fc7e4349e099a69205c1d24">if</a> ( $configMissing||!is_readable(<a class="el" href="bootstrap_8php.html#ad795422a85219c63de806a3a5a454726">VENDOR_PATH</a> . 'autoload.php')) $bootstrapConfigFileReader = new \<a class="el" href="class_bootstrap_config_file_reader.html">BootstrapConfigFileReader</a>()</td>
+          <td class="memname">$bootstrapConfigFileReader = new \<a class="el" href="class_bootstrap_config_file_reader.html">BootstrapConfigFileReader</a>()</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -252,18 +253,17 @@ Variables</h2></td></tr>
 
 </div>
 </div>
-<a id="a515bb98e7f614e7757764e3ccd763186"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a515bb98e7f614e7757764e3ccd763186">&#9670;&nbsp;</a></span>if</h2>
+<a id="aee19aa8104e1c98d5a41a98c51691b12"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aee19aa8104e1c98d5a41a98c51691b12">&#9670;&nbsp;</a></span>if</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">if(is_readable(<a class="el" href="bootstrap_8php.html#a94a17c4dc26c561ab2b4a21985668d84">OX_BASE_PATH</a> . 'modules/functions.php'))</td>
+          <td class="memname">if(@is_readable(<a class="el" href="bootstrap_8php.html#a94a17c4dc26c561ab2b4a21985668d84">OX_BASE_PATH</a> . 'modules/functions.php'))</td>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Register basic the autoloaders. In this phase we still do not want to use other shop classes to make autoloading as decoupled as possible.</p>
 <p>Generic utility method file. The global object factory function oxNew is defined here.Custom bootstrap functionality.The functions defined conditionally in this file may have been overwritten in 'modules/functions.php', so their functionality may have changed completely. </p>
 
 </div>
@@ -303,7 +303,7 @@ Variables</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">const OX_LOG_FILE <a class="el" href="bootstrap_8php.html#a94a17c4dc26c561ab2b4a21985668d84">OX_BASE_PATH</a> . 'log' . DIRECTORY_SEPARATOR . 'EXCEPTION_LOG.txt'</td>
+          <td class="memname">const OX_LOG_FILE <a class="el" href="bootstrap_8php.html#a94a17c4dc26c561ab2b4a21985668d84">OX_BASE_PATH</a> . 'log' . DIRECTORY_SEPARATOR . 'oxideshop.log'</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -343,7 +343,7 @@ Variables</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a class="el" href="dir_43e0a1f539e00dcfa1a6bc4d4fee4fc2.html">home</a></li><li class="navelem"><a class="el" href="dir_90980a26345ad243c32d02bfe0eaddee.html">marco</a></li><li class="navelem"><a class="el" href="dir_64a234a2509d8775bc2e549be58cb746.html">public</a></li><li class="navelem"><a class="el" href="dir_8ccaad48954ce55f12b4a05196a5012c.html">OXID_ESHOP_CE</a></li><li class="navelem"><a class="el" href="dir_43efcefea49c9433f8b2c99fff31d2c6.html">OXID_ESHOP_CE_6.0.2</a></li><li class="navelem"><a class="el" href="dir_3ed6fc5c7369bc25e5a06be359f6bfad.html">vendor</a></li><li class="navelem"><a class="el" href="dir_19181a4d3888956f55f5aaf985c1ccec.html">oxid-esales</a></li><li class="navelem"><a class="el" href="dir_0b9fb70ca6c1bebd2e2360ac3b22968d.html">oxideshop-ce</a></li><li class="navelem"><a class="el" href="dir_c0001e27de7d00f8ac6501bf5ed12d64.html">source</a></li><li class="navelem"><a class="el" href="bootstrap_8php.html">bootstrap.php</a></li>
+    <li class="navelem"><a class="el" href="dir_43e0a1f539e00dcfa1a6bc4d4fee4fc2.html">home</a></li><li class="navelem"><a class="el" href="dir_90980a26345ad243c32d02bfe0eaddee.html">marco</a></li><li class="navelem"><a class="el" href="dir_64a234a2509d8775bc2e549be58cb746.html">public</a></li><li class="navelem"><a class="el" href="dir_8ccaad48954ce55f12b4a05196a5012c.html">OXID_ESHOP_CE</a></li><li class="navelem"><a class="el" href="dir_794594169f59fb6a7d8e5cb8e2587f15.html">OXID_ESHOP_CE_6.1.0</a></li><li class="navelem"><a class="el" href="dir_c65c58deb5c25a5d1d8d5d68ff4a0596.html">vendor</a></li><li class="navelem"><a class="el" href="dir_259210ec5be66186b7b09923d5eec9a0.html">oxid-esales</a></li><li class="navelem"><a class="el" href="dir_2f7b8cb596991478647ed15f578b75cb.html">oxideshop-ce</a></li><li class="navelem"><a class="el" href="dir_f62915d783d6f8922121055dce399b5d.html">source</a></li><li class="navelem"><a class="el" href="bootstrap_8php.html">bootstrap.php</a></li>
     <li class="footer">Generated by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.16 </li>

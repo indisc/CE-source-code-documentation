@@ -3,7 +3,6 @@ var class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rating =
     [ "__construct", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rating.html#afb0436dfb0d16474018efd810fea1cdc", null ],
     [ "allowRating", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rating.html#ab0f940d032c0425309dc58a9b2acfe05", null ],
     [ "delete", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rating.html#a5af736522a78768ae4f322150d9f7119", null ],
-    [ "getContainer", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rating.html#a447354335efa44f8774c351db98af85f", null ],
     [ "getObjectId", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rating.html#a57d8b0374f7fe773f816c8584cc7fd2a", null ],
     [ "getObjectType", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rating.html#adeb15fdbbaca21ea37a32cf5141f46f9", null ],
     [ "getRatingAverage", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rating.html#a3ac7d957c08909decb6ef9cabb58c2d5", null ],

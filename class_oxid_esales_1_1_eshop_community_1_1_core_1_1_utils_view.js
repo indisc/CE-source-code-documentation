@@ -10,8 +10,12 @@ var class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_view =
     [ "fillTemplateBlockWithContent", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_view.html#a4ff16454f65f0d87231a87f7ca9365f6", null ],
     [ "filterTemplateBlocks", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_view.html#ae28103ae2095db4f5627ed3f35978b2c", null ],
     [ "formListOfDuplicatedBlocks", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_view.html#ad79b628c06c18c175a70c09b9c8426c7", null ],
+    [ "getModuleSmartyPluginDirectories", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_view.html#aaa121c6f8681e3f4c61dbc2a703d1ca3", null ],
+    [ "getShopIdCalculator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_view.html#a29fd98b4b34b702bf15c8951407da644", null ],
+    [ "getShopSmartyPluginDirectories", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_view.html#a1915ea2afec7a337d31a0cf249600a33", null ],
     [ "getSmarty", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_view.html#ab54acfdb7e52fff458197337bfb255c4", null ],
     [ "getSmartyDir", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_view.html#a7ec0f426075e92d1abce7381b801e0de", null ],
+    [ "getSmartyPluginDirectoryRepository", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_view.html#a587f2b6c7782c08ef1ebf709ff216ea0", null ],
     [ "getTemplateBlocks", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_view.html#a73eba92beb5f8d3edb47f441ec243ecd", null ],
     [ "getTemplateCompileId", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_view.html#aca7b9b0cf582c1c576f42529db99e597", null ],
     [ "getTemplateDirs", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_view.html#a9b615364a54ced1031d316742ff3ab87", null ],
@@ -26,5 +30,6 @@ var class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_view =
     [ "$_aActiveModuleInfo", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_view.html#acc39e4bece74b064fede37376aedd81c", null ],
     [ "$_aTemplateDir", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_view.html#aac3b2f98011e66fc14b6902776272cc7", null ],
     [ "$_blIsTplBlocks", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_view.html#a6041dd2869771ebb7ebee63db993b0e5", null ],
-    [ "$_oSmarty", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_view.html#a8204132b8624142d4424f1b326d33223", null ]
+    [ "$_oSmarty", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_view.html#a8204132b8624142d4424f1b326d33223", null ],
+    [ "$shopIdCalculator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_view.html#a522f71afa93f88046b269e289a440c8c", null ]
 ];

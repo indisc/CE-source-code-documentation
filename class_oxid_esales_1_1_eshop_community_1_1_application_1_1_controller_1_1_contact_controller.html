@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">OXID eShop CE
-   &#160;<span id="projectnumber">6.0.2</span>
+   &#160;<span id="projectnumber">6.1.0</span>
    </div>
   </td>
  </tr>
@@ -89,6 +89,7 @@ $(document).ready(function(){initNavTree('class_oxid_esales_1_1_eshop_community_
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pro-attribs">Protected Attributes</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller-members.html">List of all members</a>  </div>
   <div class="headertitle">
 <div class="title">OxidEsales\EshopCommunity\Application\Controller\ContactController Class Reference</div>  </div>
@@ -119,6 +120,8 @@ $(document).ready(function(){initNavTree('class_oxid_esales_1_1_eshop_community_
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
+<tr class="memitem:a885912283f647735c7be0df36e0b41b4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller.html#a885912283f647735c7be0df36e0b41b4">render</a> ()</td></tr>
+<tr class="separator:a885912283f647735c7be0df36e0b41b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a619f44eef8694d1ea73e876cbc3348be"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller.html#a619f44eef8694d1ea73e876cbc3348be">send</a> ()</td></tr>
 <tr class="separator:a619f44eef8694d1ea73e876cbc3348be"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aaf1a59f3661d0398c77dbad874516d4a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller.html#aaf1a59f3661d0398c77dbad874516d4a">getUserData</a> ()</td></tr>
@@ -148,6 +151,13 @@ Protected Attributes</h2></td></tr>
 <tr class="separator:a24137dc132bb41ad4dfd9c1b2c67f150"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9abb8d73a3d6c6a1c1aa9a2a3c78c76a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller.html#a9abb8d73a3d6c6a1c1aa9a2a3c78c76a">$_iViewIndexState</a> = <a class="el" href="namespace_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller.html#a28426bdc57943d3318ae71c40ffffafc">VIEW_INDEXSTATE_NOINDEXNOFOLLOW</a></td></tr>
 <tr class="separator:a9abb8d73a3d6c6a1c1aa9a2a3c78c76a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a3584cef7808f5aaeaed042f651712101"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller.html#a3584cef7808f5aaeaed042f651712101">getMappedContactFormRequest</a> ()</td></tr>
+<tr class="separator:a3584cef7808f5aaeaed042f651712101"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aff4076531d2ee91597aaf702300901c6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller.html#aff4076531d2ee91597aaf702300901c6">sendContactMail</a> ($email, $subject, $message)</td></tr>
+<tr class="separator:aff4076531d2ee91597aaf702300901c6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>Contact window. Arranges "CONTACT" window, by creating form for user opinion (etc.) submission. After user correctly fulfils all required fields all information is sent to shop owner by email. OXID eShop -&gt; CONTACT. </p>
@@ -228,6 +238,32 @@ Protected Attributes</h2></td></tr>
 
 </div>
 </div>
+<a id="a3584cef7808f5aaeaed042f651712101"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3584cef7808f5aaeaed042f651712101">&#9670;&nbsp;</a></span>getMappedContactFormRequest()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">OxidEsales\EshopCommunity\Application\Controller\ContactController::getMappedContactFormRequest </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<dl class="section return"><dt>Returns</dt><dd>array </dd></dl>
+
+</div>
+</div>
 <a id="a080077839d592f6ccecda5e1f8a89ca5"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a080077839d592f6ccecda5e1f8a89ca5">&#9670;&nbsp;</a></span>getTitle()</h2>
 
@@ -266,6 +302,24 @@ Protected Attributes</h2></td></tr>
 
 </div>
 </div>
+<a id="a885912283f647735c7be0df36e0b41b4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a885912283f647735c7be0df36e0b41b4">&#9670;&nbsp;</a></span>render()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">OxidEsales\EshopCommunity\Application\Controller\ContactController::render </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<dl class="section return"><dt>Returns</dt><dd>string </dd></dl>
+
+</div>
+</div>
 <a id="a619f44eef8694d1ea73e876cbc3348be"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a619f44eef8694d1ea73e876cbc3348be">&#9670;&nbsp;</a></span>send()</h2>
 
@@ -282,6 +336,57 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 <p>Composes and sends user written message, returns false if some parameters are missing.</p>
 <dl class="section return"><dt>Returns</dt><dd>bool </dd></dl>
+
+</div>
+</div>
+<a id="aff4076531d2ee91597aaf702300901c6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aff4076531d2ee91597aaf702300901c6">&#9670;&nbsp;</a></span>sendContactMail()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">OxidEsales\EshopCommunity\Application\Controller\ContactController::sendContactMail </td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>$email</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>$subject</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>$message</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<p>Send a contact mail.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramtype">string</td><td class="paramname">$email</td><td></td></tr>
+    <tr><td class="paramtype">string</td><td class="paramname">$subject</td><td></td></tr>
+    <tr><td class="paramtype">string</td><td class="paramname">$message</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
 
 </div>
 </div>
@@ -419,7 +524,7 @@ Protected Attributes</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>/home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.0.2/vendor/oxid-esales/oxideshop-ce/source/Application/Controller/<a class="el" href="_contact_controller_8php.html">ContactController.php</a></li>
+<li>/home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.1.0/vendor/oxid-esales/oxideshop-ce/source/Application/Controller/<a class="el" href="_contact_controller_8php.html">ContactController.php</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

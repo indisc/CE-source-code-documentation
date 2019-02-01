@@ -41,6 +41,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model =
     [ "executeDatabaseQuery", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#adff5ff3c95fcd21ca2ca3edb95fe6ab3", null ],
     [ "exists", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#a7069f8c1b85def6699137c5e743b5f54", null ],
     [ "getClassName", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#a43a55ac3e340f4dc7a7b6148fc122b76", null ],
+    [ "getContainer", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#a62d2b3e8c679abc8dbfb946c2112c158", null ],
     [ "getCoreTableName", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#afa930dc9242666f77ccde68abb49b858", null ],
     [ "getFieldData", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#a77f2e48c7ee9ffdd5f56492e0033e7f4", null ],
     [ "getFieldNames", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#ab250c8a2e1fba23db4d956147448e8b9", null ],

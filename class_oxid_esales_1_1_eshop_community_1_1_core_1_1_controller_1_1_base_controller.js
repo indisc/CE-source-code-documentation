@@ -13,6 +13,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_core_1_1_controller_1_1_base_contr
     [ "getClassKey", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_controller_1_1_base_controller.html#aa24ae7189fbdced6d61256874b175b1c", null ],
     [ "getClassLocation", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_controller_1_1_base_controller.html#a5f8c9163abf6148de0d35b4157320653", null ],
     [ "getClassName", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_controller_1_1_base_controller.html#a0b5c240d2cd6d4d5d00bd6f0c25f9071", null ],
+    [ "getContainer", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_controller_1_1_base_controller.html#a90aab5feeda7cd0ae26796a86f512ac1", null ],
     [ "getErrorDestination", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_controller_1_1_base_controller.html#a1c6807ff63ed8d7da320cbb4635942ea", null ],
     [ "getFncName", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_controller_1_1_base_controller.html#ae500ebfc339552a450b9b98359188d9f", null ],
     [ "getIsCallForCache", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_controller_1_1_base_controller.html#a79740554aaaca4086fa141b4f894989a", null ],

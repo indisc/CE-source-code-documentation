@@ -8,6 +8,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_core_1_1_registry =
     [ "getInputValidator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_registry.html#afa5ccbd911dc4acdefb1afc9ef3b18e7", null ],
     [ "getKeys", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_registry.html#a0fc66886a22f8729921886df718a8192", null ],
     [ "getLang", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_registry.html#a42edf6f62e3d7dd588ec3a051f1ed4cc", null ],
+    [ "getLogger", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_registry.html#a6802f3e238a23c4b6a5465b40007b205", null ],
     [ "getObject", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_registry.html#ae23c0ac16a513d6b3218c70fe7ab8088", null ],
     [ "getPictureHandler", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_registry.html#a71c86a21eb82764da0a55656aa43ef2e", null ],
     [ "getRequest", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_registry.html#af56dfb4ec971a626e86cd296fc0c89d7", null ],

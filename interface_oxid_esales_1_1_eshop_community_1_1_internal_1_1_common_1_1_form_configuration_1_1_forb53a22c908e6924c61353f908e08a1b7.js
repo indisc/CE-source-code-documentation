@@ -1,0 +1,4 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_form_configuration_1_1_forb53a22c908e6924c61353f908e08a1b7 =
+[
+    [ "getFormFieldsConfiguration", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_form_configuration_1_1_forb53a22c908e6924c61353f908e08a1b7.html#af3fdc06f7de3c8dfbb5b2f0decba2c23", null ]
+];

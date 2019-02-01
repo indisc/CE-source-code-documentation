@@ -20,6 +20,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module =
     [ "getModuleIdByClassName", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module.html#a0b4b3d4ed198a28494571d25410ec570", null ],
     [ "getModulePath", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module.html#a480d071576b517ccc49b838c2c0d16af", null ],
     [ "getModulePaths", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module.html#a95c0be1bf66e100e90d944b66c6c5665", null ],
+    [ "getSmartyPluginDirectories", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module.html#a0c459cce3405bc4bf27afc5341dcb551", null ],
     [ "getTemplates", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module.html#a35bcb26716db482218b0555611954e6a", null ],
     [ "getTitle", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module.html#a4a24cbffffed98c9ea7116043d1b0b1a", null ],
     [ "getUnifiedShopClassExtensionsForBc", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module.html#af3a0b6f0dc68fbafb543217de1acac47", null ],

@@ -22,5 +22,6 @@ var searchData=
   ['newstext_2ephp',['NewsText.php',['../_news_text_8php.html',1,'']]],
   ['noarticleexception_2ephp',['NoArticleException.php',['../_no_article_exception_8php.html',1,'']]],
   ['nojsvalidator_2ephp',['NoJsValidator.php',['../_no_js_validator_8php.html',1,'']]],
-  ['noresultexception_2ephp',['NoResultException.php',['../_no_result_exception_8php.html',1,'']]]
+  ['noresultexception_2ephp',['NoResultException.php',['../_no_result_exception_8php.html',1,'']]],
+  ['notfoundexception_2ephp',['NotFoundException.php',['../_not_found_exception_8php.html',1,'']]]
 ];

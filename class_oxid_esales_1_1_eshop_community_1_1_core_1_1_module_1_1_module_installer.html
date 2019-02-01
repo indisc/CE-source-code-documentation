@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">OXID eShop CE
-   &#160;<span id="projectnumber">6.0.2</span>
+   &#160;<span id="projectnumber">6.1.0</span>
    </div>
   </td>
  </tr>
@@ -90,6 +90,7 @@ $(document).ready(function(){initNavTree('class_oxid_esales_1_1_eshop_community_
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pro-methods">Protected Member Functions</a> &#124;
 <a href="#pro-attribs">Protected Attributes</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="#pri-attribs">Private Attributes</a> &#124;
 <a href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_installer-members.html">List of all members</a>  </div>
   <div class="headertitle">
@@ -203,6 +204,17 @@ Protected Member Functions</h2></td></tr>
 Protected Attributes</h2></td></tr>
 <tr class="memitem:af2ecfc761e49501bf58dacc3b95cc65d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_installer.html#af2ecfc761e49501bf58dacc3b95cc65d">$_oModuleCache</a></td></tr>
 <tr class="separator:af2ecfc761e49501bf58dacc3b95cc65d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a2ad4f4a55f4469d2caddc7a70d3557c8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_installer.html#a2ad4f4a55f4469d2caddc7a70d3557c8">addModuleSmartyPluginDirectories</a> (EshopModule $module)</td></tr>
+<tr class="separator:a2ad4f4a55f4469d2caddc7a70d3557c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a50cd88f0ad53146c9d993ec3dc6d1177"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_installer.html#a50cd88f0ad53146c9d993ec3dc6d1177">deleteModuleSmartyPluginDirectories</a> ($moduleId)</td></tr>
+<tr class="separator:a50cd88f0ad53146c9d993ec3dc6d1177"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae8bcf3c44d0481c655e359c82b20494f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_installer.html#ae8bcf3c44d0481c655e359c82b20494f">getModuleSmartyPluginDirectoryRepository</a> ()</td></tr>
+<tr class="separator:ae8bcf3c44d0481c655e359c82b20494f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4de146cb182a61f225cdc943bb7e881d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_installer.html#a4de146cb182a61f225cdc943bb7e881d">getShopIdCalculator</a> ()</td></tr>
+<tr class="separator:a4de146cb182a61f225cdc943bb7e881d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
@@ -680,7 +692,7 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <p>Removes extension from modules array.</p>
-<dl class="deprecated"><dt><b><a class="el" href="deprecated.html#_deprecated000181">Deprecated:</a></b></dt><dd>on b-dev, This method is not used in code.</dd></dl>
+<dl class="deprecated"><dt><b><a class="el" href="deprecated.html#_deprecated000201">Deprecated:</a></b></dt><dd>on b-dev, This method is not used in code.</dd></dl>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramtype">string</td><td class="paramname">$sModuleId</td><td><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module.html">Module</a> id </td></tr>
@@ -941,7 +953,7 @@ Private Attributes</h2></td></tr>
   </table>
   </dd>
 </dl>
-<dl class="deprecated"><dt><b><a class="el" href="deprecated.html#_deprecated000182">Deprecated:</a></b></dt><dd>on b-dev, \OxidEsales\Eshop\Core\Module\ModuleExtensionsCleaner::cleanExtensions() should be used.</dd></dl>
+<dl class="deprecated"><dt><b><a class="el" href="deprecated.html#_deprecated000202">Deprecated:</a></b></dt><dd>on b-dev, \OxidEsales\Eshop\Core\Module\ModuleExtensionsCleaner::cleanExtensions() should be used.</dd></dl>
 <dl class="section return"><dt>Returns</dt><dd>array </dd></dl>
 
 </div>
@@ -1067,6 +1079,38 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
+<a id="a2ad4f4a55f4469d2caddc7a70d3557c8"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a2ad4f4a55f4469d2caddc7a70d3557c8">&#9670;&nbsp;</a></span>addModuleSmartyPluginDirectories()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">OxidEsales\EshopCommunity\Core\Module\ModuleInstaller::addModuleSmartyPluginDirectories </td>
+          <td>(</td>
+          <td class="paramtype">EshopModule&#160;</td>
+          <td class="paramname"><em>$module</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramtype">EshopModule</td><td class="paramname">$module</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
 <a id="a07391020ee8d6a3289a2c297770cfe9b"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a07391020ee8d6a3289a2c297770cfe9b">&#9670;&nbsp;</a></span>buildModuleChains()</h2>
 
@@ -1146,6 +1190,38 @@ Private Attributes</h2></td></tr>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramtype">string</td><td class="paramname">$moduleId</td><td>The Id of the module </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="a50cd88f0ad53146c9d993ec3dc6d1177"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a50cd88f0ad53146c9d993ec3dc6d1177">&#9670;&nbsp;</a></span>deleteModuleSmartyPluginDirectories()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">OxidEsales\EshopCommunity\Core\Module\ModuleInstaller::deleteModuleSmartyPluginDirectories </td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>$moduleId</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramtype">string</td><td class="paramname">$moduleId</td><td></td></tr>
   </table>
   </dd>
 </dl>
@@ -1313,6 +1389,32 @@ Private Attributes</h2></td></tr>
 
 </div>
 </div>
+<a id="ae8bcf3c44d0481c655e359c82b20494f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae8bcf3c44d0481c655e359c82b20494f">&#9670;&nbsp;</a></span>getModuleSmartyPluginDirectoryRepository()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">OxidEsales\EshopCommunity\Core\Module\ModuleInstaller::getModuleSmartyPluginDirectoryRepository </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<dl class="section return"><dt>Returns</dt><dd>EshopModuleSmartyPluginDirectoryRepository </dd></dl>
+
+</div>
+</div>
 <a id="a29d6e4978bccc0cda9a129f0c8f0100f"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a29d6e4978bccc0cda9a129f0c8f0100f">&#9670;&nbsp;</a></span>getModulesWithExtendedClass()</h2>
 
@@ -1355,6 +1457,32 @@ Private Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <dl class="section return"><dt>Returns</dt><dd>\OxidEsales\Eshop\Core\Contract\ControllerMapProviderInterface </dd></dl>
+
+</div>
+</div>
+<a id="a4de146cb182a61f225cdc943bb7e881d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4de146cb182a61f225cdc943bb7e881d">&#9670;&nbsp;</a></span>getShopIdCalculator()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">OxidEsales\EshopCommunity\Core\Module\ModuleInstaller::getShopIdCalculator </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<dl class="section return"><dt>Returns</dt><dd><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_shop_id_calculator.html">ShopIdCalculator</a> </dd></dl>
 
 </div>
 </div>
@@ -1533,7 +1661,7 @@ Private Attributes</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>/home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.0.2/vendor/oxid-esales/oxideshop-ce/source/Core/Module/<a class="el" href="_module_installer_8php.html">ModuleInstaller.php</a></li>
+<li>/home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.1.0/vendor/oxid-esales/oxideshop-ce/source/Core/Module/<a class="el" href="_module_installer_8php.html">ModuleInstaller.php</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

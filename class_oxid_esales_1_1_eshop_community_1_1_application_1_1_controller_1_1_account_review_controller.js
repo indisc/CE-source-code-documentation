@@ -5,7 +5,6 @@ var class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_acc
     [ "deleteReviewAndRating", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_review_controller.html#a986eee13c68c21c96fec9dbc277cef3e", null ],
     [ "getActPage", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_review_controller.html#a52adec9ffe061664e0618a4a2b11bceb", null ],
     [ "getBreadCrumb", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_review_controller.html#a56846dbfb2796e7295052f23a0d1ae0c", null ],
-    [ "getContainer", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_review_controller.html#a62f74c726704ee8962ca3be72f8bdff4", null ],
     [ "getItemsPerPage", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_review_controller.html#a63dabd68c49d51773488da9631e4b741", null ],
     [ "getMyAccountPageUrl", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_review_controller.html#a88df8325956b1a242ee2846608a45e93", null ],
     [ "getPageNavigation", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_review_controller.html#abf081914ca1777058ddfc38b39e46239", null ],

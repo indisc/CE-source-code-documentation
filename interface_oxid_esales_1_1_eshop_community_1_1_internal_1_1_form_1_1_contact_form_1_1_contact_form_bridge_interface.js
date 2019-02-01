@@ -1,0 +1,6 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_form_1_1_contact_form_1_1_contact_form_bridge_interface =
+[
+    [ "getContactForm", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_form_1_1_contact_form_1_1_contact_form_bridge_interface.html#a30e912490c4204a5a6636075eb22a709", null ],
+    [ "getContactFormConfiguration", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_form_1_1_contact_form_1_1_contact_form_bridge_interface.html#ac9c62f84c611440b5db68405d4830f4c", null ],
+    [ "getContactFormMessage", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_form_1_1_contact_form_1_1_contact_form_bridge_interface.html#a4f15d6579329cd9e461fd24d21fa96f0", null ]
+];

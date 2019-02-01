@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">OXID eShop CE
-   &#160;<span id="projectnumber">6.0.2</span>
+   &#160;<span id="projectnumber">6.1.0</span>
    </div>
   </td>
  </tr>
@@ -91,7 +91,6 @@ $(document).ready(function(){initNavTree('class_oxid_esales_1_1_eshop_community_
 <a href="#pro-methods">Protected Member Functions</a> &#124;
 <a href="#pro-attribs">Protected Attributes</a> &#124;
 <a href="#pro-static-attribs">Static Protected Attributes</a> &#124;
-<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_session-members.html">List of all members</a>  </div>
   <div class="headertitle">
 <div class="title">OxidEsales\EshopCommunity\Core\Session Class Reference</div>  </div>
@@ -196,6 +195,14 @@ Protected Member Functions</h2></td></tr>
 <tr class="separator:a0ce0c59d4c33796f22b64da897bc61b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa2f877aacb603b3b07b499fafd8ce341"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_session.html#aa2f877aacb603b3b07b499fafd8ce341">_getNewSessionId</a> ($blUnset=true)</td></tr>
 <tr class="separator:aa2f877aacb603b3b07b499fafd8ce341"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab3de22196c49d928a80939f0d1ed2ac6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_session.html#ab3de22196c49d928a80939f0d1ed2ac6">isSerializedBasketValid</a> ($serializedBasket)</td></tr>
+<tr class="separator:ab3de22196c49d928a80939f0d1ed2ac6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a2c5e823505c9c38299f87ff9d9324915"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_session.html#a2c5e823505c9c38299f87ff9d9324915">isClassInSerializedObject</a> ($serializedObject, $className)</td></tr>
+<tr class="separator:a2c5e823505c9c38299f87ff9d9324915"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8c341d8c85c32dce095beb59a8348075"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_session.html#a8c341d8c85c32dce095beb59a8348075">isClassOrNullInSerializedObjectAfterField</a> ($serializedObject, $fieldName, $className)</td></tr>
+<tr class="separator:a8c341d8c85c32dce095beb59a8348075"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a7f07dce96670f749a34f36453b2b5b83"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_session.html#a7f07dce96670f749a34f36453b2b5b83">isUnserializedBasketValid</a> ($basket, $emptyBasket)</td></tr>
+<tr class="separator:a7f07dce96670f749a34f36453b2b5b83"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abd65c7052e1dac2c86d836991d8e8ca2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_session.html#abd65c7052e1dac2c86d836991d8e8ca2">_validateBasket</a> (\OxidEsales\Eshop\Application\Model\Basket $oBasket)</td></tr>
 <tr class="separator:abd65c7052e1dac2c86d836991d8e8ca2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a7687534f751b6519c88f86bab1fc922a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_session.html#a7687534f751b6519c88f86bab1fc922a">_forceSessionStart</a> ()</td></tr>
@@ -262,17 +269,6 @@ Static Protected Attributes</h2></td></tr>
 <tr class="separator:a8e80d632aab6962ea647743027c7276a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af3e6c3fdf7130da0875a758214bbe7d5"><td class="memItemLeft" align="right" valign="top">static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_session.html#af3e6c3fdf7130da0875a758214bbe7d5">$_oUser</a> = null</td></tr>
 <tr class="separator:af3e6c3fdf7130da0875a758214bbe7d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-</table><table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
-Private Member Functions</h2></td></tr>
-<tr class="memitem:ab3de22196c49d928a80939f0d1ed2ac6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_session.html#ab3de22196c49d928a80939f0d1ed2ac6">isSerializedBasketValid</a> ($serializedBasket)</td></tr>
-<tr class="separator:ab3de22196c49d928a80939f0d1ed2ac6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2c5e823505c9c38299f87ff9d9324915"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_session.html#a2c5e823505c9c38299f87ff9d9324915">isClassInSerializedObject</a> ($serializedObject, $className)</td></tr>
-<tr class="separator:a2c5e823505c9c38299f87ff9d9324915"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8c341d8c85c32dce095beb59a8348075"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_session.html#a8c341d8c85c32dce095beb59a8348075">isClassOrNullInSerializedObjectAfterField</a> ($serializedObject, $fieldName, $className)</td></tr>
-<tr class="separator:a8c341d8c85c32dce095beb59a8348075"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7f07dce96670f749a34f36453b2b5b83"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_session.html#a7f07dce96670f749a34f36453b2b5b83">isUnserializedBasketValid</a> ($basket, $emptyBasket)</td></tr>
-<tr class="separator:a7f07dce96670f749a34f36453b2b5b83"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_session.html">Session</a> manager. Performs session managing function, such as variables deletion, initialisation and other session functions. </p>
@@ -1213,7 +1209,7 @@ Private Member Functions</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -1264,7 +1260,7 @@ Private Member Functions</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -1338,7 +1334,7 @@ Private Member Functions</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -1427,7 +1423,7 @@ Private Member Functions</h2></td></tr>
       </table>
   </td>
   <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
   </tr>
 </table>
 </div><div class="memdoc">
@@ -2025,7 +2021,7 @@ Private Member Functions</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>/home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.0.2/vendor/oxid-esales/oxideshop-ce/source/Core/<a class="el" href="_core_2_session_8php.html">Session.php</a></li>
+<li>/home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.1.0/vendor/oxid-esales/oxideshop-ce/source/Core/<a class="el" href="_core_2_session_8php.html">Session.php</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

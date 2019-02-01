@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">OXID eShop CE
-   &#160;<span id="projectnumber">6.0.2</span>
+   &#160;<span id="projectnumber">6.1.0</span>
    </div>
   </td>
  </tr>
@@ -312,8 +312,8 @@ Protected Attributes</h2></td></tr>
 <p>Runs additional checks for article.</p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramtype">\OxidEsales\Eshop\Core\Utils</td><td class="paramname">$myUtils</td><td>General utils </td></tr>
-    <tr><td class="paramtype">\OxidEsales\Eshop\Core\Config</td><td class="paramname">$myConfig</td><td>Main shop configuration </td></tr>
+    <tr><td class="paramtype">Utils</td><td class="paramname">$myUtils</td><td>General utils. </td></tr>
+    <tr><td class="paramtype">Config</td><td class="paramname">$myConfig</td><td>Main shop configuration. </td></tr>
   </table>
   </dd>
 </dl>
@@ -342,8 +342,8 @@ Protected Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>In case list type is "search" returns search parameters which will be added to product details link</p>
-<dl class="section return"><dt>Returns</dt><dd>string | null </dd></dl>
+<p>In case list type is "search" returns search parameters which will be added to product details link.</p>
+<dl class="section return"><dt>Returns</dt><dd>string|null </dd></dl>
 
 </div>
 </div>
@@ -370,14 +370,14 @@ Protected Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>Returns current product parent article object if it is available</p>
+<p>Returns current product parent article object if it is available.</p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramtype">string</td><td class="paramname">$sParentId</td><td>parent product id</td></tr>
   </table>
   </dd>
 </dl>
-<dl class="section return"><dt>Returns</dt><dd>oxArticle </dd></dl>
+<dl class="section return"><dt>Returns</dt><dd>Article </dd></dl>
 
 </div>
 </div>
@@ -438,10 +438,10 @@ Protected Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>Processes product by setting link type and in case list type is search adds search parameters to details link</p>
+<p>Processes product by setting link type and in case list type is search adds search parameters to details link.</p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramtype">object</td><td class="paramname">$oProduct</td><td>product to process </td></tr>
+    <tr><td class="paramtype">object</td><td class="paramname">$oProduct</td><td>Product to process. </td></tr>
   </table>
   </dd>
 </dl>
@@ -470,7 +470,7 @@ Protected Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<p>Set item sorting for widget based of retrieved parameters </p>
+<p>Set item sorting for widget based of retrieved parameters. </p>
 
 </div>
 </div>
@@ -488,7 +488,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Checks if rating functionality is on and allowed to user</p>
+<p>Checks if rating functionality is on and allowed to user.</p>
 <dl class="section return"><dt>Returns</dt><dd>bool </dd></dl>
 
 </div>
@@ -507,7 +507,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Template variable getter. Returns accessories of article</p>
+<p>Template variable getter. Returns accessories of article.</p>
 <dl class="section return"><dt>Returns</dt><dd>object </dd></dl>
 
 </div>
@@ -526,7 +526,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Template variable getter. Returns active picture</p>
+<p>Template variable getter. Returns active picture.</p>
 <dl class="section return"><dt>Returns</dt><dd>object </dd></dl>
 
 </div>
@@ -545,8 +545,8 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Template variable getter. Returns active zoom picture id</p>
-<dl class="section return"><dt>Returns</dt><dd>array </dd></dl>
+<p>Template variable getter. Returns active zoom picture id.</p>
+<dl class="section return"><dt>Returns</dt><dd>int </dd></dl>
 
 </div>
 </div>
@@ -564,7 +564,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Template variable getter. Returns list of customer also bought these products</p>
+<p>Template variable getter. Returns list of customer also bought these products.</p>
 <dl class="section return"><dt>Returns</dt><dd>object </dd></dl>
 
 </div>
@@ -583,8 +583,8 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>loading full list of attributes</p>
-<dl class="section return"><dt>Returns</dt><dd>array $_aAttributes </dd></dl>
+<p>Loading full list of attributes.</p>
+<dl class="section return"><dt>Returns</dt><dd>array </dd></dl>
 
 </div>
 </div>
@@ -602,7 +602,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Template variable getter. Returns bid price</p>
+<p>Template variable getter. Returns bid price.</p>
 <dl class="section return"><dt>Returns</dt><dd>string </dd></dl>
 
 </div>
@@ -621,7 +621,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Template variable getter. Returns product's root category</p>
+<p>Template variable getter. Returns product's root category.</p>
 <dl class="section return"><dt>Returns</dt><dd>object </dd></dl>
 
 </div>
@@ -640,7 +640,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Template variable getter. Returns cross selling</p>
+<p>Template variable getter. Returns cross selling.</p>
 <dl class="section return"><dt>Returns</dt><dd>object </dd></dl>
 
 </div>
@@ -659,7 +659,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Returns default category sorting for selected category</p>
+<p>Returns default category sorting for selected category.</p>
 <dl class="section return"><dt>Returns</dt><dd>array </dd></dl>
 
 </div>
@@ -678,7 +678,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Template variable getter. Returns icons of current article</p>
+<p>Template variable getter. Returns icons of current article.</p>
 <dl class="section return"><dt>Returns</dt><dd>array </dd></dl>
 
 </div>
@@ -698,7 +698,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Template variable getter. Returns last seen products</p>
+<p>Template variable getter. Returns last seen products.</p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramtype">int</td><td class="paramname">$iCnt</td><td>product count</td></tr>
@@ -723,7 +723,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Returns current view link type</p>
+<p>Returns current view link type.</p>
 <dl class="section return"><dt>Returns</dt><dd>int </dd></dl>
 
 </div>
@@ -742,7 +742,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Template variable getter. Returns product's vendor</p>
+<p>Template variable getter. Returns product's vendor.</p>
 <dl class="section return"><dt>Returns</dt><dd>object </dd></dl>
 
 </div>
@@ -761,7 +761,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Template variable getter. Returns media files of current product</p>
+<p>Template variable getter. Returns media files of current product.</p>
 <dl class="section return"><dt>Returns</dt><dd>array </dd></dl>
 
 </div>
@@ -780,7 +780,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Template variable getter. Returns picture gallery of current article</p>
+<p>Template variable getter. Returns picture gallery of current article.</p>
 <dl class="section return"><dt>Returns</dt><dd>array </dd></dl>
 
 </div>
@@ -799,8 +799,8 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Returns pictures product object</p>
-<dl class="section return"><dt>Returns</dt><dd>oxArticle </dd></dl>
+<p>Returns pictures product object.</p>
+<dl class="section return"><dt>Returns</dt><dd>ArticleList </dd></dl>
 
 </div>
 </div>
@@ -818,7 +818,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Return price alarm status (if it was send)</p>
+<p>Return price alarm status (if it was send).</p>
 <dl class="section return"><dt>Returns</dt><dd>integer </dd></dl>
 
 </div>
@@ -838,7 +838,7 @@ Protected Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <p>Get product.</p>
-<dl class="section return"><dt>Returns</dt><dd>oxArticle </dd></dl>
+<dl class="section return"><dt>Returns</dt><dd>Article </dd></dl>
 
 </div>
 </div>
@@ -856,7 +856,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Template variable getter. Returns rating count</p>
+<p>Template variable getter. Returns rating count.</p>
 <dl class="section return"><dt>Returns</dt><dd>integer </dd></dl>
 
 </div>
@@ -875,7 +875,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Template variable getter. Returns rating value</p>
+<p>Template variable getter. Returns rating value.</p>
 <dl class="section return"><dt>Returns</dt><dd>double </dd></dl>
 
 </div>
@@ -894,7 +894,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Template variable getter. Returns reviews of current article</p>
+<p>Template variable getter. Returns reviews of current article.</p>
 <dl class="section return"><dt>Returns</dt><dd>array </dd></dl>
 
 </div>
@@ -913,7 +913,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Returns search title. It will be set in oxLocator</p>
+<p>Returns search title. It will be set in <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_locator.html">Locator</a>.</p>
 <dl class="section return"><dt>Returns</dt><dd>string </dd></dl>
 
 </div>
@@ -932,7 +932,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Template variable getter. Returns similar article list</p>
+<p>Template variable getter. Returns similar article list.</p>
 <dl class="section return"><dt>Returns</dt><dd>object </dd></dl>
 
 </div>
@@ -971,8 +971,8 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Returns variant lists of current product</p>
-<dl class="section return"><dt>Returns</dt><dd>array | oxsimplevariantlist | oxarticlelist </dd></dl>
+<p>Returns variant lists of current product.</p>
+<dl class="section return"><dt>Returns</dt><dd>array|SimpleVariantList|ArticleList </dd></dl>
 
 </div>
 </div>
@@ -990,8 +990,8 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Returns variant lists of current product excludes currently viewed product</p>
-<dl class="section return"><dt>Returns</dt><dd>array | oxSimpleVariantList | oxArticleList </dd></dl>
+<p>Returns variant lists of current product excludes currently viewed product.</p>
+<dl class="section return"><dt>Returns</dt><dd>array|SimpleVariantList|ArticleList </dd></dl>
 
 </div>
 </div>
@@ -1009,8 +1009,8 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Returns variant selection</p>
-<dl class="section return"><dt>Returns</dt><dd>oxVariantSelectList </dd></dl>
+<p>Returns variant selection.</p>
+<dl class="section return"><dt>Returns</dt><dd>array </dd></dl>
 
 </div>
 </div>
@@ -1028,7 +1028,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Template variable getter. Returns product's vendor</p>
+<p>Template variable getter. Returns product's vendor.</p>
 <dl class="section return"><dt>Returns</dt><dd>object </dd></dl>
 
 </div>
@@ -1047,7 +1047,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Template variable getter. Returns zoom pictures</p>
+<p>Template variable getter. Returns zoom pictures.</p>
 <dl class="section return"><dt>Returns</dt><dd>array </dd></dl>
 
 </div>
@@ -1085,7 +1085,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Checks should persistent parameter input field be displayed</p>
+<p>Checks should persistent parameter input field be displayed.</p>
 <dl class="section return"><dt>Returns</dt><dd>bool </dd></dl>
 
 </div>
@@ -1104,7 +1104,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Template variable getter. Returns if price alarm is enabled</p>
+<p>Template variable getter. Returns if price alarm is enabled.</p>
 <dl class="section return"><dt>Returns</dt><dd>bool </dd></dl>
 
 </div>
@@ -1123,7 +1123,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Template variable getter. Returns if review module is on</p>
+<p>Template variable getter. Returns if review module is on.</p>
 <dl class="section return"><dt>Returns</dt><dd>bool </dd></dl>
 
 </div>
@@ -1142,8 +1142,8 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>loading full list of variants, if we are child and do not have any variants then let's load all parent variants as ours</p>
-<dl class="section return"><dt>Returns</dt><dd>array | oxSimpleVariantList | oxArticleList </dd></dl>
+<p>Loading full list of variants, if we are child and do not have any variants then let's load all parent variants as ours.</p>
+<dl class="section return"><dt>Returns</dt><dd>array|SimpleVariantList|ArticleList </dd></dl>
 
 </div>
 </div>
@@ -1161,7 +1161,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Template variable getter. Returns true if there more pictures</p>
+<p>Template variable getter. Returns true if there more pictures.</p>
 <dl class="section return"><dt>Returns</dt><dd>bool </dd></dl>
 
 </div>
@@ -1180,7 +1180,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Checks if rating functionality is active</p>
+<p>Checks if rating functionality is active.</p>
 <dl class="section return"><dt>Returns</dt><dd>bool </dd></dl>
 
 </div>
@@ -1222,7 +1222,7 @@ Protected Attributes</h2></td></tr>
 <p>active category path setter</p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramtype">string</td><td class="paramname">$sActCatPath</td><td>category tree path </td></tr>
+    <tr><td class="paramtype">string</td><td class="paramname">$sActCatPath</td><td>category tree path. </td></tr>
   </table>
   </dd>
 </dl>
@@ -1244,7 +1244,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Returns search title setter</p>
+<p>Returns search title setter.</p>
 <dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramtype">string</td><td class="paramname">$sTitle</td><td>search title </td></tr>
@@ -1268,7 +1268,7 @@ Protected Attributes</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Template variable getter. Returns if to show zoom pictures</p>
+<p>Template variable getter. Returns if to show zoom pictures.</p>
 <dl class="section return"><dt>Returns</dt><dd>bool </dd></dl>
 
 </div>
@@ -1847,7 +1847,7 @@ Protected Attributes</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>/home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.0.2/vendor/oxid-esales/oxideshop-ce/source/Application/Component/Widget/<a class="el" href="_article_details_8php.html">ArticleDetails.php</a></li>
+<li>/home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.1.0/vendor/oxid-esales/oxideshop-ce/source/Application/Component/Widget/<a class="el" href="_article_details_8php.html">ArticleDetails.php</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

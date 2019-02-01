@@ -1,0 +1,4 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_configuration_1_1_psr_logger_configuration_interface =
+[
+    [ "getLogLevel", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_configuration_1_1_psr_logger_configuration_interface.html#a004504d99267d242264079a67e9f95e8", null ]
+];

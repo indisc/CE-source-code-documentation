@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['warning',['warning',['../class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_wrapper_1_1_logger_wrapper.html#aecae9c5fe70a4eef979c17993b27fef8',1,'OxidEsales::EshopCommunity::Internal::Logger::Wrapper::LoggerWrapper']]],
   ['warninghandler',['warningHandler',['../oxfunctions_8php.html#aeca87e23484210bb1e5d4b89d851da5c',1,'oxfunctions.php']]],
   ['wasunsubscribed',['wasUnsubscribed',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_news_subscribed.html#a8c87f496964e90cbcf0ba610c4ccc606',1,'OxidEsales::EshopCommunity::Application::Model::NewsSubscribed']]],
   ['web_5fservice_5furl',['WEB_SERVICE_URL',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_license_check_caller.html#a8de199f5e33a3cb7511edd2f151e12d6',1,'OxidEsales\EshopCommunity\Core\OnlineLicenseCheckCaller\WEB_SERVICE_URL()'],['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_module_version_notifier_caller.html#a927585edbf33a67268c2cd8e6132b33e',1,'OxidEsales\EshopCommunity\Core\OnlineModuleVersionNotifierCaller\WEB_SERVICE_URL()']]],
@@ -23,6 +24,6 @@ var searchData=
   ['wrappingmain_2ephp',['WrappingMain.php',['../_wrapping_main_8php.html',1,'']]],
   ['write',['write',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_dynamic_export_base_controller.html#a205cc659081cc73c43e7a3d54d865c5f',1,'OxidEsales\EshopCommunity\Application\Controller\Admin\DynamicExportBaseController\write()'],['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_generic_export_do.html#a38780c09c7affd608a1f1ede985350a9',1,'OxidEsales\EshopCommunity\Application\Controller\Admin\GenericExportDo\write()'],['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_voucher_serie_export.html#a2fe66fe1713e13ad78bf9fd3eeb91530',1,'OxidEsales\EshopCommunity\Application\Controller\Admin\VoucherSerieExport\write()']]],
   ['writeadminlogindata',['writeAdminLoginData',['../class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_database.html#a402f34a5238f081eceaee58191dd2df8',1,'OxidEsales::EshopCommunity::Setup::Database']]],
-  ['writeexceptiontolog',['writeExceptionToLog',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_handler.html#ac34a94cb1276cee1542ebda62e7c228e',1,'OxidEsales::EshopCommunity::Core::Exception::ExceptionHandler']]],
+  ['writeexceptiontolog',['writeExceptionToLog',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_handler.html#a5cbb7cb9f714196ec8a4ca169896985b',1,'OxidEsales::EshopCommunity::Core::Exception::ExceptionHandler']]],
   ['writetolog',['writeToLog',['../bootstrap_8php.html#ab1730bfa613f078664eeafb0f34d91f1',1,'bootstrap.php']]]
 ];

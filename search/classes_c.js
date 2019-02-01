@@ -22,5 +22,6 @@ var searchData=
   ['newstext',['NewsText',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_news_text.html',1,'OxidEsales::EshopCommunity::Application::Controller::Admin']]],
   ['noarticleexception',['NoArticleException',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_no_article_exception.html',1,'OxidEsales::EshopCommunity::Core::Exception']]],
   ['nojsvalidator',['NoJsValidator',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_no_js_validator.html',1,'OxidEsales::EshopCommunity::Core']]],
-  ['noresultexception',['NoResultException',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_no_result_exception.html',1,'OxidEsales::EshopCommunity::Core::Exception']]]
+  ['noresultexception',['NoResultException',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_no_result_exception.html',1,'OxidEsales::EshopCommunity::Core::Exception']]],
+  ['notfoundexception',['NotFoundException',['../class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_p_s_r11_compliance_1_1_not_found_exception.html',1,'OxidEsales::EshopCommunity::Internal::Application::PSR11Compliance']]]
 ];

@@ -1,3 +1,7 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_object_1_1_product_rating.html" title=" " alt="" coords="5,5,195,61"/>
+<area shape="rect" id="node1" href="$interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_object_mapper_interface.html" title=" " alt="" coords="5,85,204,141"/>
+<area shape="rect" id="node2" href="$interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_entity_mapper_interface.html" title=" " alt="" coords="252,85,451,141"/>
+<area shape="rect" id="node3" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_product_rating_data_mapper.html" title=" " alt="" coords="499,5,688,61"/>
+<area shape="rect" id="node4" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_rating_data_mapper.html" title=" " alt="" coords="499,85,688,141"/>
+<area shape="rect" id="node5" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_review_data_mapper.html" title=" " alt="" coords="499,165,688,221"/>
 </map>

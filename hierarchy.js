@@ -296,9 +296,19 @@ var hierarchy =
     [ "OxidEsales\\EshopCommunity\\Core\\CompanyVatInChecker", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_company_vat_in_checker.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\CompanyVatInValidator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_company_vat_in_validator.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\ConfigFile", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_config_file.html", null ],
-    [ "OxidEsales\\EshopCommunity\\Internal\\Common\\Container\\Container", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Common\\Factory\\ConnectionFactory", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_factory_1_1_connection_factory.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Form\\ContactForm\\ContactFormBridgeInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_form_1_1_contact_form_1_1_contact_form_bridge_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Form\\ContactForm\\ContactFormBridge", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_form_1_1_contact_form_1_1_contact_form_bridge.html", null ]
+    ] ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Form\\ContactForm\\ContactFormMessageBuilderInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_form_1_1_contact_form_1_1_contact_form_message_builder_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Form\\ContactForm\\ContactFormMessageBuilder", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_form_1_1_contact_form_1_1_contact_form_message_builder.html", null ]
+    ] ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Application\\ContainerFactory", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container_factory.html", null ],
     [ "ContentController", null, [
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\CreditsController", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_credits_controller.html", null ]
+    ] ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Utility\\ContextInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_utility_1_1_context_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Utility\\Context", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_utility_1_1_context.html", null ]
     ] ],
     [ "ControllerMapProviderInterface", null, [
       [ "OxidEsales\\EshopCommunity\\Core\\Routing\\ShopControllerMapProvider", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_routing_1_1_shop_controller_map_provider.html", null ]
@@ -357,6 +367,9 @@ var hierarchy =
     ] ],
     [ "OxidEsales\\EshopCommunity\\Core\\Exception\\ExceptionHandler", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_handler.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\Field", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_field.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Common\\FormConfiguration\\FieldConfigurationInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_form_configuration_1_1_field_configuration_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Common\\FormConfiguration\\FieldConfiguration", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_form_configuration_1_1_field_configuration.html", null ]
+    ] ],
     [ "OxidEsales\\EshopCommunity\\Core\\Model\\FieldNameHelper", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_field_name_helper.html", null ],
     [ "FileCache", null, [
       [ "OxidEsales\\EshopCommunity\\Core\\SubShopSpecificFileCache", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_sub_shop_specific_file_cache.html", null ]
@@ -366,9 +379,31 @@ var hierarchy =
     [ "OxidEsales\\EshopCommunity\\Application\\Model\\FileCheckerResult", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_file_checker_result.html", null ],
     [ "OxidEsales\\EshopCommunity\\Application\\Model\\FileCollector", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_file_collector.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\FileSystem\\FileSystem", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_file_system_1_1_file_system.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Common\\FormConfiguration\\FormConfigurationFactoryInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_form_configuration_1_1_ford160fecdf0d87913d50ab5ebe2390b8b.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Form\\ContactForm\\ContactFormConfigurationFactory", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_form_1_1_contact_form_1_1_contact_form_configuration_factory.html", null ]
+    ] ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Common\\FormConfiguration\\FormConfigurationInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_form_configuration_1_1_form_configuration_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Common\\FormConfiguration\\FormConfiguration", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_form_configuration_1_1_form_configuration.html", null ]
+    ] ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Common\\Form\\FormFactoryInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_form_1_1_form_factory_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Form\\ContactForm\\ContactFormFactory", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_form_1_1_contact_form_1_1_contact_form_factory.html", null ]
+    ] ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Common\\Form\\FormFieldInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_form_1_1_form_field_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Common\\Form\\FormField", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_form_1_1_form_field.html", null ]
+    ] ],
     [ "OxidEsales\\EshopCommunity\\Core\\Form\\FormFields", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_form_1_1_form_fields.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\Form\\FormFieldsCleaner", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_form_1_1_form_fields_cleaner.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Common\\FormConfiguration\\FormFieldsConfigurationDataProviderInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_form_configuration_1_1_forb53a22c908e6924c61353f908e08a1b7.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Form\\ContactForm\\ContactFormFieldsConfigurationDataProvider", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_form_1_1_contact_form_1_1_contact_form_fidf84ce37be4b4b274976049ae5ab64e0.html", null ]
+    ] ],
     [ "OxidEsales\\EshopCommunity\\Core\\Form\\FormFieldsTrimmerInterface", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_form_1_1_form_fields_trimmer_interface.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Common\\Form\\FormInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_form_1_1_form_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Common\\Form\\Form", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_form_1_1_form.html", null ]
+    ] ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Common\\Form\\FormValidatorInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_form_1_1_form_validator_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Common\\Form\\RequiredFieldsValidator", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_form_1_1_required_fields_validator.html", null ],
+      [ "OxidEsales\\EshopCommunity\\Internal\\Form\\ContactForm\\ContactFormEmailValidator", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_form_1_1_contact_form_1_1_contact_form_email_validator.html", null ]
+    ] ],
     [ "FrontendController", null, [
       [ "OxidEsales\\EshopCommunity\\Application\\Component\\Widget\\WidgetController", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_widget_1_1_widget_controller.html", null ],
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\AccountController", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html", [
@@ -533,12 +568,22 @@ var hierarchy =
       [ "OxidEsales\\EshopCommunity\\Application\\Model\\VoucherList", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_voucher_list.html", null ]
     ] ],
     [ "OxidEsales\\EshopCommunity\\Application\\Model\\ListObject", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_list_object.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Logger\\Validator\\LoggerConfigurationValidatorInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_validator_1_1_logger_configuration_validator_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Logger\\Validator\\PsrLoggerConfigurationValidator", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_validator_1_1_psr_logger_configuration_validator.html", null ]
+    ] ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Logger\\Factory\\LoggerFactoryInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_factory_1_1_logger_factory_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Logger\\Factory\\MonologLoggerFactory", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_factory_1_1_monolog_logger_factory.html", null ]
+    ] ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Logger\\LoggerServiceFactory", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_logger_service_factory.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\MailValidator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_mail_validator.html", null ],
     [ "OxidEsales\\EshopCommunity\\Application\\Model\\Maintenance", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_maintenance.html", null ],
     [ "OxidEsales\\EshopCommunity\\Setup\\Messages", "class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_messages.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\Autoload\\ModuleAutoload", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_autoload_1_1_module_autoload.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\Module\\ModuleChainsGenerator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_chains_generator.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\Module\\ModuleExtensionsCleaner", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_extensions_cleaner.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Core\\Module\\ModuleSmartyPluginDirectories", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_smarty_plugin_directories.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Core\\Module\\ModuleSmartyPluginDirectoryRepository", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_smarty_plugin_directory_repository.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Core\\Module\\ModuleSmartyPluginDirectoryValidator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_smarty_plugin_directory_validator.html", null ],
     [ "OxidEsales\\EshopCommunity\\Setup\\Controller\\ModuleStateMapGenerator", "class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_controller_1_1_module_state_map_generator.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\Module\\ModuleTemplateBlockContentReader", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_template_block_content_reader.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\Module\\ModuleTemplateBlockPathFormatter", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_template_block_path_formatter.html", null ],
@@ -575,6 +620,13 @@ var hierarchy =
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\Admin\\NewsletterSend", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_newsletter_send.html", null ]
     ] ],
     [ "OxidEsales\\EshopCommunity\\Core\\NoJsValidator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_no_js_validator.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Common\\DataMapper\\ObjectMapperInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_object_mapper_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Common\\DataMapper\\EntityMapperInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_entity_mapper_interface.html", [
+        [ "OxidEsales\\EshopCommunity\\Internal\\Review\\DataMapper\\ProductRatingDataMapper", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_product_rating_data_mapper.html", null ],
+        [ "OxidEsales\\EshopCommunity\\Internal\\Review\\DataMapper\\RatingDataMapper", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_rating_data_mapper.html", null ],
+        [ "OxidEsales\\EshopCommunity\\Internal\\Review\\DataMapper\\ReviewDataMapper", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_review_data_mapper.html", null ]
+      ] ]
+    ] ],
     [ "ObjectSeo", null, [
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\Admin\\ArticleSeo", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_article_seo.html", null ],
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\Admin\\CategorySeo", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_category_seo.html", null ],
@@ -582,19 +634,19 @@ var hierarchy =
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\Admin\\ManufacturerSeo", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_manufacturer_seo.html", null ],
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\Admin\\VendorSeo", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_vendor_seo.html", null ]
     ] ],
-    [ "OxidEsales\\EshopCommunity\\Core\\OnlineCaller", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_caller.html", null ],
     [ "OnlineCaller", null, [
       [ "OxidEsales\\EshopCommunity\\Core\\OnlineLicenseCheckCaller", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_license_check_caller.html", null ],
       [ "OxidEsales\\EshopCommunity\\Core\\OnlineModuleVersionNotifierCaller", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_module_version_notifier_caller.html", null ]
     ] ],
+    [ "OxidEsales\\EshopCommunity\\Core\\OnlineCaller", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_caller.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\OnlineLicenseCheck", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_license_check.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\OnlineLicenseCheckResponse", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_license_check_response.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\OnlineModuleVersionNotifier", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_module_version_notifier.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Core\\OnlineRequest", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_request.html", null ],
     [ "OnlineRequest", null, [
       [ "OxidEsales\\EshopCommunity\\Core\\OnlineLicenseCheckRequest", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_license_check_request.html", null ],
       [ "OxidEsales\\EshopCommunity\\Core\\OnlineModulesNotifierRequest", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_modules_notifier_request.html", null ]
     ] ],
-    [ "OxidEsales\\EshopCommunity\\Core\\OnlineRequest", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_request.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\OpenSSLFunctionalityChecker", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_open_s_s_l_functionality_checker.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\Oxid", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_oxid.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\PasswordHasher", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_password_hasher.html", null ],
@@ -613,6 +665,14 @@ var hierarchy =
     ] ],
     [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Service\\ProductRatingServiceInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_product_rating_service_interface.html", [
       [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Service\\ProductRatingService", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_product_rating_service.html", null ]
+    ] ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Logger\\Configuration\\PsrLoggerConfigurationInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_configuration_1_1_psr_logger_configuration_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Logger\\Configuration\\MonologConfigurationInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_configuration_1_1_monolog_configuration_interface.html", [
+        [ "OxidEsales\\EshopCommunity\\Internal\\Logger\\Configuration\\MonologConfiguration", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_configuration_1_1_monolog_configuration.html", null ]
+      ] ]
+    ] ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Common\\Database\\QueryBuilderFactoryInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_database_1_1_query_builder_factory_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Common\\Database\\QueryBuilderFactory", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_database_1_1_query_builder_factory.html", null ]
     ] ],
     [ "OxidEsales\\EshopCommunity\\Internal\\Review\\DataObject\\Rating", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_object_1_1_rating.html", null ],
     [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Service\\RatingCalculatorServiceInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_rating_calculator_service_interface.html", [
@@ -634,7 +694,6 @@ var hierarchy =
     [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Dao\\ReviewDaoInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao_interface.html", [
       [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Dao\\ReviewDao", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao.html", null ]
     ] ],
-    [ "OxidEsales\\EshopCommunity\\Internal\\Review\\ServiceFactory\\ReviewServiceFactory", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html", null ],
     [ "OxidEsales\\EshopCommunity\\Application\\Model\\Selection", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_selection.html", null ],
     [ "SeoEncoder", null, [
       [ "OxidEsales\\EshopCommunity\\Application\\Model\\SeoEncoderArticle", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_seo_encoder_article.html", null ],
@@ -647,6 +706,9 @@ var hierarchy =
     [ "OxidEsales\\EshopCommunity\\Core\\SepaBICValidator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_sepa_b_i_c_validator.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\SepaIBANValidator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_sepa_i_b_a_n_validator.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\SepaValidator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_sepa_validator.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Adapter\\ShopAdapterInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_adapter_1_1_shop_adapter_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Adapter\\ShopAdapter", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_adapter_1_1_shop_adapter.html", null ]
+    ] ],
     [ "ShopConfiguration", null, [
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\Admin\\DynEconda", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_dyn_econda.html", null ],
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\Admin\\ModuleConfiguration", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_module_configuration.html", null ],
@@ -750,7 +812,8 @@ var hierarchy =
       [ "OxidEsales\\EshopCommunity\\Migrations\\Version20170718124421", "class_oxid_esales_1_1_eshop_community_1_1_migrations_1_1_version20170718124421.html", null ],
       [ "OxidEsales\\EshopCommunity\\Migrations\\Version20171018144650", "class_oxid_esales_1_1_eshop_community_1_1_migrations_1_1_version20171018144650.html", null ],
       [ "OxidEsales\\EshopCommunity\\Migrations\\Version20180214152228", "class_oxid_esales_1_1_eshop_community_1_1_migrations_1_1_version20180214152228.html", null ],
-      [ "OxidEsales\\EshopCommunity\\Migrations\\Version20180228160418", "class_oxid_esales_1_1_eshop_community_1_1_migrations_1_1_version20180228160418.html", null ]
+      [ "OxidEsales\\EshopCommunity\\Migrations\\Version20180228160418", "class_oxid_esales_1_1_eshop_community_1_1_migrations_1_1_version20180228160418.html", null ],
+      [ "OxidEsales\\EshopCommunity\\Migrations\\Version20180703135728", "class_oxid_esales_1_1_eshop_community_1_1_migrations_1_1_version20180703135728.html", null ]
     ] ],
     [ "AbstractUpdatableFields", null, [
       [ "OxidEsales\\EshopCommunity\\Application\\Model\\User\\UserShippingAddressUpdatableFields", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user_1_1_user_shipping_address_updatable_fields.html", null ],
@@ -762,6 +825,12 @@ var hierarchy =
     [ "ClassProviderStorageInterface", null, [
       [ "OxidEsales\\EshopCommunity\\Core\\Routing\\Module\\ClassProviderStorage", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_routing_1_1_module_1_1_class_provider_storage.html", null ]
     ] ],
+    [ "ContainerExceptionInterface", null, [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Application\\PSR11Compliance\\ContainerException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_p_s_r11_compliance_1_1_container_exception.html", null ]
+    ] ],
+    [ "ContainerInterface", null, [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Application\\PSR11Compliance\\ContainerWrapper", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_p_s_r11_compliance_1_1_container_wrapper.html", null ]
+    ] ],
     [ "ControllerMapProviderInterface", null, [
       [ "OxidEsales\\EshopCommunity\\Core\\Routing\\ModuleControllerMapProvider", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_routing_1_1_module_controller_map_provider.html", null ]
     ] ],
@@ -770,6 +839,7 @@ var hierarchy =
     ] ],
     [ "Exception", null, [
       [ "OxidEsales\\EshopCommunity\\Core\\Exception\\StandardException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_standard_exception.html", null ],
+      [ "OxidEsales\\EshopCommunity\\Internal\\Application\\PSR11Compliance\\NotFoundException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_p_s_r11_compliance_1_1_not_found_exception.html", null ],
       [ "OxidEsales\\EshopCommunity\\Internal\\Common\\Exception\\EntryDoesNotExistDaoException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_exception_1_1_entry_does_not_exist_dao_exception.html", null ],
       [ "OxidEsales\\EshopCommunity\\Internal\\Common\\Exception\\InvalidObjectIdDaoException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_exception_1_1_invalid_object_id_dao_exception.html", null ],
       [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Exception\\RatingPermissionException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_exception_1_1_rating_permission_exception.html", null ],
@@ -778,6 +848,15 @@ var hierarchy =
       [ "OxidEsales\\EshopCommunity\\Setup\\Exception\\CommandExecutionFailedException", "class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_exception_1_1_command_execution_failed_exception.html", null ],
       [ "OxidEsales\\EshopCommunity\\Setup\\Exception\\SetupControllerExitException", "class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_exception_1_1_setup_controller_exit_exception.html", null ],
       [ "OxidEsales\\EshopCommunity\\Setup\\Exception\\TemplateNotFoundException", "class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_exception_1_1_template_not_found_exception.html", null ]
+    ] ],
+    [ "Exception", null, [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Application\\PSR11Compliance\\ContainerException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_p_s_r11_compliance_1_1_container_exception.html", null ]
+    ] ],
+    [ "LoggerInterface", null, [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Logger\\Wrapper\\LoggerWrapper", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_wrapper_1_1_logger_wrapper.html", null ]
+    ] ],
+    [ "NotFoundExceptionInterface", null, [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Application\\PSR11Compliance\\NotFoundException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_p_s_r11_compliance_1_1_not_found_exception.html", null ]
     ] ],
     [ "PHPMailer", null, [
       [ "OxidEsales\\EshopCommunity\\Core\\Email", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_email.html", null ]

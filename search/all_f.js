@@ -62,5 +62,8 @@ var searchData=
   ['noresultexception',['NoResultException',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_no_result_exception.html',1,'OxidEsales::EshopCommunity::Core::Exception']]],
   ['noresultexception_2ephp',['NoResultException.php',['../_no_result_exception_8php.html',1,'']]],
   ['normalizeactionformdata',['normalizeActionFormData',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_actions_main.html#a25a10559be20ccd80095b9a05654d4cf',1,'OxidEsales::EshopCommunity::Application::Controller::Admin::ActionsMain']]],
-  ['normalizedir',['normalizeDir',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_file.html#abc0d0251373fdde951687b462a42af5d',1,'OxidEsales::EshopCommunity::Core::UtilsFile']]]
+  ['normalizedir',['normalizeDir',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_file.html#abc0d0251373fdde951687b462a42af5d',1,'OxidEsales::EshopCommunity::Core::UtilsFile']]],
+  ['notfoundexception',['NotFoundException',['../class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_p_s_r11_compliance_1_1_not_found_exception.html',1,'OxidEsales::EshopCommunity::Internal::Application::PSR11Compliance']]],
+  ['notfoundexception_2ephp',['NotFoundException.php',['../_not_found_exception_8php.html',1,'']]],
+  ['notice',['notice',['../class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_wrapper_1_1_logger_wrapper.html#a95c7a0b0897ee0150f8aea3e94bd2e76',1,'OxidEsales::EshopCommunity::Internal::Logger::Wrapper::LoggerWrapper']]]
 ];
