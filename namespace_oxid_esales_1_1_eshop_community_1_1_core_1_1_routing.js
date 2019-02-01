@@ -1,0 +1,7 @@
+var namespace_oxid_esales_1_1_eshop_community_1_1_core_1_1_routing =
+[
+    [ "Module", "namespace_oxid_esales_1_1_eshop_community_1_1_core_1_1_routing_1_1_module.html", "namespace_oxid_esales_1_1_eshop_community_1_1_core_1_1_routing_1_1_module" ],
+    [ "ControllerClassNameResolver", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_routing_1_1_controller_class_name_resolver.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_routing_1_1_controller_class_name_resolver" ],
+    [ "ModuleControllerMapProvider", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_routing_1_1_module_controller_map_provider.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_routing_1_1_module_controller_map_provider" ],
+    [ "ShopControllerMapProvider", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_routing_1_1_shop_controller_map_provider.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_routing_1_1_shop_controller_map_provider" ]
+];

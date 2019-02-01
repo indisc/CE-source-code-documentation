@@ -1,0 +1,4 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_dao_1_1_application_server_dao_interface =
+[
+    [ "findAppServer", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_dao_1_1_application_server_dao_interface.html#a0009c32ec057702d75f90f1fb7b1aa38", null ]
+];

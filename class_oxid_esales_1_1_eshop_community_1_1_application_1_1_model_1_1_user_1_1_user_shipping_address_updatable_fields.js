@@ -1,0 +1,5 @@
+var class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user_1_1_user_shipping_address_updatable_fields =
+[
+    [ "__construct", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user_1_1_user_shipping_address_updatable_fields.html#af49a94c193d17813180abb5ec5981a4b", null ],
+    [ "getUpdatableFields", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user_1_1_user_shipping_address_updatable_fields.html#ada3f61309ae81780a2bcf913728b803f", null ]
+];

@@ -1,0 +1,27 @@
+var namespace_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception =
+[
+    [ "ArticleException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_article_exception.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_article_exception" ],
+    [ "ArticleInputException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_article_input_exception.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_article_input_exception" ],
+    [ "ConnectionException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_connection_exception.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_connection_exception" ],
+    [ "CookieException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_cookie_exception.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_cookie_exception" ],
+    [ "DatabaseConnectionException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_database_connection_exception.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_database_connection_exception" ],
+    [ "DatabaseErrorException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_database_error_exception.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_database_error_exception" ],
+    [ "DatabaseException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_database_exception.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_database_exception" ],
+    [ "DatabaseNotConfiguredException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_database_not_configured_exception.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_database_not_configured_exception" ],
+    [ "ExceptionHandler", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_handler.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_handler" ],
+    [ "ExceptionToDisplay", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_to_display.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_to_display" ],
+    [ "FileException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_file_exception.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_file_exception" ],
+    [ "InputException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_input_exception.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_input_exception" ],
+    [ "LanguageException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_language_exception.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_language_exception" ],
+    [ "ModuleValidationException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_module_validation_exception.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_module_validation_exception" ],
+    [ "NoArticleException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_no_article_exception.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_no_article_exception" ],
+    [ "NoResultException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_no_result_exception.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_no_result_exception" ],
+    [ "ObjectException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_object_exception.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_object_exception" ],
+    [ "OutOfStockException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_out_of_stock_exception.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_out_of_stock_exception" ],
+    [ "RoutingException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_routing_exception.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_routing_exception" ],
+    [ "ShopException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_shop_exception.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_shop_exception" ],
+    [ "StandardException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_standard_exception.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_standard_exception" ],
+    [ "SystemComponentException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_system_component_exception.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_system_component_exception" ],
+    [ "UserException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_user_exception.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_user_exception" ],
+    [ "VoucherException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_voucher_exception.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_voucher_exception" ]
+];

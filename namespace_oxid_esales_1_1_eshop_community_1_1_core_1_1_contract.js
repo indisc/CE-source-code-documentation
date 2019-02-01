@@ -1,0 +1,13 @@
+var namespace_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract =
+[
+    [ "AbstractUpdatableFields", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_abstract_updatable_fields.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_abstract_updatable_fields" ],
+    [ "ClassNameResolverInterface", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_class_name_resolver_interface.html", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_class_name_resolver_interface" ],
+    [ "ClassProviderStorageInterface", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_class_provider_storage_interface.html", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_class_provider_storage_interface" ],
+    [ "ControllerMapProviderInterface", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_controller_map_provider_interface.html", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_controller_map_provider_interface" ],
+    [ "IConfigurable", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_configurable.html", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_configurable" ],
+    [ "ICountryAware", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_country_aware.html", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_country_aware" ],
+    [ "IDisplayError", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_display_error.html", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_display_error" ],
+    [ "IModuleValidator", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_module_validator.html", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_module_validator" ],
+    [ "ISelectList", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_select_list.html", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_select_list" ],
+    [ "IUrl", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_url.html", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_url" ]
+];

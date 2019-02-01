@@ -1,0 +1,4 @@
+var class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_discount_controller =
+[
+    [ "$_sThisTemplate", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_discount_controller.html#a0d590e0677b118cbad6f722537ed2d80", null ]
+];

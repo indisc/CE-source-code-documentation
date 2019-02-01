@@ -1,0 +1,4 @@
+var class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_system_requirements_list =
+[
+    [ "$_sThisTemplate", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_system_requirements_list.html#a55a992f857713b00e4ecf2ec2f79f6be", null ]
+];

@@ -1,0 +1,5 @@
+var namespace_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_contract =
+[
+    [ "ArticleInterface", "interface_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_contract_1_1_article_interface.html", "interface_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_contract_1_1_article_interface" ],
+    [ "CacheConnectorInterface", "interface_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_contract_1_1_cache_connector_interface.html", null ]
+];

@@ -1,0 +1,11 @@
+<map id="OxidEsales\EshopCommunity\Setup\Core" name="OxidEsales\EshopCommunity\Setup\Core">
+<area shape="rect" id="node1" title=" " alt="" coords="5,235,195,276"/>
+<area shape="rect" id="node2" href="$class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_controller.html" title=" " alt="" coords="243,5,432,47"/>
+<area shape="rect" id="node3" href="$class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_database.html" title=" " alt="" coords="243,71,432,112"/>
+<area shape="rect" id="node4" href="$class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_dispatcher.html" title=" " alt="" coords="243,136,432,177"/>
+<area shape="rect" id="node5" href="$class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_language.html" title=" " alt="" coords="243,201,432,243"/>
+<area shape="rect" id="node6" href="$class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_session.html" title=" " alt="" coords="243,267,432,308"/>
+<area shape="rect" id="node7" href="$class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_setup.html" title=" " alt="" coords="243,332,432,373"/>
+<area shape="rect" id="node8" href="$class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_utilities.html" title=" " alt="" coords="243,397,432,439"/>
+<area shape="rect" id="node9" href="$class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_view.html" title=" " alt="" coords="243,463,432,504"/>
+</map>
