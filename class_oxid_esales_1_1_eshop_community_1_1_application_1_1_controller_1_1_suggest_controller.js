@@ -7,6 +7,8 @@ var class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_sug
     [ "getRecommList", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_suggest_controller.html#a86fad39748702caf685821a1f7c45dd8", null ],
     [ "getSimilarProducts", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_suggest_controller.html#a34101f7997ae67aec9d2683a9e2e2030", null ],
     [ "getSuggestData", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_suggest_controller.html#aac482fa27a6c556e45dca38feae9eff5", null ],
+    [ "init", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_suggest_controller.html#a85cfdeda7f0ed815b00e552cfa500408", null ],
+    [ "redirectToHomeIfDisabled", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_suggest_controller.html#a637c5b70c390abb51927c4e1ff38104c", null ],
     [ "send", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_suggest_controller.html#a2116ad8efdcdefbac30b905fcf5a9aa3", null ],
     [ "setSuggestData", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_suggest_controller.html#aa1c81582b8e92081209e20389a009b5f", null ],
     [ "$_aReqFields", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_suggest_controller.html#af159d6fde1d1fb54f5d08a64005aee56", null ],

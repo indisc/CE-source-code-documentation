@@ -19,5 +19,12 @@ var searchData=
   ['pricealarmmail',['PriceAlarmMail',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_price_alarm_mail.html',1,'OxidEsales::EshopCommunity::Application::Controller::Admin']]],
   ['pricealarmmain',['PriceAlarmMain',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_price_alarm_main.html',1,'OxidEsales::EshopCommunity::Application::Controller::Admin']]],
   ['pricealarmsend',['PriceAlarmSend',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_price_alarm_send.html',1,'OxidEsales::EshopCommunity::Application::Controller::Admin']]],
-  ['pricelist',['PriceList',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_price_list.html',1,'OxidEsales::EshopCommunity::Core']]]
+  ['pricelist',['PriceList',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_price_list.html',1,'OxidEsales::EshopCommunity::Core']]],
+  ['productrating',['ProductRating',['../class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_object_1_1_product_rating.html',1,'OxidEsales::EshopCommunity::Internal::Review::DataObject']]],
+  ['productratingbridge',['ProductRatingBridge',['../class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_product_rating_bridge.html',1,'OxidEsales::EshopCommunity::Internal::Review::Bridge']]],
+  ['productratingbridgeinterface',['ProductRatingBridgeInterface',['../interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_product_rating_bridge_interface.html',1,'OxidEsales::EshopCommunity::Internal::Review::Bridge']]],
+  ['productratingdao',['ProductRatingDao',['../class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao.html',1,'OxidEsales::EshopCommunity::Internal::Review::Dao']]],
+  ['productratingdaointerface',['ProductRatingDaoInterface',['../interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao_interface.html',1,'OxidEsales::EshopCommunity::Internal::Review::Dao']]],
+  ['productratingservice',['ProductRatingService',['../class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_product_rating_service.html',1,'OxidEsales::EshopCommunity::Internal::Review::Service']]],
+  ['productratingserviceinterface',['ProductRatingServiceInterface',['../interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_product_rating_service_interface.html',1,'OxidEsales::EshopCommunity::Internal::Review::Service']]]
 ];

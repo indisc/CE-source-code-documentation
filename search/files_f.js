@@ -21,5 +21,12 @@ var searchData=
   ['pricealarmmail_2ephp',['PriceAlarmMail.php',['../_price_alarm_mail_8php.html',1,'']]],
   ['pricealarmmain_2ephp',['PriceAlarmMain.php',['../_price_alarm_main_8php.html',1,'']]],
   ['pricealarmsend_2ephp',['PriceAlarmSend.php',['../_price_alarm_send_8php.html',1,'']]],
-  ['pricelist_2ephp',['PriceList.php',['../_price_list_8php.html',1,'']]]
+  ['pricelist_2ephp',['PriceList.php',['../_price_list_8php.html',1,'']]],
+  ['productrating_2ephp',['ProductRating.php',['../_product_rating_8php.html',1,'']]],
+  ['productratingbridge_2ephp',['ProductRatingBridge.php',['../_product_rating_bridge_8php.html',1,'']]],
+  ['productratingbridgeinterface_2ephp',['ProductRatingBridgeInterface.php',['../_product_rating_bridge_interface_8php.html',1,'']]],
+  ['productratingdao_2ephp',['ProductRatingDao.php',['../_product_rating_dao_8php.html',1,'']]],
+  ['productratingdaointerface_2ephp',['ProductRatingDaoInterface.php',['../_product_rating_dao_interface_8php.html',1,'']]],
+  ['productratingservice_2ephp',['ProductRatingService.php',['../_product_rating_service_8php.html',1,'']]],
+  ['productratingserviceinterface_2ephp',['ProductRatingServiceInterface.php',['../_product_rating_service_interface_8php.html',1,'']]]
 ];

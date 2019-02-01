@@ -9,7 +9,7 @@ var searchData=
   ['languagecontroller_2ephp',['LanguageController.php',['../_language_controller_8php.html',1,'']]],
   ['languageexception',['LanguageException',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_language_exception.html',1,'OxidEsales::EshopCommunity::Core::Exception']]],
   ['languageexception_2ephp',['LanguageException.php',['../_language_exception_8php.html',1,'']]],
-  ['languagelist',['LanguageList',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_language_list.html',1,'OxidEsales\EshopCommunity\Application\Controller\Admin\LanguageList'],['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_widget_1_1_language_list.html',1,'OxidEsales\EshopCommunity\Application\Component\Widget\LanguageList']]],
+  ['languagelist',['LanguageList',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_widget_1_1_language_list.html',1,'OxidEsales\EshopCommunity\Application\Component\Widget\LanguageList'],['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_language_list.html',1,'OxidEsales\EshopCommunity\Application\Controller\Admin\LanguageList']]],
   ['languagelist_2ephp',['LanguageList.php',['../_component_2_widget_2_language_list_8php.html',1,'(Global Namespace)'],['../_controller_2_admin_2_language_list_8php.html',1,'(Global Namespace)']]],
   ['languagemain',['LanguageMain',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_language_main.html',1,'OxidEsales::EshopCommunity::Application::Controller::Admin']]],
   ['languagemain_2ephp',['LanguageMain.php',['../_language_main_8php.html',1,'']]],

@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">OXID eShop CE
-   &#160;<span id="projectnumber">6.0.1</span>
+   &#160;<span id="projectnumber">6.0.2</span>
    </div>
   </td>
  </tr>
@@ -217,6 +217,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a226228ac6f11babe312f40c8d8bfa255"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa6ee70f93968b7cbbbfcec6b052d6e63"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_view_config.html#aa6ee70f93968b7cbbbfcec6b052d6e63">getShowListmania</a> ()</td></tr>
 <tr class="separator:aa6ee70f93968b7cbbbfcec6b052d6e63"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac2bf4f42f7e1b27ad6c9472416b867eb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_view_config.html#ac2bf4f42f7e1b27ad6c9472416b867eb">getShowSuggest</a> ()</td></tr>
+<tr class="separator:ac2bf4f42f7e1b27ad6c9472416b867eb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aff14ce560fb164da1d84ffd704c331e8"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_view_config.html#aff14ce560fb164da1d84ffd704c331e8">getShowVouchers</a> ()</td></tr>
 <tr class="separator:aff14ce560fb164da1d84ffd704c331e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac7286dce4d220543d427ea9f3bd092de"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_view_config.html#ac7286dce4d220543d427ea9f3bd092de">getShowGiftWrapping</a> ()</td></tr>
@@ -756,7 +758,7 @@ Private Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <p>Returns active recommendation id parameter</p>
-<dl class="deprecated"><dt><b><a class="el" href="deprecated.html#_deprecated000201">Deprecated:</a></b></dt><dd>since v5.3 (2016-06-17); Listmania will be moved to an own module.</dd></dl>
+<dl class="deprecated"><dt><b><a class="el" href="deprecated.html#_deprecated000202">Deprecated:</a></b></dt><dd>since v5.3 (2016-06-17); Listmania will be moved to an own module.</dd></dl>
 <dl class="section return"><dt>Returns</dt><dd>string </dd></dl>
 
 </div>
@@ -1698,7 +1700,7 @@ Private Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <p>Returns session id</p>
-<dl class="deprecated"><dt><b><a class="el" href="deprecated.html#_deprecated000202">Deprecated:</a></b></dt><dd>v5.1.0 Use conditional sid getter \OxidEsales\Eshop\Core\Controller\BaseController::getSidForWidget() for widgets instead</dd></dl>
+<dl class="deprecated"><dt><b><a class="el" href="deprecated.html#_deprecated000203">Deprecated:</a></b></dt><dd>v5.1.0 Use conditional sid getter \OxidEsales\Eshop\Core\Controller\BaseController::getSidForWidget() for widgets instead</dd></dl>
 <dl class="section return"><dt>Returns</dt><dd>string </dd></dl>
 
 </div>
@@ -1813,7 +1815,27 @@ Private Member Functions</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <p>Returns config param "bl_showListmania" value</p>
-<dl class="deprecated"><dt><b><a class="el" href="deprecated.html#_deprecated000203">Deprecated:</a></b></dt><dd>since v5.3 (2016-06-17); Listmania will be moved to an own module.</dd></dl>
+<dl class="deprecated"><dt><b><a class="el" href="deprecated.html#_deprecated000204">Deprecated:</a></b></dt><dd>since v5.3 (2016-06-17); Listmania will be moved to an own module.</dd></dl>
+<dl class="section return"><dt>Returns</dt><dd>bool </dd></dl>
+
+</div>
+</div>
+<a id="ac2bf4f42f7e1b27ad6c9472416b867eb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac2bf4f42f7e1b27ad6c9472416b867eb">&#9670;&nbsp;</a></span>getShowSuggest()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">OxidEsales\EshopCommunity\Core\ViewConfig::getShowSuggest </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Returns config param "blAllowSuggestArticle" value.</p>
+<dl class="deprecated"><dt><b><a class="el" href="deprecated.html#_deprecated000205">Deprecated:</a></b></dt><dd>since v6.2.0 (2017-02-15); Recommendations feature will be moved to an own module.</dd></dl>
 <dl class="section return"><dt>Returns</dt><dd>bool </dd></dl>
 
 </div>
@@ -2546,7 +2568,7 @@ Private Member Functions</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>/home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.0.1/vendor/oxid-esales/oxideshop-ce/source/Core/<a class="el" href="_view_config_8php.html">ViewConfig.php</a></li>
+<li>/home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.0.2/vendor/oxid-esales/oxideshop-ce/source/Core/<a class="el" href="_view_config_8php.html">ViewConfig.php</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

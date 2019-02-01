@@ -23,6 +23,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_core_1_1_db_meta_data_handler =
     [ "resetLanguage", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_db_meta_data_handler.html#a478f1bb240684937cfe5af83b2931cd5", null ],
     [ "resetMultilangFields", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_db_meta_data_handler.html#a48703146efbc74a450935dae50d574b5", null ],
     [ "safeGuardAdditionalMultiLanguageTables", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_db_meta_data_handler.html#a07059a11a54d23e6a1e4fc8dcf633333", null ],
+    [ "setConfigToDoNotUseViews", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_db_meta_data_handler.html#ab9f40f96634269ef3499cc441b5616a2", null ],
     [ "tableExists", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_db_meta_data_handler.html#a609ebfc7339b60c8f1956f70396432fc", null ],
     [ "updateViews", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_db_meta_data_handler.html#a4688d390943dda19e6b1fc1e5eee4181", null ],
     [ "validateTableName", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_db_meta_data_handler.html#a2d5f7c689c7091d16b75f96e463ef32a", null ],

@@ -69,6 +69,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_core_1_1_view_config =
     [ "getShowCompareList", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_view_config.html#a226228ac6f11babe312f40c8d8bfa255", null ],
     [ "getShowGiftWrapping", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_view_config.html#ac7286dce4d220543d427ea9f3bd092de", null ],
     [ "getShowListmania", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_view_config.html#aa6ee70f93968b7cbbbfcec6b052d6e63", null ],
+    [ "getShowSuggest", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_view_config.html#ac2bf4f42f7e1b27ad6c9472416b867eb", null ],
     [ "getShowVouchers", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_view_config.html#aff14ce560fb164da1d84ffd704c331e8", null ],
     [ "getShowWishlist", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_view_config.html#a840431a751254d076b49091e9b8bf906", null ],
     [ "getSslSelfLink", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_view_config.html#a95aefcc359619ae063fe157fd53bcf52", null ],

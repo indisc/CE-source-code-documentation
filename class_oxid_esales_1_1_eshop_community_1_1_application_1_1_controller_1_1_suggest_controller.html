@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">OXID eShop CE
-   &#160;<span id="projectnumber">6.0.1</span>
+   &#160;<span id="projectnumber">6.0.2</span>
    </div>
   </td>
  </tr>
@@ -89,6 +89,7 @@ $(document).ready(function(){initNavTree('class_oxid_esales_1_1_eshop_community_
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pro-attribs">Protected Attributes</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_suggest_controller-members.html">List of all members</a>  </div>
   <div class="headertitle">
 <div class="title">OxidEsales\EshopCommunity\Application\Controller\SuggestController Class Reference</div>  </div>
@@ -119,6 +120,8 @@ $(document).ready(function(){initNavTree('class_oxid_esales_1_1_eshop_community_
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
+<tr class="memitem:a85cfdeda7f0ed815b00e552cfa500408"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_suggest_controller.html#a85cfdeda7f0ed815b00e552cfa500408">init</a> ()</td></tr>
+<tr class="separator:a85cfdeda7f0ed815b00e552cfa500408"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2116ad8efdcdefbac30b905fcf5a9aa3"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_suggest_controller.html#a2116ad8efdcdefbac30b905fcf5a9aa3">send</a> ()</td></tr>
 <tr class="separator:a2116ad8efdcdefbac30b905fcf5a9aa3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a934b6dc3056235a067e43366e1d5589a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_suggest_controller.html#a934b6dc3056235a067e43366e1d5589a">getProduct</a> ()</td></tr>
@@ -152,9 +155,15 @@ Protected Attributes</h2></td></tr>
 <tr class="separator:a127366c0c5077ab7f2abc77ebc28b8d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2b27b617ee9bd902abfed04ab6ef83e0"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_suggest_controller.html#a2b27b617ee9bd902abfed04ab6ef83e0">$_aSuggestData</a> = null</td></tr>
 <tr class="separator:a2b27b617ee9bd902abfed04ab6ef83e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a637c5b70c390abb51927c4e1ff38104c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_suggest_controller.html#a637c5b70c390abb51927c4e1ff38104c">redirectToHomeIfDisabled</a> ()</td></tr>
+<tr class="separator:a637c5b70c390abb51927c4e1ff38104c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
-<div class="textblock"><p>Article suggestion page. Collects some article base information, sets default recomendation text, sends suggestion mail to user. </p>
+<div class="textblock"><p>Article suggestion page. Collects some article base information, sets default recommendation text, sends suggestion mail to user.</p>
+<dl class="deprecated"><dt><b><a class="el" href="deprecated.html#_deprecated000070">Deprecated:</a></b></dt><dd>since v6.2.0 (2017-02-15); Recommendations feature will be moved to an own module. </dd></dl>
 </div><h2 class="groupheader">Member Function Documentation</h2>
 <a id="a7ded451539261364c9006b6407c0ec04"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a7ded451539261364c9006b6407c0ec04">&#9670;&nbsp;</a></span>getBreadCrumb()</h2>
@@ -254,7 +263,7 @@ Protected Attributes</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <p>Template variable getter. Returns recommlist's reviews</p>
-<dl class="deprecated"><dt><b><a class="el" href="deprecated.html#_deprecated000072">Deprecated:</a></b></dt><dd>since v5.3 (2016-06-17); Listmania will be moved to an own module.</dd></dl>
+<dl class="deprecated"><dt><b><a class="el" href="deprecated.html#_deprecated000073">Deprecated:</a></b></dt><dd>since v5.3 (2016-06-17); Listmania will be moved to an own module.</dd></dl>
 <dl class="section return"><dt>Returns</dt><dd>array </dd></dl>
 
 </div>
@@ -294,6 +303,50 @@ Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 <p>Template variable getter. Returns active object's reviews</p>
 <dl class="section return"><dt>Returns</dt><dd>array </dd></dl>
+
+</div>
+</div>
+<a id="a85cfdeda7f0ed815b00e552cfa500408"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a85cfdeda7f0ed815b00e552cfa500408">&#9670;&nbsp;</a></span>init()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">OxidEsales\EshopCommunity\Application\Controller\SuggestController::init </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Assures, that controller would not be accessed if functionality disabled. </p>
+
+</div>
+</div>
+<a id="a637c5b70c390abb51927c4e1ff38104c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a637c5b70c390abb51927c4e1ff38104c">&#9670;&nbsp;</a></span>redirectToHomeIfDisabled()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">OxidEsales\EshopCommunity\Application\Controller\SuggestController::redirectToHomeIfDisabled </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<p>In case functionality disabled, redirects to home page. </p>
 
 </div>
 </div>
@@ -476,7 +529,7 @@ Protected Attributes</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>/home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.0.1/vendor/oxid-esales/oxideshop-ce/source/Application/Controller/<a class="el" href="_suggest_controller_8php.html">SuggestController.php</a></li>
+<li>/home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.0.2/vendor/oxid-esales/oxideshop-ce/source/Application/Controller/<a class="el" href="_suggest_controller_8php.html">SuggestController.php</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">OXID eShop CE
-   &#160;<span id="projectnumber">6.0.1</span>
+   &#160;<span id="projectnumber">6.0.2</span>
    </div>
   </td>
  </tr>
@@ -89,6 +89,7 @@ $(document).ready(function(){initNavTree('class_oxid_esales_1_1_eshop_community_
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pro-attribs">Protected Attributes</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rating-members.html">List of all members</a>  </div>
   <div class="headertitle">
 <div class="title">OxidEsales\EshopCommunity\Application\Model\Rating Class Reference</div>  </div>
@@ -131,6 +132,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:adeb15fdbbaca21ea37a32cf5141f46f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a57d8b0374f7fe773f816c8584cc7fd2a"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rating.html#a57d8b0374f7fe773f816c8584cc7fd2a">getObjectId</a> ()</td></tr>
 <tr class="separator:a57d8b0374f7fe773f816c8584cc7fd2a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5af736522a78768ae4f322150d9f7119"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rating.html#a5af736522a78768ae4f322150d9f7119">delete</a> ($oxid=null)</td></tr>
+<tr class="separator:a5af736522a78768ae4f322150d9f7119"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-attribs"></a>
 Protected Attributes</h2></td></tr>
@@ -138,6 +141,15 @@ Protected Attributes</h2></td></tr>
 <tr class="separator:adde731bde944d4bd4c212fa2e75a533a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a11eb8fe4d66cc0f1b4add4f1330a099f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rating.html#a11eb8fe4d66cc0f1b4add4f1330a099f">$_sClassName</a> = 'oxrating'</td></tr>
 <tr class="separator:a11eb8fe4d66cc0f1b4add4f1330a099f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:a446a4a471995ac621af8af405c50f25d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rating.html#a446a4a471995ac621af8af405c50f25d">isProductObjectType</a> ()</td></tr>
+<tr class="separator:a446a4a471995ac621af8af405c50f25d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a403f020bcad79f221c0f8ac34992a750"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rating.html#a403f020bcad79f221c0f8ac34992a750">updateProductRating</a> ()</td></tr>
+<tr class="separator:a403f020bcad79f221c0f8ac34992a750"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a447354335efa44f8774c351db98af85f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rating.html#a447354335efa44f8774c351db98af85f">getContainer</a> ()</td></tr>
+<tr class="separator:a447354335efa44f8774c351db98af85f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html">Article</a> rate manager. Performs loading, updating, inserting of article rates. </p>
@@ -202,6 +214,58 @@ Protected Attributes</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>bool </dd></dl>
+
+</div>
+</div>
+<a id="a5af736522a78768ae4f322150d9f7119"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5af736522a78768ae4f322150d9f7119">&#9670;&nbsp;</a></span>delete()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">OxidEsales\EshopCommunity\Application\Model\Rating::delete </td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>$oxid</em> = <code>null</code></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Delete this object from the database, returns true if entry was deleted.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramtype">string</td><td class="paramname">$oxid</td><td>Object ID(default null)</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>bool </dd></dl>
+
+</div>
+</div>
+<a id="a447354335efa44f8774c351db98af85f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a447354335efa44f8774c351db98af85f">&#9670;&nbsp;</a></span>getContainer()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">OxidEsales\EshopCommunity\Application\Model\Rating::getContainer </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<dl class="section return"><dt>Returns</dt><dd>Container </dd></dl>
 
 </div>
 </div>
@@ -331,6 +395,59 @@ Protected Attributes</h2></td></tr>
 
 </div>
 </div>
+<a id="a446a4a471995ac621af8af405c50f25d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a446a4a471995ac621af8af405c50f25d">&#9670;&nbsp;</a></span>isProductObjectType()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">OxidEsales\EshopCommunity\Application\Model\Rating::isProductObjectType </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<p>Returns true if <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rating.html">Rating</a> belongs to Product.</p>
+<dl class="section return"><dt>Returns</dt><dd>bool </dd></dl>
+
+</div>
+</div>
+<a id="a403f020bcad79f221c0f8ac34992a750"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a403f020bcad79f221c0f8ac34992a750">&#9670;&nbsp;</a></span>updateProductRating()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">OxidEsales\EshopCommunity\Application\Model\Rating::updateProductRating </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<p>Updates Product rating. </p>
+
+</div>
+</div>
 <h2 class="groupheader">Member Data Documentation</h2>
 <a id="adde731bde944d4bd4c212fa2e75a533a"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#adde731bde944d4bd4c212fa2e75a533a">&#9670;&nbsp;</a></span>$_blDisableShopCheck</h2>
@@ -377,7 +494,7 @@ Protected Attributes</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>/home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.0.1/vendor/oxid-esales/oxideshop-ce/source/Application/Model/<a class="el" href="_model_2_rating_8php.html">Rating.php</a></li>
+<li>/home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.0.2/vendor/oxid-esales/oxideshop-ce/source/Application/Model/<a class="el" href="_application_2_model_2_rating_8php.html">Rating.php</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

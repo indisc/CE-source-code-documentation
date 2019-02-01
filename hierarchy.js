@@ -296,6 +296,7 @@ var hierarchy =
     [ "OxidEsales\\EshopCommunity\\Core\\CompanyVatInChecker", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_company_vat_in_checker.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\CompanyVatInValidator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_company_vat_in_validator.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\ConfigFile", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_config_file.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Common\\Container\\Container", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html", null ],
     [ "ContentController", null, [
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\CreditsController", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_credits_controller.html", null ]
     ] ],
@@ -370,7 +371,9 @@ var hierarchy =
     [ "OxidEsales\\EshopCommunity\\Core\\Form\\FormFieldsTrimmerInterface", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_form_1_1_form_fields_trimmer_interface.html", null ],
     [ "FrontendController", null, [
       [ "OxidEsales\\EshopCommunity\\Application\\Component\\Widget\\WidgetController", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_widget_1_1_widget_controller.html", null ],
-      [ "OxidEsales\\EshopCommunity\\Application\\Controller\\AccountController", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html", null ],
+      [ "OxidEsales\\EshopCommunity\\Application\\Controller\\AccountController", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html", [
+        [ "OxidEsales\\EshopCommunity\\Application\\Controller\\AccountReviewController", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_review_controller.html", null ]
+      ] ],
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\ArticleDetailsController", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_article_details_controller.html", null ],
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\ArticleListController", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_article_list_controller.html", null ],
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\BasketController", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_basket_controller.html", null ],
@@ -413,11 +416,11 @@ var hierarchy =
       [ "OxidEsales\\EshopCommunity\\Core\\CompanyVatInCountryChecker", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_company_vat_in_country_checker.html", null ]
     ] ],
     [ "OxidEsales\\EshopCommunity\\Core\\Contract\\ICountryAware", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_country_aware.html", null ],
-    [ "OxidEsales\\EshopCommunity\\Core\\Contract\\IDisplayError", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_display_error.html", null ],
     [ "IDisplayError", null, [
       [ "OxidEsales\\EshopCommunity\\Core\\DisplayError", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_display_error.html", null ],
       [ "OxidEsales\\EshopCommunity\\Core\\Exception\\ExceptionToDisplay", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_to_display.html", null ]
     ] ],
+    [ "OxidEsales\\EshopCommunity\\Core\\Contract\\IDisplayError", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_display_error.html", null ],
     [ "IModuleValidator", null, [
       [ "OxidEsales\\EshopCommunity\\Core\\Module\\ModuleMetadataValidator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_metadata_validator.html", null ]
     ] ],
@@ -438,18 +441,17 @@ var hierarchy =
       [ "OxidEsales\\EshopCommunity\\Core\\GenericImport\\ImportObject\\Vendor", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_generic_import_1_1_import_object_1_1_vendor.html", null ]
     ] ],
     [ "OxidEsales\\EshopCommunity\\Core\\GenericImport\\ImportObject\\ImportObject", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_generic_import_1_1_import_object_1_1_import_object.html", null ],
-    [ "OxidEsales\\EshopCommunity\\Core\\Contract\\ISelectList", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_select_list.html", null ],
     [ "ISelectList", null, [
       [ "OxidEsales\\EshopCommunity\\Application\\Model\\SelectList", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_select_list.html", null ],
       [ "OxidEsales\\EshopCommunity\\Application\\Model\\VariantSelectList", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_variant_select_list.html", null ]
     ] ],
+    [ "OxidEsales\\EshopCommunity\\Core\\Contract\\ISelectList", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_select_list.html", null ],
     [ "Iterator", "class_iterator.html", [
       [ "OxidEsales\\EshopCommunity\\Core\\Model\\ListModel", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_list_model.html", null ]
     ] ],
     [ "IteratorAggregate", "class_iterator_aggregate.html", [
       [ "OxidEsales\\EshopCommunity\\Core\\Database\\Adapter\\Doctrine\\ResultSet", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_database_1_1_adapter_1_1_doctrine_1_1_result_set.html", null ]
     ] ],
-    [ "OxidEsales\\EshopCommunity\\Core\\Contract\\IUrl", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_url.html", null ],
     [ "IUrl", null, [
       [ "OxidEsales\\EshopCommunity\\Application\\Model\\Article", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html", null ],
       [ "OxidEsales\\EshopCommunity\\Application\\Model\\Category", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_category.html", null ],
@@ -459,6 +461,7 @@ var hierarchy =
       [ "OxidEsales\\EshopCommunity\\Application\\Model\\SimpleVariant", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_simple_variant.html", null ],
       [ "OxidEsales\\EshopCommunity\\Application\\Model\\Vendor", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_vendor.html", null ]
     ] ],
+    [ "OxidEsales\\EshopCommunity\\Core\\Contract\\IUrl", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_url.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\ViewHelper\\JavaScriptRegistrator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_view_helper_1_1_java_script_registrator.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\ViewHelper\\JavaScriptRenderer", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_view_helper_1_1_java_script_renderer.html", null ],
     [ "ListComponentAjax", null, [
@@ -601,11 +604,37 @@ var hierarchy =
     ] ],
     [ "OxidEsales\\EshopCommunity\\Core\\Price", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_price.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\PriceList", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_price_list.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Review\\DataObject\\ProductRating", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_object_1_1_product_rating.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Bridge\\ProductRatingBridgeInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_product_rating_bridge_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Bridge\\ProductRatingBridge", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_product_rating_bridge.html", null ]
+    ] ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Dao\\ProductRatingDaoInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Dao\\ProductRatingDao", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao.html", null ]
+    ] ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Service\\ProductRatingServiceInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_product_rating_service_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Service\\ProductRatingService", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_product_rating_service.html", null ]
+    ] ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Review\\DataObject\\Rating", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_object_1_1_rating.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Service\\RatingCalculatorServiceInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_rating_calculator_service_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Service\\RatingCalculatorService", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_rating_calculator_service.html", null ]
+    ] ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Dao\\RatingDaoInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Dao\\RatingDao", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html", null ]
+    ] ],
     [ "OxidEsales\\EshopCommunity\\Core\\Registry", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_registry.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\Request", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_request.html", null ],
     [ "OxidEsales\\EshopCommunity\\Application\\Model\\RequiredAddressFields", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_required_address_fields.html", null ],
     [ "OxidEsales\\EshopCommunity\\Application\\Model\\RequiredFieldsValidator", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_required_fields_validator.html", null ],
     [ "OxidEsales\\EshopCommunity\\Application\\Model\\RequiredFieldValidator", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_required_field_validator.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Review\\DataObject\\Review", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_object_1_1_review.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Review\\ViewDataObject\\ReviewAndRating", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_view_data_object_1_1_review_and_rating.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Service\\ReviewAndRatingMergingServiceInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_review_and_rating_merging_service_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Service\\ReviewAndRatingMergingService", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_review_and_rating_merging_service.html", null ]
+    ] ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Dao\\ReviewDaoInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Dao\\ReviewDao", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao.html", null ]
+    ] ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Review\\ServiceFactory\\ReviewServiceFactory", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html", null ],
     [ "OxidEsales\\EshopCommunity\\Application\\Model\\Selection", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_selection.html", null ],
     [ "SeoEncoder", null, [
       [ "OxidEsales\\EshopCommunity\\Application\\Model\\SeoEncoderArticle", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_seo_encoder_article.html", null ],
@@ -674,6 +703,24 @@ var hierarchy =
     [ "UserList", null, [
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\Admin\\ListUser", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_list_user.html", null ]
     ] ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Bridge\\UserRatingBridgeInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_user_rating_bridge_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Bridge\\UserRatingBridge", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_user_rating_bridge.html", null ]
+    ] ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Service\\UserRatingServiceInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_user_rating_service_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Service\\UserRatingService", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_user_rating_service.html", null ]
+    ] ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Bridge\\UserReviewAndRatingBridgeInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_user_review_and_rating_bridge_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Bridge\\UserReviewAndRatingBridge", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_user_review_and_rating_bridge.html", null ]
+    ] ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Service\\UserReviewAndRatingServiceInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_user_review_and_rating_service_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Service\\UserReviewAndRatingService", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_user_review_and_rating_service.html", null ]
+    ] ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Bridge\\UserReviewBridgeInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_user_review_bridge_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Bridge\\UserReviewBridge", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_user_review_bridge.html", null ]
+    ] ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Service\\UserReviewServiceInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_user_review_service_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Service\\UserReviewService", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_user_review_service.html", null ]
+    ] ],
     [ "OxidEsales\\EshopCommunity\\Core\\UtilsObject", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_object.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\UtilsString", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_string.html", null ],
     [ "VoucherSerieMain", null, [
@@ -701,7 +748,9 @@ var hierarchy =
     ] ],
     [ "AbstractMigration", null, [
       [ "OxidEsales\\EshopCommunity\\Migrations\\Version20170718124421", "class_oxid_esales_1_1_eshop_community_1_1_migrations_1_1_version20170718124421.html", null ],
-      [ "OxidEsales\\EshopCommunity\\Migrations\\Version20171018144650", "class_oxid_esales_1_1_eshop_community_1_1_migrations_1_1_version20171018144650.html", null ]
+      [ "OxidEsales\\EshopCommunity\\Migrations\\Version20171018144650", "class_oxid_esales_1_1_eshop_community_1_1_migrations_1_1_version20171018144650.html", null ],
+      [ "OxidEsales\\EshopCommunity\\Migrations\\Version20180214152228", "class_oxid_esales_1_1_eshop_community_1_1_migrations_1_1_version20180214152228.html", null ],
+      [ "OxidEsales\\EshopCommunity\\Migrations\\Version20180228160418", "class_oxid_esales_1_1_eshop_community_1_1_migrations_1_1_version20180228160418.html", null ]
     ] ],
     [ "AbstractUpdatableFields", null, [
       [ "OxidEsales\\EshopCommunity\\Application\\Model\\User\\UserShippingAddressUpdatableFields", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user_1_1_user_shipping_address_updatable_fields.html", null ],
@@ -721,6 +770,11 @@ var hierarchy =
     ] ],
     [ "Exception", null, [
       [ "OxidEsales\\EshopCommunity\\Core\\Exception\\StandardException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_standard_exception.html", null ],
+      [ "OxidEsales\\EshopCommunity\\Internal\\Common\\Exception\\EntryDoesNotExistDaoException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_exception_1_1_entry_does_not_exist_dao_exception.html", null ],
+      [ "OxidEsales\\EshopCommunity\\Internal\\Common\\Exception\\InvalidObjectIdDaoException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_exception_1_1_invalid_object_id_dao_exception.html", null ],
+      [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Exception\\RatingPermissionException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_exception_1_1_rating_permission_exception.html", null ],
+      [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Exception\\ReviewAndRatingObjectTypeException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_exception_1_1_review_and_rating_object_type_exception.html", null ],
+      [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Exception\\ReviewPermissionException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_exception_1_1_review_permission_exception.html", null ],
       [ "OxidEsales\\EshopCommunity\\Setup\\Exception\\CommandExecutionFailedException", "class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_exception_1_1_command_execution_failed_exception.html", null ],
       [ "OxidEsales\\EshopCommunity\\Setup\\Exception\\SetupControllerExitException", "class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_exception_1_1_setup_controller_exit_exception.html", null ],
       [ "OxidEsales\\EshopCommunity\\Setup\\Exception\\TemplateNotFoundException", "class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_exception_1_1_template_not_found_exception.html", null ]

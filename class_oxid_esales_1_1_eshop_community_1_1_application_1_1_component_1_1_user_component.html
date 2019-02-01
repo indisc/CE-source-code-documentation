@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">OXID eShop CE
-   &#160;<span id="projectnumber">6.0.1</span>
+   &#160;<span id="projectnumber">6.0.2</span>
    </div>
   </td>
  </tr>
@@ -139,6 +139,8 @@ Public Member Functions</h2></td></tr>
 <tr class="separator:a0ae2596e139505f7262a24c9c8d792fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:acad09b2ffde924c1b81de49945fd2b0c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_user_component.html#acad09b2ffde924c1b81de49945fd2b0c">registerUser</a> ()</td></tr>
 <tr class="separator:acad09b2ffde924c1b81de49945fd2b0c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a885bb621eb5946de6143cc6f875208b4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_user_component.html#a885bb621eb5946de6143cc6f875208b4">deleteShippingAddress</a> ()</td></tr>
+<tr class="separator:a885bb621eb5946de6143cc6f875208b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a23cf0d12d762f0bf86b2bbda2c372923"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_user_component.html#a23cf0d12d762f0bf86b2bbda2c372923">setLoginStatus</a> ($iStatus)</td></tr>
 <tr class="separator:a23cf0d12d762f0bf86b2bbda2c372923"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a40a785e5ff011f54be7cf7c0d3287c4f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_user_component.html#a40a785e5ff011f54be7cf7c0d3287c4f">getLoginStatus</a> ()</td></tr>
@@ -192,6 +194,8 @@ Protected Attributes</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
 Private Member Functions</h2></td></tr>
+<tr class="memitem:a550ee70167b405ac1109fcd39c448388"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_user_component.html#a550ee70167b405ac1109fcd39c448388">canUserDeleteShippingAddress</a> ($address)</td></tr>
+<tr class="separator:a550ee70167b405ac1109fcd39c448388"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a648c16324f802b69fb6a3cceead4c784"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_user_component.html#a648c16324f802b69fb6a3cceead4c784">cleanAddress</a> ($address, $updatableFields)</td></tr>
 <tr class="separator:a648c16324f802b69fb6a3cceead4c784"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a50fcd462cf1e7efdcfe128160f33aade"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_user_component.html#a50fcd462cf1e7efdcfe128160f33aade">trimAddress</a> ($address)</td></tr>
@@ -449,6 +453,40 @@ Private Member Functions</h2></td></tr>
 
 </div>
 </div>
+<a id="a550ee70167b405ac1109fcd39c448388"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a550ee70167b405ac1109fcd39c448388">&#9670;&nbsp;</a></span>canUserDeleteShippingAddress()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">OxidEsales\EshopCommunity\Application\Component\UserComponent::canUserDeleteShippingAddress </td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>$address</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<p>Checks if shipping address is assigned to user.</p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramtype">Address</td><td class="paramname">$address</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>bool </dd></dl>
+
+</div>
+</div>
 <a id="a3d5e4bfd20ec8d0d5820269cf96edb5c"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a3d5e4bfd20ec8d0d5820269cf96edb5c">&#9670;&nbsp;</a></span>changeUser()</h2>
 
@@ -612,6 +650,24 @@ Private Member Functions</h2></td></tr>
 <p>Template variables: <b>usr_err</b></p>
 <p>Session variables: <b>usr_err</b>, <b>usr</b></p>
 <dl class="section return"><dt>Returns</dt><dd>mixed redirection string or true if successful, false otherwise </dd></dl>
+
+</div>
+</div>
+<a id="a885bb621eb5946de6143cc6f875208b4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a885bb621eb5946de6143cc6f875208b4">&#9670;&nbsp;</a></span>deleteShippingAddress()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">OxidEsales\EshopCommunity\Application\Component\UserComponent::deleteShippingAddress </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<p>Deletes user shipping address. </p>
 
 </div>
 </div>
@@ -1010,7 +1066,7 @@ Private Member Functions</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>/home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.0.1/vendor/oxid-esales/oxideshop-ce/source/Application/Component/<a class="el" href="_user_component_8php.html">UserComponent.php</a></li>
+<li>/home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.0.2/vendor/oxid-esales/oxideshop-ce/source/Application/Component/<a class="el" href="_user_component_8php.html">UserComponent.php</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

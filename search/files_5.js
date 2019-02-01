@@ -9,6 +9,7 @@ var searchData=
   ['emosadapter_2ephp',['EmosAdapter.php',['../_emos_adapter_8php.html',1,'']]],
   ['emositem_2ephp',['EmosItem.php',['../_emos_item_8php.html',1,'']]],
   ['encryptor_2ephp',['Encryptor.php',['../_encryptor_8php.html',1,'']]],
+  ['entrydoesnotexistdaoexception_2ephp',['EntryDoesNotExistDaoException.php',['../_entry_does_not_exist_dao_exception_8php.html',1,'']]],
   ['exceptionerrorcontroller_2ephp',['ExceptionErrorController.php',['../_exception_error_controller_8php.html',1,'']]],
   ['exceptionhandler_2ephp',['ExceptionHandler.php',['../_exception_handler_8php.html',1,'']]],
   ['exceptiontodisplay_2ephp',['ExceptionToDisplay.php',['../_exception_to_display_8php.html',1,'']]]

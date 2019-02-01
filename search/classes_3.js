@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['database',['Database',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_database_1_1_adapter_1_1_doctrine_1_1_database.html',1,'OxidEsales\EshopCommunity\Core\Database\Adapter\Doctrine\Database'],['../class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_database.html',1,'OxidEsales\EshopCommunity\Setup\Database']]],
+  ['database',['Database',['../class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_database.html',1,'OxidEsales\EshopCommunity\Setup\Database'],['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_database_1_1_adapter_1_1_doctrine_1_1_database.html',1,'OxidEsales\EshopCommunity\Core\Database\Adapter\Doctrine\Database']]],
   ['databaseconnectionexception',['DatabaseConnectionException',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_database_connection_exception.html',1,'OxidEsales::EshopCommunity::Core::Exception']]],
   ['databaseerrorexception',['DatabaseErrorException',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_database_error_exception.html',1,'OxidEsales::EshopCommunity::Core::Exception']]],
   ['databaseexception',['DatabaseException',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_database_exception.html',1,'OxidEsales::EshopCommunity::Core::Exception']]],
