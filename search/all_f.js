@@ -41,7 +41,7 @@ var searchData=
   ['newsletterselectionajax_2ephp',['NewsletterSelectionAjax.php',['../_newsletter_selection_ajax_8php.html',1,'']]],
   ['newslettersend',['NewsletterSend',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_newsletter_send.html',1,'OxidEsales::EshopCommunity::Application::Controller::Admin']]],
   ['newslettersend_2ephp',['NewsletterSend.php',['../_newsletter_send_8php.html',1,'']]],
-  ['newslist',['NewsList',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_news_list.html',1,'OxidEsales\EshopCommunity\Application\Controller\Admin\NewsList'],['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_news_list.html',1,'OxidEsales\EshopCommunity\Application\Model\NewsList']]],
+  ['newslist',['NewsList',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_news_list.html',1,'OxidEsales\EshopCommunity\Application\Model\NewsList'],['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_news_list.html',1,'OxidEsales\EshopCommunity\Application\Controller\Admin\NewsList']]],
   ['newslist_2ephp',['NewsList.php',['../_controller_2_admin_2_news_list_8php.html',1,'(Global Namespace)'],['../_model_2_news_list_8php.html',1,'(Global Namespace)']]],
   ['newsmain',['NewsMain',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_news_main.html',1,'OxidEsales::EshopCommunity::Application::Controller::Admin']]],
   ['newsmain_2ephp',['NewsMain.php',['../_news_main_8php.html',1,'']]],

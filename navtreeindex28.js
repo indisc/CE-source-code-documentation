@@ -1,5 +1,15 @@
 var NAVTREEINDEX28 =
 {
+"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#ade097ff3167e56bc1ffa06c8b02e3075":[2,0,0,0,1,11,0,21],
+"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#adff5ff3c95fcd21ca2ca3edb95fe6ab3":[2,0,0,0,1,11,0,38],
+"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#ae0cd0f8a988e9ec465251535ec825570":[2,0,0,0,1,11,0,76],
+"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#ae17f3c334545765fd0b7b82e7e9b559a":[2,0,0,0,1,11,0,81],
+"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#ae26ec3c8519eaef313b6bdf4b380db0b":[2,0,0,0,1,11,0,14],
+"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#ae3f8b9508b853072bb52c7cdbf00e37c":[2,0,0,0,1,11,0,85],
+"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#ae7854eac1bb44c87a0f0b40539bc4223":[2,0,0,0,1,11,0,10],
+"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#ae9a54f106bef94476c4203927e63d5b9":[2,0,0,0,1,11,0,79],
+"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#aebe59a69b3ad5e4427489696d31150fb":[2,0,0,0,1,11,0,4],
+"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#aee5cd4ae6022e60139ef57f10bdf9714":[2,0,0,0,1,11,0,22],
 "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#af2d8762cc76539f8c7519d6384d023b8":[2,0,0,0,1,11,0,24],
 "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#af329214d6c69fc01e2dd249178d482de":[2,0,0,0,1,11,0,78],
 "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#afa930dc9242666f77ccde68abb49b858":[2,0,0,0,1,11,0,41],
@@ -239,15 +249,5 @@ var NAVTREEINDEX28 =
 "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_template_block_path_formatter.html#a124b451981f58b453ce6ee0ab251b16a":[2,0,0,0,1,12,8,0],
 "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_template_block_path_formatter.html#a142507a64b6177bcd66ad6409bc67f24":[2,0,0,0,1,12,8,5],
 "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_template_block_path_formatter.html#a5cffe87a3947c37dac7219b6299275cc":[2,0,0,0,1,12,8,1],
-"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_template_block_path_formatter.html#a94a8a77fc05cd84adaddf293ccdbbe2c":[2,0,0,0,1,12,8,3],
-"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_template_block_path_formatter.html#ab33d34b579b92caa83775158ac4f3408":[2,0,0,0,1,12,8,6],
-"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_template_block_path_formatter.html#ab8810a9aad116e382f043aae8f9447c8":[2,0,0,0,1,12,8,7],
-"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_template_block_path_formatter.html#abf71a7666bcec6660aa63acccce9c2e5":[2,0,0,0,1,12,8,4],
-"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_template_block_path_formatter.html#af12dbff85e25115eedbced96e13e4184":[2,0,0,0,1,12,8,2],
-"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_template_block_repository.html":[2,0,0,0,1,12,9],
-"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_template_block_repository.html#a2c021b27153d7daf4a3967d601f601eb":[2,0,0,0,1,12,9,0],
-"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_template_block_repository.html#a3b6d4c9a474fbce99f6b022dfe7424f5":[2,0,0,0,1,12,9,2],
-"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_template_block_repository.html#a54a3f3b882f022e7fc6a485246395b46":[2,0,0,0,1,12,9,1],
-"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_template_path_calculator.html":[2,0,0,0,1,12,10],
-"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_template_path_calculator.html#a0e7df1adca85b284276733f094c43490":[2,0,0,0,1,12,10,5]
+"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_template_block_path_formatter.html#a94a8a77fc05cd84adaddf293ccdbbe2c":[2,0,0,0,1,12,8,3]
 };

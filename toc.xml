@@ -1,4 +1,4 @@
-<toc label="OXID eShop CE" topic="index.html">
+<toc label="OXID eShop CD" topic="index.html">
   <topic label="Deprecated List" href="deprecated.html"/>
   <topic label="Package Functions" href="namespacemembers.html">
     <topic label="All" href="namespacemembers.html"/>
@@ -1938,16 +1938,13 @@
                 <topic label="getArticleId" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#a0ba0e19e136b09a8ffa1157cd7ae9fb4"/>
                 <topic label="getBreadCrumb" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#a1fd0e5797f5e76713164479072f842c3"/>
                 <topic label="getCompareItemsCnt" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#aa0340fdd6566e332bcc6469850e0c532"/>
-                <topic label="getContainer" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#af8a69428eccb92b4ad5524b8b58a5da1"/>
                 <topic label="getListType" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#a3c82e2b92160ea837ad45d5e7bcb8970"/>
                 <topic label="getNavigationParams" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#a598d82c5ca1323bcb138bb04e1ba21ff"/>
                 <topic label="getOrderCnt" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#ad0d111ef134c14508fbf368ffea1c340"/>
-                <topic label="getReviewAndRatingItemsCount" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#abdf006de08bc5a9482ad710dfa546638"/>
                 <topic label="getSearchParam" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#a19743072a5a94eb4813e988c971248bf"/>
                 <topic label="getSearchParamForHtml" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#ac585c18e7dad21141c3080685453fa19"/>
                 <topic label="getTitle" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#ac756a57ebb38ee4c9109261621817c83"/>
                 <topic label="isUserAllowedToDeleteOwnAccount" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#a8cc55fdd25ccec1ac2e838d45543704a"/>
-                <topic label="isUserAllowedToManageOwnReviews" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#a43c7cd05befc43bce5096df69b1a58ca"/>
                 <topic label="redirectAfterLogin" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#ad3c4de7c4bcf276802425105bd1fdd5f"/>
                 <topic label="render" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#ad73148bd058b666f7d437cc163897470"/>
                 <topic label="$_blBargainAction" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#a6baf9845bf42cafb6a9a3d5ef0f2a7fd"/>
@@ -2285,13 +2282,10 @@
                 <topic label="getCompareItems" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#a92c4653850e58908f4b259c48747b021"/>
                 <topic label="getCompareItemsCnt" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#a5228f6df90a141a6eb3643d22b046d63"/>
                 <topic label="getCompArtList" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#a3068e5860472cc2de9a8ead1e5b40124"/>
-                <topic label="getContainer" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#a13578068ecd588e48238330bf22c27ad"/>
                 <topic label="getOrderCnt" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#a740f3b7d1629853a06f6c4897679ae64"/>
                 <topic label="getPageNavigation" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#a8649e4795b9b579f448bf0a6b202e8f0"/>
-                <topic label="getReviewAndRatingItemsCount" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#abde370cb3f792aba78a96885f311cba1"/>
                 <topic label="getSimilarRecommListIds" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#a2edc5d848af1b506c09c7aea2b40b5e6"/>
                 <topic label="inPopup" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#ae8c37f5a2aeabd873c44bf80f745b5b5"/>
-                <topic label="isUserAllowedToManageOwnReviews" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#ab48df43fef8f4e20bfb49fa6ea021d11"/>
                 <topic label="moveLeft" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#a25240495044d2a7c68d45c62016b376e"/>
                 <topic label="moveRight" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#aba21ba5be3392ab2ae84486d28fe744e"/>
                 <topic label="setCompareItems" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#af66305aa93c7147e2c69aaf1dfe8f715"/>
@@ -2312,6 +2306,7 @@
               </topic>
               <topic label="ContactController" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller.html">
                 <topic label="getBreadCrumb" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller.html#af39e5050e06d018868dba5baa73057f9"/>
+                <topic label="getContactFormMessage" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller.html#aad705c9627af927ed25a1fcb7f4431e3"/>
                 <topic label="getContactMessage" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller.html#a3f74f2f14d8b9555c03885803f96f5b7"/>
                 <topic label="getContactSendStatus" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller.html#aced0e306af6daaa246be33b2d636a385"/>
                 <topic label="getContactSubject" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller.html#a02e2d1b7c211f09f43c9964b7761ea27"/>
@@ -2444,6 +2439,7 @@
                 <topic label="getCompareItemsCnt" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#ac2d1e49798a3ed7e12126dec3d8af9b7"/>
                 <topic label="getComponent" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#ab7e1077a2edae5b19f8e987997086804"/>
                 <topic label="getComponents" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#af29574c3df267f184319303cf20a2834"/>
+                <topic label="getContainer" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#aab20c27ac771a72c4eaaceee77677049"/>
                 <topic label="getContentByIdent" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#ab9f2ac52750190bb3e8bcb238af6ee5d"/>
                 <topic label="getContentCategory" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#ad11da2d01394cb717901636fe4c225e9"/>
                 <topic label="getCrossSelling" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a794f0c3b51adb3eb16a14c267c8355c9"/>
@@ -2482,6 +2478,7 @@
                 <topic label="getPromoFinishedList" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a76a23ef51e2ead92e80bf60c2f8dcbd9"/>
                 <topic label="getPromoFutureList" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#acb82a11b9090598abd4f66cf7a976049"/>
                 <topic label="getRecommSearch" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a5583015404bbd9a6a0c59361f8c05b32"/>
+                <topic label="getReviewAndRatingItemsCount" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a14913961839e7a0ed1e3aca522a04f2f"/>
                 <topic label="getRootManufacturer" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a21d42bc7ccfd4fa15b99652c15dbe797"/>
                 <topic label="getRootVendor" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a8fa0ba988b820c6aa82f3e0dda76db5e"/>
                 <topic label="getRssLinks" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a2baf3fc66d361270fa7170e6eed5ab3d"/>
@@ -2522,6 +2519,7 @@
                 <topic label="isLowOrderPrice" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a00f47ae1a014b209e5fa96a31c7dfb86"/>
                 <topic label="isPriceCalculated" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a625f79d6743e69084b47bbb2e0602b67"/>
                 <topic label="isRootCatChanged" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a2583a137e7f77cfebbeba6b08b5a4dcf"/>
+                <topic label="isUserAllowedToManageOwnReviews" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#ac11a566e447a5e06ac5a2aebe0341467"/>
                 <topic label="isVatIncluded" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a8c40303e91f4a200bcfd845f4f9c2015"/>
                 <topic label="loadCurrency" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a7182756c9040800b47131f32867270af"/>
                 <topic label="noIndex" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#aa1c19eab4b63535793a9a8ed7b782ab8"/>
@@ -2577,6 +2575,7 @@
                 <topic label="$_blEnabledPrivateSales" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a0dd786f88080c873f6fcdec76e56b653"/>
                 <topic label="$_blForceNoIndex" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#aa7ae4de865e5374ad7683d761aea25ca"/>
                 <topic label="$_blIsOrderStep" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#ae4b7bc1389192b58c63323e7ee9288b5"/>
+                <topic label="$_blIsVatIncluded" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a2dc0c385885bc3457f967ddd572d1837"/>
                 <topic label="$_blLoadComponents" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#af5fab0a746a8062bdc7aed49cef9a98d"/>
                 <topic label="$_blLoadCurrency" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a2b6db725c432a480153fee6f0e4f3175"/>
                 <topic label="$_blLoadLanguage" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a30eb23d5e7a306ee329359aee3a4fb0b"/>
@@ -4522,6 +4521,8 @@
                 <topic label="getDelAddressInfo" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#a1fe19539113dd5c7794d375146bbc974"/>
                 <topic label="getDelCountry" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#a28eb76e1e5d29d1cf0eea4e005a62a53"/>
                 <topic label="getDelSet" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#a5f898ca456998b6eda95c657fc92d0af"/>
+                <topic label="getDynamicValues" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#ac00ab21b223775edc043e52394ab9d84"/>
+                <topic label="getDynamicValuesFromPaymentType" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#a441235f215c5bf334ef40b385cb57b5a"/>
                 <topic label="getFormattedDeliveryCost" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#adc9e167c5681c3e7289762fb9df6d9fd"/>
                 <topic label="getFormattedDiscount" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#ab9164e3fbd0a52b8032af2d1da48e5d7"/>
                 <topic label="getFormattedeliveryCost" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#a070f30e63bad58fa12c38bf74f859d71"/>
@@ -4557,6 +4558,8 @@
                 <topic label="getVoucherList" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#ab29286b2f04a3148d9c0d268c58666f7"/>
                 <topic label="getVoucherNrList" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#a5eb330c0919239828b032c4b2ca8f05b"/>
                 <topic label="isNettoMode" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#a189fc4ee29d3a4063d449579375ecdf3"/>
+                <topic label="isValidPayment" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#aefe49742456621dc91e0a371bf8e604d"/>
+                <topic label="isValidPaymentId" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#a057a73b89575588984fcdf8f32cd2937"/>
                 <topic label="pdfFooter" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#a7fb238c8edb6d776927fafe327c2b031"/>
                 <topic label="pdfHeader" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#ab2cdf68ed890ed202235552ab91bdb63"/>
                 <topic label="pdfHeaderplus" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#a24300a94e99750d354331ae773f1b082"/>
@@ -5148,7 +5151,6 @@
                 <topic label="deleteRecommendationLists" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user.html#aca1435fe2bfb1bb94ab6e1ae35255c12"/>
                 <topic label="deleteReviews" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user.html#aa6b821b97b1699ff97494bba71edb6b5"/>
                 <topic label="deleteUserFromGroups" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user.html#a62ca1697ef5fbe3a70392de60b45b9ed"/>
-                <topic label="deleteUserPayments" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user.html#a7a48f8dd335293e81e542108893c94ef"/>
                 <topic label="encodePassword" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user.html#ac0beee6238df71696d66a87b0249d7af"/>
                 <topic label="exists" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user.html#a6dcaf105e969c94468c39032dfafc58d"/>
                 <topic label="formQueryPartForAdminView" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user.html#a83338e51bc38076703d0a20f3003997a"/>
@@ -7164,6 +7166,7 @@
               <topic label="getShop" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_email.html#a155dac350a66437cb57de7b8f699ba40"/>
               <topic label="getSubject" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_email.html#aba89dd7ac3c9719f5e48a11dfeda845d"/>
               <topic label="getUser" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_email.html#acaeb80f334f80c7c15d52d08c934f5b6"/>
+              <topic label="getUserIdByUserName" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_email.html#a9b36c837d2f1cf496303d43c1949b974"/>
               <topic label="getUtilsObjectInstance" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_email.html#a63506d8201f43bdf66136a69c90d60bd"/>
               <topic label="getView" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_email.html#a6f55bb021d879f2a0c41089ee2bc2dd6"/>
               <topic label="getViewConfig" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_email.html#a8404633a42aae5921c2c08b71dfd5298"/>
@@ -8460,18 +8463,37 @@
             </topic>
           </topic>
           <topic label="Internal" href="namespace_oxid_esales_1_1_eshop_community_1_1_internal.html">
+            <topic label="Application" href="namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application.html">
+              <topic label="Container" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html">
+                <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html#adac456a12ab6187a89dff0389ebf4f0f"/>
+                <topic label="getInstance" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html#abfb83a7ac8048f49c8e45d0764dcc66d"/>
+                <topic label="getProductRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html#ada8ba3080a9d71289ee8f9f9f7528cc0"/>
+                <topic label="getReviewServiceFactory" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html#a944f4bcf99cf4f68947dff1e01847e48"/>
+                <topic label="getUserRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html#a2dbfe86227532b54f0130cee48f345c5"/>
+                <topic label="getUserReviewAndRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html#ae93688c4eb828f22182922dca7e2e154"/>
+                <topic label="getUserReviewBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html#a3c8eb0fafdc05bb8b4fd7eb461852409"/>
+                <topic label="$instance" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html#aff5d61c99707d36dd3f2698103dd01ef"/>
+                <topic label="$reviewServiceFactory" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html#ad798860286b8d0114d23350caa8938c5"/>
+              </topic>
+            </topic>
             <topic label="Common" href="namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common.html">
-              <topic label="Container" href="namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container.html">
-                <topic label="Container" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html">
-                  <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html#af04ba9b69a677f028f9c9bd2553e9411"/>
-                  <topic label="getInstance" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html#a66b9d49516bc6a7e1052eb7727a286ba"/>
-                  <topic label="getProductRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html#afbc5bcaafb9af1579d2b5b04f83c4883"/>
-                  <topic label="getReviewServiceFactory" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html#a6b4e447fb0ad2a52557222fd7e8c2b84"/>
-                  <topic label="getUserRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html#a0c1f345ec89959f9a8a9950b8a563d26"/>
-                  <topic label="getUserReviewAndRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html#acf37eb6758cceb4cdff05da9b5f6a962"/>
-                  <topic label="getUserReviewBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html#a8e683eddc93a2f8e1e7183edc9809061"/>
-                  <topic label="$instance" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html#a0a8fd7565d0230b4365500c3964c687b"/>
-                  <topic label="$reviewServiceFactory" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html#a88c20833504ea1c8fa5b960d281c5dde"/>
+              <topic label="Database" href="namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_database.html">
+                <topic label="QueryBuilderFactory" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_database_1_1_query_builder_factory.html">
+                  <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_database_1_1_query_builder_factory.html#adb68fe21c83caeebddfcad25e980b50c"/>
+                  <topic label="create" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_database_1_1_query_builder_factory.html#a2b652a6ae7b0ae1267d15a50af25e45b"/>
+                  <topic label="$connection" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_database_1_1_query_builder_factory.html#a07928efbfd8589aa23e6f6a1fec6c5b6"/>
+                </topic>
+                <topic label="QueryBuilderFactoryInterface" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_database_1_1_query_builder_factory_interface.html">
+                  <topic label="create" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_database_1_1_query_builder_factory_interface.html#a9734f026fc25cdca409f66c7cdcae9a8"/>
+                </topic>
+              </topic>
+              <topic label="DataMapper" href="namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper.html">
+                <topic label="EntityMapperInterface" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_entity_mapper_interface.html">
+                  <topic label="getPrimaryKey" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_entity_mapper_interface.html#a2de4f3632530cd4c1ffe691acaeba878"/>
+                </topic>
+                <topic label="ObjectMapperInterface" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_object_mapper_interface.html">
+                  <topic label="getData" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_object_mapper_interface.html#ae33d003ea8fa0429e1fd06e3a5a35a93"/>
+                  <topic label="map" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_object_mapper_interface.html#afaeab7cee46d161db08bfc415654f235"/>
                 </topic>
               </topic>
               <topic label="Exception" href="namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_exception.html">
@@ -8492,6 +8514,7 @@
                 <topic label="UserRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_user_rating_bridge.html">
                   <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_user_rating_bridge.html#a909bce2bdecd1267c906af7a9e1e899c"/>
                   <topic label="deleteRating" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_user_rating_bridge.html#a1e39aa42694c2c764564054a184a34ba"/>
+                  <topic label="disableSubShopDeleteProtectionForRating" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_user_rating_bridge.html#ada054f38ff9f6409718aa336e470fb95"/>
                   <topic label="getRatingById" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_user_rating_bridge.html#a60bbc334024a6f611a5072006ac18a51"/>
                   <topic label="validateUserPermissionsToManageRating" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_user_rating_bridge.html#abde460b008bfa8eaebce1952d3d8dec9"/>
                   <topic label="$userRatingService" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_user_rating_bridge.html#adcc78d3e705d78d1d9d5f717048443fe"/>
@@ -8529,28 +8552,25 @@
               </topic>
               <topic label="Dao" href="namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao.html">
                 <topic label="ProductRatingDao" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao.html">
-                  <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao.html#a8bf182b0a6d7275094ce2b8257c0217f"/>
+                  <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao.html#a355ceb9ed79c440c2ffc823eb75aa5e2"/>
                   <topic label="getProductRatingById" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao.html#a717fe50836b47f1d15f8ce526140eb52"/>
-                  <topic label="getProductRatingDataById" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao.html#a17faa1049eb11275a7223f7c93a8cd93"/>
-                  <topic label="mapProductRating" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao.html#ab32304b086e644c4ca35b8f1205ceb8a"/>
                   <topic label="update" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao.html#a55842639087586e0af7b28aa14f334fc"/>
                   <topic label="validateProductId" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao.html#a943a23d53ade38524d4fb2a9813c3f01"/>
-                  <topic label="$database" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao.html#a0873032ee95ce144214517c21e4e8c70"/>
+                  <topic label="$mapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao.html#af42f76898345ce7a69459bd4757e9938"/>
+                  <topic label="$queryBuilderFactory" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao.html#ae10d5e1b3029d8f5367f5dc3c2638a02"/>
                 </topic>
                 <topic label="ProductRatingDaoInterface" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao_interface.html">
                   <topic label="getProductRatingById" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao_interface.html#aa76df84a2b0f90bdd2491480addddcea"/>
                   <topic label="update" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao_interface.html#a69cf74dc7f079bc72616d90bcef0071f"/>
                 </topic>
                 <topic label="RatingDao" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html">
-                  <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html#a5e7b2f5a4beaf271f5112a800327c9cc"/>
+                  <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html#a2730d9b54738063d850b67b23621c30c"/>
                   <topic label="delete" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html#aca213de78d9c9630c20dcc7730449e3d"/>
                   <topic label="getRatingsByProductId" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html#a37196fc485cafc99f3a20c3eb6306a87"/>
                   <topic label="getRatingsByUserId" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html#ae2a63d936b9a0ee1fc6a248bab734b65"/>
-                  <topic label="getRatingsFromDatabaseByProductId" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html#adf4ff9495f012fa8de89affa415ae4c2"/>
-                  <topic label="getRatingsFromDatabaseByUserId" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html#a93b980dbd379a086637e3b810af4bd2e"/>
-                  <topic label="mapRating" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html#a5cad9bf5dc1b927f02c6f5da61b19ca5"/>
                   <topic label="mapRatings" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html#a338a63652532a3a8a9f8eb403251e8cb"/>
-                  <topic label="$database" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html#afe04107119e9c6a18e98697bf72fdc6d"/>
+                  <topic label="$mapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html#aca0d0d5439b2d35d483b3e5e2d1846e5"/>
+                  <topic label="$queryBuilderFactory" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html#a104662421ebbd9c69444942d07a15e2c"/>
                 </topic>
                 <topic label="RatingDaoInterface" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao_interface.html">
                   <topic label="delete" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao_interface.html#ad74c262f2622198f1ca60f705992da4f"/>
@@ -8558,17 +8578,33 @@
                   <topic label="getRatingsByUserId" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao_interface.html#a166c093a824413943f0ff1d5bcd9eec5"/>
                 </topic>
                 <topic label="ReviewDao" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao.html">
-                  <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao.html#a780f53e6afb70df7df00cfc82d0f2aea"/>
+                  <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao.html#a0ac3725097c9c40ffddd1f50519e3398"/>
                   <topic label="delete" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao.html#a213690393d464fb08287995d9618cec3"/>
                   <topic label="getReviewsByUserId" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao.html#aac9d812acee89800d8c70db2831d6a97"/>
-                  <topic label="getReviewsFromDatabaseByUserId" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao.html#acb474b71098b8e0358eed5cf36eae4c9"/>
-                  <topic label="mapReview" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao.html#ac42fdbcb0aac5606defaf35d55692c23"/>
                   <topic label="mapReviews" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao.html#a58dedee96981d6d1f45a145a33ede2ab"/>
-                  <topic label="$database" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao.html#a5bef37927eb36cf2b7a04e0f64bd078c"/>
+                  <topic label="$mapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao.html#a8e4de196a68c425b1c455664320ce038"/>
+                  <topic label="$queryBuilderFactory" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao.html#a9c24729da1a4b7e469752da9ff6c3280"/>
                 </topic>
                 <topic label="ReviewDaoInterface" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao_interface.html">
                   <topic label="delete" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao_interface.html#a126c20c561c9c95d1fe0b8d815ac5936"/>
                   <topic label="getReviewsByUserId" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao_interface.html#aaef440874a2d350096ade2e5e75f6eca"/>
+                </topic>
+              </topic>
+              <topic label="DataMapper" href="namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper.html">
+                <topic label="ProductRatingDataMapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_product_rating_data_mapper.html">
+                  <topic label="getData" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_product_rating_data_mapper.html#ade57bef2a2fdad56765a890a91b9e527"/>
+                  <topic label="getPrimaryKey" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_product_rating_data_mapper.html#abf89d23d94d000807f6ee103bf85534f"/>
+                  <topic label="map" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_product_rating_data_mapper.html#a7e93e1032fa8b86ff4f9d0ce2fb494c9"/>
+                </topic>
+                <topic label="RatingDataMapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_rating_data_mapper.html">
+                  <topic label="getData" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_rating_data_mapper.html#a91af454be31abe639c1b33d3eefeb029"/>
+                  <topic label="getPrimaryKey" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_rating_data_mapper.html#ab5a6a64a2188c446dcc9e39007c34db8"/>
+                  <topic label="map" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_rating_data_mapper.html#a903c131126b443057b64e864dead042a"/>
+                </topic>
+                <topic label="ReviewDataMapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_review_data_mapper.html">
+                  <topic label="getData" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_review_data_mapper.html#ae793c35ca8e99d7e24cf252602f24fab"/>
+                  <topic label="getPrimaryKey" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_review_data_mapper.html#a6adaaeff68dc888a6417c9e911efc6a3"/>
+                  <topic label="map" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_review_data_mapper.html#a85408bc6500bb0b6900dc63b4ac93cad"/>
                 </topic>
               </topic>
               <topic label="DataObject" href="namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_object.html">
@@ -8695,14 +8731,18 @@
               </topic>
               <topic label="ServiceFactory" href="namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory.html">
                 <topic label="ReviewServiceFactory" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html">
-                  <topic label="getDatabase" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#afa62356c64614aa65992d89d512bc96d"/>
+                  <topic label="getConnection" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#ab778d5e9895421fb1dc12b8860b3a12d"/>
                   <topic label="getProductRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a51b914d3aa1a4f4aa7d6ecd1aef35a92"/>
                   <topic label="getProductRatingDao" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a2ed23cb980781bb972bd501ee78d8c2c"/>
+                  <topic label="getProductRatingDataMapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#ac728a9631187609f7e265c302bd40928"/>
                   <topic label="getProductRatingService" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#af145cf92fab0615ae79b31dd56eeae33"/>
+                  <topic label="getQueryBuilderFactory" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a88c5cef823d63a9c17b5e1c1df488934"/>
                   <topic label="getRatingCalculator" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#ac3c324ded2e1f74c56e4e2e38b09aa19"/>
                   <topic label="getRatingDao" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a3a3b465be73297641694a234035d2aa2"/>
+                  <topic label="getRatingDataMapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#adc01850b12afe3b2835b0d8823f8acc7"/>
                   <topic label="getReviewAndRatingMergingService" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#ab54b611b946d50e8a63becb80a1074ed"/>
                   <topic label="getReviewDao" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#aeb4faea81e0d481270cc9b6db50addb8"/>
+                  <topic label="getReviewDataMapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a0059ded53104f30529c4a1dbc0c274b9"/>
                   <topic label="getUserRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#ab9a0f88c0e14a43c7bcebb71830179dc"/>
                   <topic label="getUserRatingService" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a531305fd7f1e35e141fa710f69469994"/>
                   <topic label="getUserReviewAndRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a81575e37898a914267850ae46480629a"/>
@@ -8711,11 +8751,15 @@
                   <topic label="getUserReviewService" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a55adc1cce71e258e974b0762462caa5a"/>
                   <topic label="$productRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a1fdeb1bf3e09c4282c577cc343aae70e"/>
                   <topic label="$productRatingDao" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a0123f62b277f00b2047ba18ed941721e"/>
+                  <topic label="$productRatingDataMapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a50512a654a3c7945debc3db9f3fbbe2b"/>
                   <topic label="$productRatingService" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a3e432fc8549262cc63eee7a3017fc221"/>
+                  <topic label="$queryBuilderFactory" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#ae09288b51684f41cf32c8bfaf47b993a"/>
                   <topic label="$ratingCalculator" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#aa7042834b346b56e0b23a44643def8e2"/>
                   <topic label="$ratingDao" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#ac579e4d4bff638489fbcad83b16b9e0c"/>
+                  <topic label="$ratingDataMapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a81efdbef1fdbe42b2f726150d4dc5051"/>
                   <topic label="$reviewAndRatingMergingService" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a0dcd5bbe48a5ce0c64b0b0376dc12123"/>
                   <topic label="$reviewDao" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a2b4604de7abf8f199cb71bab7d0a187a"/>
+                  <topic label="$reviewDataMapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#aee35da50fb34e2c6ad065f20c0d1aceb"/>
                   <topic label="$userRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a2bd1755631ec4c36d546a34bacc93cc7"/>
                   <topic label="$userRatingService" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#ab8d45808f66ca6e529983e9d0a708818"/>
                   <topic label="$userReviewAndRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a98fb9767fae194d42f7192defffb36e1"/>
@@ -9312,7 +9356,7 @@
       <topic label="OxidEsales\EshopCommunity\Core\CompanyVatInChecker" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_company_vat_in_checker.html"/>
       <topic label="OxidEsales\EshopCommunity\Core\CompanyVatInValidator" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_company_vat_in_validator.html"/>
       <topic label="OxidEsales\EshopCommunity\Core\ConfigFile" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_config_file.html"/>
-      <topic label="OxidEsales\EshopCommunity\Internal\Common\Container\Container" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html"/>
+      <topic label="OxidEsales\EshopCommunity\Internal\Application\Container" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html"/>
       <topic label="ContentController">
         <topic label="OxidEsales\EshopCommunity\Application\Controller\CreditsController" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_credits_controller.html"/>
       </topic>
@@ -9428,19 +9472,19 @@
       <topic label="OxidEsales\EshopCommunity\Core\Hasher" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_hasher.html"/>
       <topic label="OxidEsales\EshopCommunity\Core\Header" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_header.html"/>
       <topic label="OxidEsales\EshopCommunity\Core\Contract\IConfigurable" href="interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_configurable.html"/>
+      <topic label="OxidEsales\EshopCommunity\Core\Contract\ICountryAware" href="interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_country_aware.html"/>
       <topic label="ICountryAware">
         <topic label="OxidEsales\EshopCommunity\Core\CompanyVatInCountryChecker" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_company_vat_in_country_checker.html"/>
       </topic>
-      <topic label="OxidEsales\EshopCommunity\Core\Contract\ICountryAware" href="interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_country_aware.html"/>
       <topic label="IDisplayError">
         <topic label="OxidEsales\EshopCommunity\Core\DisplayError" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_display_error.html"/>
         <topic label="OxidEsales\EshopCommunity\Core\Exception\ExceptionToDisplay" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_to_display.html"/>
       </topic>
       <topic label="OxidEsales\EshopCommunity\Core\Contract\IDisplayError" href="interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_display_error.html"/>
+      <topic label="OxidEsales\EshopCommunity\Core\Contract\IModuleValidator" href="interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_module_validator.html"/>
       <topic label="IModuleValidator">
         <topic label="OxidEsales\EshopCommunity\Core\Module\ModuleMetadataValidator" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_metadata_validator.html"/>
       </topic>
-      <topic label="OxidEsales\EshopCommunity\Core\Contract\IModuleValidator" href="interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_module_validator.html"/>
       <topic label="ImportObject">
         <topic label="OxidEsales\EshopCommunity\Core\GenericImport\ImportObject\Accessories2Article" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_generic_import_1_1_import_object_1_1_accessories2_article.html"/>
         <topic label="OxidEsales\EshopCommunity\Core\GenericImport\ImportObject\Article" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_generic_import_1_1_import_object_1_1_article.html"/>
@@ -9591,6 +9635,13 @@
         <topic label="OxidEsales\EshopCommunity\Application\Controller\Admin\NewsletterSend" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_newsletter_send.html"/>
       </topic>
       <topic label="OxidEsales\EshopCommunity\Core\NoJsValidator" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_no_js_validator.html"/>
+      <topic label="OxidEsales\EshopCommunity\Internal\Common\DataMapper\ObjectMapperInterface" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_object_mapper_interface.html">
+        <topic label="OxidEsales\EshopCommunity\Internal\Common\DataMapper\EntityMapperInterface" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_entity_mapper_interface.html">
+          <topic label="OxidEsales\EshopCommunity\Internal\Review\DataMapper\ProductRatingDataMapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_product_rating_data_mapper.html"/>
+          <topic label="OxidEsales\EshopCommunity\Internal\Review\DataMapper\RatingDataMapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_rating_data_mapper.html"/>
+          <topic label="OxidEsales\EshopCommunity\Internal\Review\DataMapper\ReviewDataMapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_review_data_mapper.html"/>
+        </topic>
+      </topic>
       <topic label="ObjectSeo">
         <topic label="OxidEsales\EshopCommunity\Application\Controller\Admin\ArticleSeo" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_article_seo.html"/>
         <topic label="OxidEsales\EshopCommunity\Application\Controller\Admin\CategorySeo" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_category_seo.html"/>
@@ -9598,19 +9649,19 @@
         <topic label="OxidEsales\EshopCommunity\Application\Controller\Admin\ManufacturerSeo" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_manufacturer_seo.html"/>
         <topic label="OxidEsales\EshopCommunity\Application\Controller\Admin\VendorSeo" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_vendor_seo.html"/>
       </topic>
-      <topic label="OxidEsales\EshopCommunity\Core\OnlineCaller" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_caller.html"/>
       <topic label="OnlineCaller">
         <topic label="OxidEsales\EshopCommunity\Core\OnlineLicenseCheckCaller" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_license_check_caller.html"/>
         <topic label="OxidEsales\EshopCommunity\Core\OnlineModuleVersionNotifierCaller" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_module_version_notifier_caller.html"/>
       </topic>
+      <topic label="OxidEsales\EshopCommunity\Core\OnlineCaller" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_caller.html"/>
       <topic label="OxidEsales\EshopCommunity\Core\OnlineLicenseCheck" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_license_check.html"/>
       <topic label="OxidEsales\EshopCommunity\Core\OnlineLicenseCheckResponse" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_license_check_response.html"/>
       <topic label="OxidEsales\EshopCommunity\Core\OnlineModuleVersionNotifier" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_module_version_notifier.html"/>
+      <topic label="OxidEsales\EshopCommunity\Core\OnlineRequest" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_request.html"/>
       <topic label="OnlineRequest">
         <topic label="OxidEsales\EshopCommunity\Core\OnlineLicenseCheckRequest" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_license_check_request.html"/>
         <topic label="OxidEsales\EshopCommunity\Core\OnlineModulesNotifierRequest" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_modules_notifier_request.html"/>
       </topic>
-      <topic label="OxidEsales\EshopCommunity\Core\OnlineRequest" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_request.html"/>
       <topic label="OxidEsales\EshopCommunity\Core\OpenSSLFunctionalityChecker" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_open_s_s_l_functionality_checker.html"/>
       <topic label="OxidEsales\EshopCommunity\Core\Oxid" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_oxid.html"/>
       <topic label="OxidEsales\EshopCommunity\Core\PasswordHasher" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_password_hasher.html"/>
@@ -9629,6 +9680,9 @@
       </topic>
       <topic label="OxidEsales\EshopCommunity\Internal\Review\Service\ProductRatingServiceInterface" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_product_rating_service_interface.html">
         <topic label="OxidEsales\EshopCommunity\Internal\Review\Service\ProductRatingService" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_product_rating_service.html"/>
+      </topic>
+      <topic label="OxidEsales\EshopCommunity\Internal\Common\Database\QueryBuilderFactoryInterface" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_database_1_1_query_builder_factory_interface.html">
+        <topic label="OxidEsales\EshopCommunity\Internal\Common\Database\QueryBuilderFactory" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_database_1_1_query_builder_factory.html"/>
       </topic>
       <topic label="OxidEsales\EshopCommunity\Internal\Review\DataObject\Rating" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_object_1_1_rating.html"/>
       <topic label="OxidEsales\EshopCommunity\Internal\Review\Service\RatingCalculatorServiceInterface" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_rating_calculator_service_interface.html">
@@ -9888,12 +9942,12 @@
         <topic label="marco" href="dir_90980a26345ad243c32d02bfe0eaddee.html">
           <topic label="public" href="dir_64a234a2509d8775bc2e549be58cb746.html">
             <topic label="OXID_ESHOP_CE" href="dir_8ccaad48954ce55f12b4a05196a5012c.html">
-              <topic label="OXID_ESHOP_CE_6.0.2" href="dir_43efcefea49c9433f8b2c99fff31d2c6.html">
-                <topic label="vendor" href="dir_3ed6fc5c7369bc25e5a06be359f6bfad.html">
-                  <topic label="oxid-esales" href="dir_19181a4d3888956f55f5aaf985c1ccec.html">
-                    <topic label="oxideshop-ce" href="dir_0b9fb70ca6c1bebd2e2360ac3b22968d.html">
-                      <topic label="source" href="dir_c0001e27de7d00f8ac6501bf5ed12d64.html">
-                        <topic label="admin" href="dir_18482a804a6c30fc4ffe2c41186932b8.html">
+              <topic label="OXID_ESHOP_CE_6.0.3" href="dir_0466751ef11a8d1d33e76f5f60337c61.html">
+                <topic label="vendor" href="dir_164eb3a5182bec5673bf7898247df0ad.html">
+                  <topic label="oxid-esales" href="dir_62e45b553d2ef526f7501b7c8734c3df.html">
+                    <topic label="oxideshop-ce" href="dir_d5606dbe05657ab6ec7ff3f0a9e99890.html">
+                      <topic label="source" href="dir_0b6bb7be77bb5d9fcce96bbd31abf674.html">
+                        <topic label="admin" href="dir_8088932fbad960f4394decbd3995710c.html">
                           <topic label="index.php" href="admin_2index_8php.html">
                             <topic label="OX_ADMIN_DIR" href="admin_2index_8php.html#ae56799dcc59b164f6e79bb88864d60e7"/>
                             <topic label="OX_IS_ADMIN" href="admin_2index_8php.html#ad38d7f48a20cb8309f00c0ccd7427647"/>
@@ -9903,9 +9957,9 @@
                             <topic label="if" href="oxajax_8php.html#aef4b40197f4684783678ee8374d19cd9"/>
                           </topic>
                         </topic>
-                        <topic label="Application" href="dir_1954d787af0f702f8890a85e83ff37be.html">
-                          <topic label="Component" href="dir_12c2ee35ecf5e0915559a4b24d40cbe7.html">
-                            <topic label="Widget" href="dir_7a8444f6ad1c2a3a0eddc873ad9ec2ac.html">
+                        <topic label="Application" href="dir_44ffed053cbe983ad5bdf7311671271b.html">
+                          <topic label="Component" href="dir_8f90bc4a9f55aa6afdb92b33c3637ea8.html">
+                            <topic label="Widget" href="dir_580d0f431322d942b78bd6a2c7189362.html">
                               <topic label="Actions.php" href="_component_2_widget_2_actions_8php.html">
                                 <topic label="Actions" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_widget_1_1_actions.html">
                                   <topic label="_getLoadActionsParam" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_widget_1_1_actions.html#a0d18509c7749de85ebbfc187af6f9a33"/>
@@ -10284,8 +10338,8 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Controller" href="dir_71db0726f31c7d6919072b10376353df.html">
-                            <topic label="Admin" href="dir_a1af929df2a2e9cb2c75167cd5e40785.html">
+                          <topic label="Controller" href="dir_8e308cf4fc900b8e7bd51a92fe7ea151.html">
+                            <topic label="Admin" href="dir_0c7cdcc19fab83b843bceb5fde02da1e.html">
                               <topic label="ActionsArticleAjax.php" href="_actions_article_ajax_8php.html">
                                 <topic label="ActionsArticleAjax" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_actions_article_ajax.html">
                                   <topic label="_addFilter" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_actions_article_ajax.html#ad02e694c493e7d9f966c9084a22a8d48"/>
@@ -12322,16 +12376,13 @@
                                 <topic label="getArticleId" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#a0ba0e19e136b09a8ffa1157cd7ae9fb4"/>
                                 <topic label="getBreadCrumb" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#a1fd0e5797f5e76713164479072f842c3"/>
                                 <topic label="getCompareItemsCnt" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#aa0340fdd6566e332bcc6469850e0c532"/>
-                                <topic label="getContainer" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#af8a69428eccb92b4ad5524b8b58a5da1"/>
                                 <topic label="getListType" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#a3c82e2b92160ea837ad45d5e7bcb8970"/>
                                 <topic label="getNavigationParams" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#a598d82c5ca1323bcb138bb04e1ba21ff"/>
                                 <topic label="getOrderCnt" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#ad0d111ef134c14508fbf368ffea1c340"/>
-                                <topic label="getReviewAndRatingItemsCount" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#abdf006de08bc5a9482ad710dfa546638"/>
                                 <topic label="getSearchParam" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#a19743072a5a94eb4813e988c971248bf"/>
                                 <topic label="getSearchParamForHtml" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#ac585c18e7dad21141c3080685453fa19"/>
                                 <topic label="getTitle" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#ac756a57ebb38ee4c9109261621817c83"/>
                                 <topic label="isUserAllowedToDeleteOwnAccount" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#a8cc55fdd25ccec1ac2e838d45543704a"/>
-                                <topic label="isUserAllowedToManageOwnReviews" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#a43c7cd05befc43bce5096df69b1a58ca"/>
                                 <topic label="redirectAfterLogin" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#ad3c4de7c4bcf276802425105bd1fdd5f"/>
                                 <topic label="render" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#ad73148bd058b666f7d437cc163897470"/>
                                 <topic label="$_blBargainAction" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#a6baf9845bf42cafb6a9a3d5ef0f2a7fd"/>
@@ -12697,13 +12748,10 @@
                                 <topic label="getCompareItems" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#a92c4653850e58908f4b259c48747b021"/>
                                 <topic label="getCompareItemsCnt" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#a5228f6df90a141a6eb3643d22b046d63"/>
                                 <topic label="getCompArtList" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#a3068e5860472cc2de9a8ead1e5b40124"/>
-                                <topic label="getContainer" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#a13578068ecd588e48238330bf22c27ad"/>
                                 <topic label="getOrderCnt" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#a740f3b7d1629853a06f6c4897679ae64"/>
                                 <topic label="getPageNavigation" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#a8649e4795b9b579f448bf0a6b202e8f0"/>
-                                <topic label="getReviewAndRatingItemsCount" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#abde370cb3f792aba78a96885f311cba1"/>
                                 <topic label="getSimilarRecommListIds" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#a2edc5d848af1b506c09c7aea2b40b5e6"/>
                                 <topic label="inPopup" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#ae8c37f5a2aeabd873c44bf80f745b5b5"/>
-                                <topic label="isUserAllowedToManageOwnReviews" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#ab48df43fef8f4e20bfb49fa6ea021d11"/>
                                 <topic label="moveLeft" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#a25240495044d2a7c68d45c62016b376e"/>
                                 <topic label="moveRight" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#aba21ba5be3392ab2ae84486d28fe744e"/>
                                 <topic label="setCompareItems" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#af66305aa93c7147e2c69aaf1dfe8f715"/>
@@ -12726,6 +12774,7 @@
                             <topic label="ContactController.php" href="_contact_controller_8php.html">
                               <topic label="ContactController" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller.html">
                                 <topic label="getBreadCrumb" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller.html#af39e5050e06d018868dba5baa73057f9"/>
+                                <topic label="getContactFormMessage" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller.html#aad705c9627af927ed25a1fcb7f4431e3"/>
                                 <topic label="getContactMessage" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller.html#a3f74f2f14d8b9555c03885803f96f5b7"/>
                                 <topic label="getContactSendStatus" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller.html#aced0e306af6daaa246be33b2d636a385"/>
                                 <topic label="getContactSubject" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller.html#a02e2d1b7c211f09f43c9964b7761ea27"/>
@@ -12870,6 +12919,7 @@
                                 <topic label="getCompareItemsCnt" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#ac2d1e49798a3ed7e12126dec3d8af9b7"/>
                                 <topic label="getComponent" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#ab7e1077a2edae5b19f8e987997086804"/>
                                 <topic label="getComponents" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#af29574c3df267f184319303cf20a2834"/>
+                                <topic label="getContainer" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#aab20c27ac771a72c4eaaceee77677049"/>
                                 <topic label="getContentByIdent" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#ab9f2ac52750190bb3e8bcb238af6ee5d"/>
                                 <topic label="getContentCategory" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#ad11da2d01394cb717901636fe4c225e9"/>
                                 <topic label="getCrossSelling" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a794f0c3b51adb3eb16a14c267c8355c9"/>
@@ -12908,6 +12958,7 @@
                                 <topic label="getPromoFinishedList" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a76a23ef51e2ead92e80bf60c2f8dcbd9"/>
                                 <topic label="getPromoFutureList" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#acb82a11b9090598abd4f66cf7a976049"/>
                                 <topic label="getRecommSearch" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a5583015404bbd9a6a0c59361f8c05b32"/>
+                                <topic label="getReviewAndRatingItemsCount" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a14913961839e7a0ed1e3aca522a04f2f"/>
                                 <topic label="getRootManufacturer" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a21d42bc7ccfd4fa15b99652c15dbe797"/>
                                 <topic label="getRootVendor" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a8fa0ba988b820c6aa82f3e0dda76db5e"/>
                                 <topic label="getRssLinks" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a2baf3fc66d361270fa7170e6eed5ab3d"/>
@@ -12948,6 +12999,7 @@
                                 <topic label="isLowOrderPrice" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a00f47ae1a014b209e5fa96a31c7dfb86"/>
                                 <topic label="isPriceCalculated" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a625f79d6743e69084b47bbb2e0602b67"/>
                                 <topic label="isRootCatChanged" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a2583a137e7f77cfebbeba6b08b5a4dcf"/>
+                                <topic label="isUserAllowedToManageOwnReviews" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#ac11a566e447a5e06ac5a2aebe0341467"/>
                                 <topic label="isVatIncluded" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a8c40303e91f4a200bcfd845f4f9c2015"/>
                                 <topic label="loadCurrency" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a7182756c9040800b47131f32867270af"/>
                                 <topic label="noIndex" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#aa1c19eab4b63535793a9a8ed7b782ab8"/>
@@ -13003,6 +13055,7 @@
                                 <topic label="$_blEnabledPrivateSales" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a0dd786f88080c873f6fcdec76e56b653"/>
                                 <topic label="$_blForceNoIndex" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#aa7ae4de865e5374ad7683d761aea25ca"/>
                                 <topic label="$_blIsOrderStep" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#ae4b7bc1389192b58c63323e7ee9288b5"/>
+                                <topic label="$_blIsVatIncluded" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a2dc0c385885bc3457f967ddd572d1837"/>
                                 <topic label="$_blLoadComponents" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#af5fab0a746a8062bdc7aed49cef9a98d"/>
                                 <topic label="$_blLoadCurrency" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a2b6db725c432a480153fee6f0e4f3175"/>
                                 <topic label="$_blLoadLanguage" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a30eb23d5e7a306ee329359aee3a4fb0b"/>
@@ -13613,8 +13666,8 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Model" href="dir_cf0fc54dcdaa9fa88aed00106754a52e.html">
-                            <topic label="Contract" href="dir_e0f4aa7f63e60d3b61f4ea52835315d8.html">
+                          <topic label="Model" href="dir_6dafe47706b2147651734735875e2df3.html">
+                            <topic label="Contract" href="dir_5e2ab3fad327ac1261a5af8651ce4e98.html">
                               <topic label="ArticleInterface.php" href="_article_interface_8php.html">
                                 <topic label="ArticleInterface" href="interface_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_contract_1_1_article_interface.html">
                                   <topic label="checkForStock" href="interface_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_contract_1_1_article_interface.html#aa5a6412032f9252e9f1325545988a076"/>
@@ -13632,7 +13685,7 @@
                                 <topic label="CacheConnectorInterface" href="interface_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_contract_1_1_cache_connector_interface.html"/>
                               </topic>
                             </topic>
-                            <topic label="User" href="dir_302dabd6153a72e397e0e4e7d5eb6d2c.html">
+                            <topic label="User" href="dir_a751d3382a8399d3e4d42215941ba245.html">
                               <topic label="UserShippingAddressUpdatableFields.php" href="_user_shipping_address_updatable_fields_8php.html">
                                 <topic label="UserShippingAddressUpdatableFields" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user_1_1_user_shipping_address_updatable_fields.html">
                                   <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user_1_1_user_shipping_address_updatable_fields.html#af49a94c193d17813180abb5ec5981a4b"/>
@@ -15106,6 +15159,8 @@
                                 <topic label="getDelAddressInfo" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#a1fe19539113dd5c7794d375146bbc974"/>
                                 <topic label="getDelCountry" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#a28eb76e1e5d29d1cf0eea4e005a62a53"/>
                                 <topic label="getDelSet" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#a5f898ca456998b6eda95c657fc92d0af"/>
+                                <topic label="getDynamicValues" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#ac00ab21b223775edc043e52394ab9d84"/>
+                                <topic label="getDynamicValuesFromPaymentType" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#a441235f215c5bf334ef40b385cb57b5a"/>
                                 <topic label="getFormattedDeliveryCost" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#adc9e167c5681c3e7289762fb9df6d9fd"/>
                                 <topic label="getFormattedDiscount" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#ab9164e3fbd0a52b8032af2d1da48e5d7"/>
                                 <topic label="getFormattedeliveryCost" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#a070f30e63bad58fa12c38bf74f859d71"/>
@@ -15141,6 +15196,8 @@
                                 <topic label="getVoucherList" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#ab29286b2f04a3148d9c0d268c58666f7"/>
                                 <topic label="getVoucherNrList" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#a5eb330c0919239828b032c4b2ca8f05b"/>
                                 <topic label="isNettoMode" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#a189fc4ee29d3a4063d449579375ecdf3"/>
+                                <topic label="isValidPayment" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#aefe49742456621dc91e0a371bf8e604d"/>
+                                <topic label="isValidPaymentId" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#a057a73b89575588984fcdf8f32cd2937"/>
                                 <topic label="pdfFooter" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#a7fb238c8edb6d776927fafe327c2b031"/>
                                 <topic label="pdfHeader" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#ab2cdf68ed890ed202235552ab91bdb63"/>
                                 <topic label="pdfHeaderplus" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#a24300a94e99750d354331ae773f1b082"/>
@@ -15798,7 +15855,6 @@
                                 <topic label="deleteRecommendationLists" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user.html#aca1435fe2bfb1bb94ab6e1ae35255c12"/>
                                 <topic label="deleteReviews" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user.html#aa6b821b97b1699ff97494bba71edb6b5"/>
                                 <topic label="deleteUserFromGroups" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user.html#a62ca1697ef5fbe3a70392de60b45b9ed"/>
-                                <topic label="deleteUserPayments" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user.html#a7a48f8dd335293e81e542108893c94ef"/>
                                 <topic label="encodePassword" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user.html#ac0beee6238df71696d66a87b0249d7af"/>
                                 <topic label="exists" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user.html#a6dcaf105e969c94468c39032dfafc58d"/>
                                 <topic label="formQueryPartForAdminView" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user.html#a83338e51bc38076703d0a20f3003997a"/>
@@ -16130,8 +16186,8 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="translations" href="dir_28d1dd708337eb2399809b95f106b47f.html">
-                            <topic label="de" href="dir_a62cb5ce3582b3bc39ae14aad10c2bb7.html">
+                          <topic label="translations" href="dir_3ab3ada1c8b3b1153f38d9776fc47800.html">
+                            <topic label="de" href="dir_534ae6b74b9c11e88b6b7f96c8927bb7.html">
                               <topic label="lang.php" href="_application_2translations_2de_2lang_8php.html">
                                 <topic label="$aLang" href="_application_2translations_2de_2lang_8php.html#a81e64087cf8dd69f7963ec9480204c46"/>
                                 <topic label="$sLangName" href="_application_2translations_2de_2lang_8php.html#a75b26fe81eca1d9521cfa097f1069916"/>
@@ -16141,7 +16197,7 @@
                                 <topic label="$aSeoReplaceChars" href="de_2translit__lang_8php.html#ae3cb1276f78d1297dd695410b369d42b"/>
                               </topic>
                             </topic>
-                            <topic label="en" href="dir_f7241d8c7ab594fb50fb87dce6a10f4a.html">
+                            <topic label="en" href="dir_8ac62862c6d3ff52ccc43c1226c18728.html">
                               <topic label="lang.php" href="_application_2translations_2en_2lang_8php.html">
                                 <topic label="$aLang" href="_application_2translations_2en_2lang_8php.html#a81e64087cf8dd69f7963ec9480204c46"/>
                                 <topic label="$sLangName" href="_application_2translations_2en_2lang_8php.html#a75b26fe81eca1d9521cfa097f1069916"/>
@@ -16152,9 +16208,9 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="views" href="dir_d94f3b5d4ca768bb8ca2b99f929927a5.html">
-                            <topic label="admin" href="dir_6aef5d410462f9540b6466aff7ed52f2.html">
-                              <topic label="de" href="dir_68b5c24955f0f85c23b08b5a2e56617d.html">
+                          <topic label="views" href="dir_18288135d99581618b70b247f1fd8d7f.html">
+                            <topic label="admin" href="dir_81b332a3f9d08d86b04656ecf6605331.html">
+                              <topic label="de" href="dir_899afcbf0cee0bef7e0bc18605d73186.html">
                                 <topic label="cust_lang.php" href="de_2cust__lang_8php.html">
                                   <topic label="$aLang" href="de_2cust__lang_8php.html#a81e64087cf8dd69f7963ec9480204c46"/>
                                   <topic label="$sLangName" href="de_2cust__lang_8php.html#a75b26fe81eca1d9521cfa097f1069916"/>
@@ -16167,7 +16223,7 @@
                                   <topic label="$sLangName" href="_application_2views_2admin_2de_2lang_8php.html#a75b26fe81eca1d9521cfa097f1069916"/>
                                 </topic>
                               </topic>
-                              <topic label="en" href="dir_e0ce640aa8ca5683b43447dd7f0bcc9c.html">
+                              <topic label="en" href="dir_2ae8703fc049dcb4fa9f6b640a002072.html">
                                 <topic label="cust_lang.php" href="en_2cust__lang_8php.html">
                                   <topic label="$aLang" href="en_2cust__lang_8php.html#a81e64087cf8dd69f7963ec9480204c46"/>
                                   <topic label="$sLangName" href="en_2cust__lang_8php.html#a75b26fe81eca1d9521cfa097f1069916"/>
@@ -16182,13 +16238,13 @@
                             </topic>
                           </topic>
                         </topic>
-                        <topic label="bin" href="dir_c75b27e1833d50315e114f89d1b2914b.html">
+                        <topic label="bin" href="dir_68910b09e24da0ee06779281e49c613f.html">
                           <topic label="cron.php" href="cron_8php.html">
                             <topic label="$myConfig" href="cron_8php.html#ab610e5cf24ddbebef56903fe63acb03c"/>
                           </topic>
                         </topic>
-                        <topic label="Core" href="dir_9bce30be512d05475b83b78ec2810991.html">
-                          <topic label="Autoload" href="dir_0cb93e639eebc57a0b114f538734eb54.html">
+                        <topic label="Core" href="dir_88be32e44e60fbcfd8d2e2cfcba1b748.html">
+                          <topic label="Autoload" href="dir_803a40d15583a100f7d2533cdb55a766.html">
                             <topic label="BackwardsCompatibilityAutoload.php" href="_backwards_compatibility_autoload_8php.html">
                               <topic label="BackwardsCompatibilityAutoload" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_autoload_1_1_backwards_compatibility_autoload.html">
                                 <topic label="autoload" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_autoload_1_1_backwards_compatibility_autoload.html#a010d0d6031fae65a6878e86770b75b79"/>
@@ -16217,7 +16273,7 @@
                               <topic label="return" href="_unified_name_space_class_map_8php.html#a2d00a0a5527637e7ba80181ddc73aa10"/>
                             </topic>
                           </topic>
-                          <topic label="Contract" href="dir_30defb357c086866433b042e141adf2f.html">
+                          <topic label="Contract" href="dir_235739bdebe3d373bd1caffd9a35e81a.html">
                             <topic label="AbstractUpdatableFields.php" href="_abstract_updatable_fields_8php.html">
                               <topic label="AbstractUpdatableFields" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_abstract_updatable_fields.html">
                                 <topic label="getTableName" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_abstract_updatable_fields.html#a2c4154e86253f0ebb0e1b93859934b52"/>
@@ -16283,7 +16339,7 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Controller" href="dir_d2cb63b182ea49becdfea00010b807c2.html">
+                          <topic label="Controller" href="dir_a1567a3387a5b3c4b6b4c1a8ce9f25bd.html">
                             <topic label="BaseController.php" href="_base_controller_8php.html">
                               <topic label="BaseController" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_controller_1_1_base_controller.html">
                                 <topic label="_executeNewAction" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_controller_1_1_base_controller.html#aec3f0ee3d7e0567003d9dd5a80940ae3"/>
@@ -16367,7 +16423,7 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Dao" href="dir_fb965a751584e4d5e84c15d5d27b0480.html">
+                          <topic label="Dao" href="dir_fe8bd5307e14f4ea9860dfa7fef2618e.html">
                             <topic label="ApplicationServerDao.php" href="_application_server_dao_8php.html">
                               <topic label="ApplicationServerDao" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_dao_1_1_application_server_dao.html">
                                 <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_dao_1_1_application_server_dao.html#ab3172c9a4a283993db396aa1f5a7776c"/>
@@ -16409,9 +16465,9 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Database" href="dir_64e9ae9b2492d56eaa7901a3da6d6a8b.html">
-                            <topic label="Adapter" href="dir_9d582b49f0b3890d715e04cb49331fbe.html">
-                              <topic label="Doctrine" href="dir_b9f030e5ec00abacb22076e7c8dae0c6.html">
+                          <topic label="Database" href="dir_45f0b69d293856aae5a73318311f38e9.html">
+                            <topic label="Adapter" href="dir_c442ed3d537a418a1a8e9873649abc6e.html">
+                              <topic label="Doctrine" href="dir_1980c74892a174efdbd4a71ffa3caf66.html">
                                 <topic label="Database.php" href="_core_2_database_2_adapter_2_doctrine_2_database_8php.html">
                                   <topic label="Database" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_database_1_1_adapter_1_1_doctrine_1_1_database.html">
                                     <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_database_1_1_adapter_1_1_doctrine_1_1_database.html#a8289fd32a7d6f726e0531ba9e8c8d8a9"/>
@@ -16531,7 +16587,7 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="DataObject" href="dir_3b5c860e09baaa11a6259a73d26991d1.html">
+                          <topic label="DataObject" href="dir_a8665fb47e72c168c795266188dbd46b.html">
                             <topic label="ApplicationServer.php" href="_application_server_8php.html">
                               <topic label="ApplicationServer" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_data_object_1_1_application_server.html">
                                 <topic label="getId" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_data_object_1_1_application_server.html#a846eb1cb491d04f761d80131bc777358"/>
@@ -16560,7 +16616,7 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Edition" href="dir_29d10e51958836ad2d116ca856251fad.html">
+                          <topic label="Edition" href="dir_b2522a5097acf76831417d72078ba0d2.html">
                             <topic label="EditionPathProvider.php" href="_edition_path_provider_8php.html">
                               <topic label="EditionPathProvider" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_edition_1_1_edition_path_provider.html">
                                 <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_edition_1_1_edition_path_provider.html#ae926fa8c0f4fcf0db4c29fc685d14c94"/>
@@ -16601,7 +16657,7 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Exception" href="dir_50fa8b272b7cc3d6747a6aa41fbf5222.html">
+                          <topic label="Exception" href="dir_23f48389ef1df64ad155780171683870.html">
                             <topic label="ArticleException.php" href="_article_exception_8php.html">
                               <topic label="ArticleException" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_article_exception.html">
                                 <topic label="getArticleNr" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_article_exception.html#ad81cf7ff87e5bb805b7004e73dc9a646"/>
@@ -16827,7 +16883,7 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="FileSystem" href="dir_c0d89853695197b36e64a11211d40ebb.html">
+                          <topic label="FileSystem" href="dir_a45ac346e3d52cff1324dfeeb160ede5.html">
                             <topic label="FileSystem.php" href="_file_system_8php.html">
                               <topic label="FileSystem" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_file_system_1_1_file_system.html">
                                 <topic label="combinePaths" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_file_system_1_1_file_system.html#aec4b11e177cae610700b9ac983e9d5ff"/>
@@ -16835,7 +16891,7 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Form" href="dir_f51b947e96be36ba500b13f92bdb6398.html">
+                          <topic label="Form" href="dir_ea30208765783fb8cf793b22a3784e8d.html">
                             <topic label="FormFields.php" href="_form_fields_8php.html">
                               <topic label="FormFields" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_form_1_1_form_fields.html">
                                 <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_form_1_1_form_fields.html#adc52e6b54bcc88674f98443e99fe22d5"/>
@@ -16869,8 +16925,8 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="GenericImport" href="dir_6ad680d5e3ca09c1c8a729b590f25bc4.html">
-                            <topic label="ImportObject" href="dir_01565c7fbeb32d28423073060ef400c9.html">
+                          <topic label="GenericImport" href="dir_cdc6576e0ab004e26302d7d582f9e713.html">
+                            <topic label="ImportObject" href="dir_ee3f45bb944ad6d89bfec8d1652fb2b7.html">
                               <topic label="Accessories2Article.php" href="_accessories2_article_8php.html">
                                 <topic label="Accessories2Article" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_generic_import_1_1_import_object_1_1_accessories2_article.html">
                                   <topic label="$tableName" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_generic_import_1_1_import_object_1_1_accessories2_article.html#a6990f28435d2fc0ea8605abdf35f86d4"/>
@@ -17024,7 +17080,7 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Model" href="dir_7419591ee4c0578ad95f2d63d6066590.html">
+                          <topic label="Model" href="dir_e02fb1988a9fff4fdd03db112f2638fa.html">
                             <topic label="BaseModel.php" href="_base_model_8php.html">
                               <topic label="BaseModel" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html">
                                 <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#a48bb4f13d7924eb1b7d0a6c51874160e"/>
@@ -17204,7 +17260,7 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Module" href="dir_c68544cac41778103153b4771e36a6f6.html">
+                          <topic label="Module" href="dir_f78350e20fda35ceea19d88c36107df4.html">
                             <topic label="Module.php" href="_module_8php.html">
                               <topic label="Module" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module.html">
                                 <topic label="_countActivatedExtensions" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module.html#a4ce7175bd98ffa016b13e55ca5d62146"/>
@@ -17455,8 +17511,8 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Routing" href="dir_e65443027a3e0dba4e7d0e8535b7bd40.html">
-                            <topic label="Module" href="dir_71def741100032d6ab85821a31dd0998.html">
+                          <topic label="Routing" href="dir_8a40f116f0e3b9ddb01744260a503144.html">
+                            <topic label="Module" href="dir_2e81a0d6e03daed3eaee3dbf0018f441.html">
                               <topic label="ClassProviderStorage.php" href="_class_provider_storage_8php.html">
                                 <topic label="ClassProviderStorage" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_routing_1_1_module_1_1_class_provider_storage.html">
                                   <topic label="add" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_routing_1_1_module_1_1_class_provider_storage.html#af295caa55b469ba5085d2e3aa0bd9804"/>
@@ -17499,7 +17555,7 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Service" href="dir_f2b574bd967dc4d4e421997be5d06e05.html">
+                          <topic label="Service" href="dir_78e2f8173b719fbe818e5ae766a64761.html">
                             <topic label="ApplicationServerExporter.php" href="_application_server_exporter_8php.html">
                               <topic label="ApplicationServerExporter" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_service_1_1_application_server_exporter.html">
                                 <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_service_1_1_application_server_exporter.html#accd6f358930383a213635af742b9cbc7"/>
@@ -17545,8 +17601,8 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Smarty" href="dir_9499d39f2f80cfe4aa82f36a7f694f24.html">
-                            <topic label="Plugin" href="dir_41870c3da8987dfb6d0f987328f2247d.html">
+                          <topic label="Smarty" href="dir_a9f9506fdf7c337c99376ee8bb8b725c.html">
+                            <topic label="Plugin" href="dir_87f9159bbf69f0da7ade124c602be49e.html">
                               <topic label="block.oxhasrights.php" href="block_8oxhasrights_8php.html">
                                 <topic label="smarty_block_oxhasrights" href="block_8oxhasrights_8php.html#ad25df7ea7466b1956b073993a0394c32"/>
                               </topic>
@@ -17764,10 +17820,10 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="utils" href="dir_12bead75fa40be61de9e4ce2fdc91c6f.html">
+                          <topic label="utils" href="dir_ac9bb3fc1e1aa5c1215e169b94eed92f.html">
                             <topic label="oxpicgenerator.php" href="oxpicgenerator_8php.html"/>
                           </topic>
-                          <topic label="ViewHelper" href="dir_442495cd26a69beb694d89c2b6fed5d1.html">
+                          <topic label="ViewHelper" href="dir_c9195a02118b37c01122289d1c076fd0.html">
                             <topic label="JavaScriptRegistrator.php" href="_java_script_registrator_8php.html">
                               <topic label="JavaScriptRegistrator" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_view_helper_1_1_java_script_registrator.html">
                                 <topic label="addFile" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_view_helper_1_1_java_script_registrator.html#a496240c61ea29fe94b43f107ef4bf892"/>
@@ -18270,6 +18326,7 @@
                               <topic label="getShop" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_email.html#a155dac350a66437cb57de7b8f699ba40"/>
                               <topic label="getSubject" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_email.html#aba89dd7ac3c9719f5e48a11dfeda845d"/>
                               <topic label="getUser" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_email.html#acaeb80f334f80c7c15d52d08c934f5b6"/>
+                              <topic label="getUserIdByUserName" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_email.html#a9b36c837d2f1cf496303d43c1949b974"/>
                               <topic label="getUtilsObjectInstance" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_email.html#a63506d8201f43bdf66136a69c90d60bd"/>
                               <topic label="getView" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_email.html#a6f55bb021d879f2a0c41089ee2bc2dd6"/>
                               <topic label="getViewConfig" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_email.html#a8404633a42aae5921c2c08b71dfd5298"/>
@@ -19699,24 +19756,51 @@
                             </topic>
                           </topic>
                         </topic>
-                        <topic label="Internal" href="dir_eabe7ee33f0ebae14d8475150b9c534e.html">
-                          <topic label="Common" href="dir_4d32ce85e2ec7beab569acb69aaea082.html">
-                            <topic label="Container" href="dir_abd5d871a2af4fef58d673af8bde151f.html">
-                              <topic label="Container.php" href="_container_8php.html">
-                                <topic label="Container" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html">
-                                  <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html#af04ba9b69a677f028f9c9bd2553e9411"/>
-                                  <topic label="getInstance" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html#a66b9d49516bc6a7e1052eb7727a286ba"/>
-                                  <topic label="getProductRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html#afbc5bcaafb9af1579d2b5b04f83c4883"/>
-                                  <topic label="getReviewServiceFactory" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html#a6b4e447fb0ad2a52557222fd7e8c2b84"/>
-                                  <topic label="getUserRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html#a0c1f345ec89959f9a8a9950b8a563d26"/>
-                                  <topic label="getUserReviewAndRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html#acf37eb6758cceb4cdff05da9b5f6a962"/>
-                                  <topic label="getUserReviewBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html#a8e683eddc93a2f8e1e7183edc9809061"/>
-                                  <topic label="$instance" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html#a0a8fd7565d0230b4365500c3964c687b"/>
-                                  <topic label="$reviewServiceFactory" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html#a88c20833504ea1c8fa5b960d281c5dde"/>
+                        <topic label="Internal" href="dir_086892a0a11665136c04892ee242fb92.html">
+                          <topic label="Application" href="dir_b5ab0ff8fcda152c995b388fe08e6609.html">
+                            <topic label="Container.php" href="_container_8php.html">
+                              <topic label="Container" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html">
+                                <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html#adac456a12ab6187a89dff0389ebf4f0f"/>
+                                <topic label="getInstance" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html#abfb83a7ac8048f49c8e45d0764dcc66d"/>
+                                <topic label="getProductRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html#ada8ba3080a9d71289ee8f9f9f7528cc0"/>
+                                <topic label="getReviewServiceFactory" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html#a944f4bcf99cf4f68947dff1e01847e48"/>
+                                <topic label="getUserRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html#a2dbfe86227532b54f0130cee48f345c5"/>
+                                <topic label="getUserReviewAndRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html#ae93688c4eb828f22182922dca7e2e154"/>
+                                <topic label="getUserReviewBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html#a3c8eb0fafdc05bb8b4fd7eb461852409"/>
+                                <topic label="$instance" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html#aff5d61c99707d36dd3f2698103dd01ef"/>
+                                <topic label="$reviewServiceFactory" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html#ad798860286b8d0114d23350caa8938c5"/>
+                              </topic>
+                            </topic>
+                          </topic>
+                          <topic label="Common" href="dir_3b50854e0896bde81bf308f9fd673e31.html">
+                            <topic label="Database" href="dir_88d0d9fd45651b39adbfb45818296919.html">
+                              <topic label="QueryBuilderFactory.php" href="_query_builder_factory_8php.html">
+                                <topic label="QueryBuilderFactory" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_database_1_1_query_builder_factory.html">
+                                  <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_database_1_1_query_builder_factory.html#adb68fe21c83caeebddfcad25e980b50c"/>
+                                  <topic label="create" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_database_1_1_query_builder_factory.html#a2b652a6ae7b0ae1267d15a50af25e45b"/>
+                                  <topic label="$connection" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_database_1_1_query_builder_factory.html#a07928efbfd8589aa23e6f6a1fec6c5b6"/>
+                                </topic>
+                              </topic>
+                              <topic label="QueryBuilderFactoryInterface.php" href="_query_builder_factory_interface_8php.html">
+                                <topic label="QueryBuilderFactoryInterface" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_database_1_1_query_builder_factory_interface.html">
+                                  <topic label="create" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_database_1_1_query_builder_factory_interface.html#a9734f026fc25cdca409f66c7cdcae9a8"/>
                                 </topic>
                               </topic>
                             </topic>
-                            <topic label="Exception" href="dir_b12316182544794a862ec2c1b777d233.html">
+                            <topic label="DataMapper" href="dir_60b213e637346376196e06b3cad4eeba.html">
+                              <topic label="EntityMapperInterface.php" href="_entity_mapper_interface_8php.html">
+                                <topic label="EntityMapperInterface" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_entity_mapper_interface.html">
+                                  <topic label="getPrimaryKey" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_entity_mapper_interface.html#a2de4f3632530cd4c1ffe691acaeba878"/>
+                                </topic>
+                              </topic>
+                              <topic label="ObjectMapperInterface.php" href="_object_mapper_interface_8php.html">
+                                <topic label="ObjectMapperInterface" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_object_mapper_interface.html">
+                                  <topic label="getData" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_object_mapper_interface.html#ae33d003ea8fa0429e1fd06e3a5a35a93"/>
+                                  <topic label="map" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_object_mapper_interface.html#afaeab7cee46d161db08bfc415654f235"/>
+                                </topic>
+                              </topic>
+                            </topic>
+                            <topic label="Exception" href="dir_6f3d1afaa8657a13c88e522740cbd91b.html">
                               <topic label="EntryDoesNotExistDaoException.php" href="_entry_does_not_exist_dao_exception_8php.html">
                                 <topic label="EntryDoesNotExistDaoException" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_exception_1_1_entry_does_not_exist_dao_exception.html"/>
                               </topic>
@@ -19725,8 +19809,8 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Review" href="dir_d8dabe2b0939e0cc4e0e9455e25724fe.html">
-                            <topic label="Bridge" href="dir_9cba777fba7471de32a67b03095a8452.html">
+                          <topic label="Review" href="dir_afc7d73a7cfea5654294923d48872bd4.html">
+                            <topic label="Bridge" href="dir_abdbf15d70e23b23bc68453442a50d13.html">
                               <topic label="ProductRatingBridge.php" href="_product_rating_bridge_8php.html">
                                 <topic label="ProductRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_product_rating_bridge.html">
                                   <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_product_rating_bridge.html#acd500b20f19274c627b8442c2275a48e"/>
@@ -19743,6 +19827,7 @@
                                 <topic label="UserRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_user_rating_bridge.html">
                                   <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_user_rating_bridge.html#a909bce2bdecd1267c906af7a9e1e899c"/>
                                   <topic label="deleteRating" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_user_rating_bridge.html#a1e39aa42694c2c764564054a184a34ba"/>
+                                  <topic label="disableSubShopDeleteProtectionForRating" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_user_rating_bridge.html#ada054f38ff9f6409718aa336e470fb95"/>
                                   <topic label="getRatingById" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_user_rating_bridge.html#a60bbc334024a6f611a5072006ac18a51"/>
                                   <topic label="validateUserPermissionsToManageRating" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_user_rating_bridge.html#abde460b008bfa8eaebce1952d3d8dec9"/>
                                   <topic label="$userRatingService" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_user_rating_bridge.html#adcc78d3e705d78d1d9d5f717048443fe"/>
@@ -19789,16 +19874,15 @@
                                 </topic>
                               </topic>
                             </topic>
-                            <topic label="Dao" href="dir_b24bc48566399dca67e7f244e34c6cb5.html">
+                            <topic label="Dao" href="dir_cf4b6d2624344f417fd8c2acac1dc30c.html">
                               <topic label="ProductRatingDao.php" href="_product_rating_dao_8php.html">
                                 <topic label="ProductRatingDao" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao.html">
-                                  <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao.html#a8bf182b0a6d7275094ce2b8257c0217f"/>
+                                  <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao.html#a355ceb9ed79c440c2ffc823eb75aa5e2"/>
                                   <topic label="getProductRatingById" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao.html#a717fe50836b47f1d15f8ce526140eb52"/>
-                                  <topic label="getProductRatingDataById" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao.html#a17faa1049eb11275a7223f7c93a8cd93"/>
-                                  <topic label="mapProductRating" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao.html#ab32304b086e644c4ca35b8f1205ceb8a"/>
                                   <topic label="update" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao.html#a55842639087586e0af7b28aa14f334fc"/>
                                   <topic label="validateProductId" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao.html#a943a23d53ade38524d4fb2a9813c3f01"/>
-                                  <topic label="$database" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao.html#a0873032ee95ce144214517c21e4e8c70"/>
+                                  <topic label="$mapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao.html#af42f76898345ce7a69459bd4757e9938"/>
+                                  <topic label="$queryBuilderFactory" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao.html#ae10d5e1b3029d8f5367f5dc3c2638a02"/>
                                 </topic>
                               </topic>
                               <topic label="ProductRatingDaoInterface.php" href="_product_rating_dao_interface_8php.html">
@@ -19809,15 +19893,13 @@
                               </topic>
                               <topic label="RatingDao.php" href="_rating_dao_8php.html">
                                 <topic label="RatingDao" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html">
-                                  <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html#a5e7b2f5a4beaf271f5112a800327c9cc"/>
+                                  <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html#a2730d9b54738063d850b67b23621c30c"/>
                                   <topic label="delete" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html#aca213de78d9c9630c20dcc7730449e3d"/>
                                   <topic label="getRatingsByProductId" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html#a37196fc485cafc99f3a20c3eb6306a87"/>
                                   <topic label="getRatingsByUserId" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html#ae2a63d936b9a0ee1fc6a248bab734b65"/>
-                                  <topic label="getRatingsFromDatabaseByProductId" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html#adf4ff9495f012fa8de89affa415ae4c2"/>
-                                  <topic label="getRatingsFromDatabaseByUserId" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html#a93b980dbd379a086637e3b810af4bd2e"/>
-                                  <topic label="mapRating" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html#a5cad9bf5dc1b927f02c6f5da61b19ca5"/>
                                   <topic label="mapRatings" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html#a338a63652532a3a8a9f8eb403251e8cb"/>
-                                  <topic label="$database" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html#afe04107119e9c6a18e98697bf72fdc6d"/>
+                                  <topic label="$mapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html#aca0d0d5439b2d35d483b3e5e2d1846e5"/>
+                                  <topic label="$queryBuilderFactory" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html#a104662421ebbd9c69444942d07a15e2c"/>
                                 </topic>
                               </topic>
                               <topic label="RatingDaoInterface.php" href="_rating_dao_interface_8php.html">
@@ -19829,13 +19911,12 @@
                               </topic>
                               <topic label="ReviewDao.php" href="_review_dao_8php.html">
                                 <topic label="ReviewDao" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao.html">
-                                  <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao.html#a780f53e6afb70df7df00cfc82d0f2aea"/>
+                                  <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao.html#a0ac3725097c9c40ffddd1f50519e3398"/>
                                   <topic label="delete" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao.html#a213690393d464fb08287995d9618cec3"/>
                                   <topic label="getReviewsByUserId" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao.html#aac9d812acee89800d8c70db2831d6a97"/>
-                                  <topic label="getReviewsFromDatabaseByUserId" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao.html#acb474b71098b8e0358eed5cf36eae4c9"/>
-                                  <topic label="mapReview" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao.html#ac42fdbcb0aac5606defaf35d55692c23"/>
                                   <topic label="mapReviews" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao.html#a58dedee96981d6d1f45a145a33ede2ab"/>
-                                  <topic label="$database" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao.html#a5bef37927eb36cf2b7a04e0f64bd078c"/>
+                                  <topic label="$mapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao.html#a8e4de196a68c425b1c455664320ce038"/>
+                                  <topic label="$queryBuilderFactory" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao.html#a9c24729da1a4b7e469752da9ff6c3280"/>
                                 </topic>
                               </topic>
                               <topic label="ReviewDaoInterface.php" href="_review_dao_interface_8php.html">
@@ -19845,7 +19926,30 @@
                                 </topic>
                               </topic>
                             </topic>
-                            <topic label="DataObject" href="dir_5cbbf19a90ae1e2df9913918dcc6bd06.html">
+                            <topic label="DataMapper" href="dir_57f7dc0fa2430db1cb5b22a31c90ce15.html">
+                              <topic label="ProductRatingDataMapper.php" href="_product_rating_data_mapper_8php.html">
+                                <topic label="ProductRatingDataMapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_product_rating_data_mapper.html">
+                                  <topic label="getData" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_product_rating_data_mapper.html#ade57bef2a2fdad56765a890a91b9e527"/>
+                                  <topic label="getPrimaryKey" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_product_rating_data_mapper.html#abf89d23d94d000807f6ee103bf85534f"/>
+                                  <topic label="map" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_product_rating_data_mapper.html#a7e93e1032fa8b86ff4f9d0ce2fb494c9"/>
+                                </topic>
+                              </topic>
+                              <topic label="RatingDataMapper.php" href="_rating_data_mapper_8php.html">
+                                <topic label="RatingDataMapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_rating_data_mapper.html">
+                                  <topic label="getData" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_rating_data_mapper.html#a91af454be31abe639c1b33d3eefeb029"/>
+                                  <topic label="getPrimaryKey" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_rating_data_mapper.html#ab5a6a64a2188c446dcc9e39007c34db8"/>
+                                  <topic label="map" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_rating_data_mapper.html#a903c131126b443057b64e864dead042a"/>
+                                </topic>
+                              </topic>
+                              <topic label="ReviewDataMapper.php" href="_review_data_mapper_8php.html">
+                                <topic label="ReviewDataMapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_review_data_mapper.html">
+                                  <topic label="getData" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_review_data_mapper.html#ae793c35ca8e99d7e24cf252602f24fab"/>
+                                  <topic label="getPrimaryKey" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_review_data_mapper.html#a6adaaeff68dc888a6417c9e911efc6a3"/>
+                                  <topic label="map" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_review_data_mapper.html#a85408bc6500bb0b6900dc63b4ac93cad"/>
+                                </topic>
+                              </topic>
+                            </topic>
+                            <topic label="DataObject" href="dir_3ed9c49f33680272679cf3d9eb4550a9.html">
                               <topic label="ProductRating.php" href="_product_rating_8php.html">
                                 <topic label="ProductRating" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_object_1_1_product_rating.html">
                                   <topic label="getProductId" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_object_1_1_product_rating.html#acec24277336b9cc24b0a7bc2513d9492"/>
@@ -19907,7 +20011,7 @@
                                 </topic>
                               </topic>
                             </topic>
-                            <topic label="Exception" href="dir_b6344e79cbbfa6a190efce445dea1912.html">
+                            <topic label="Exception" href="dir_a17b4c557bf4e43081205bf635fa1cf9.html">
                               <topic label="RatingPermissionException.php" href="_rating_permission_exception_8php.html">
                                 <topic label="RatingPermissionException" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_exception_1_1_rating_permission_exception.html"/>
                               </topic>
@@ -19918,7 +20022,7 @@
                                 <topic label="ReviewPermissionException" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_exception_1_1_review_permission_exception.html"/>
                               </topic>
                             </topic>
-                            <topic label="Service" href="dir_76278fd50416a718810943b1a9983b42.html">
+                            <topic label="Service" href="dir_c266f680f9b87cf04433e8b0a948f957.html">
                               <topic label="ProductRatingService.php" href="_product_rating_service_8php.html">
                                 <topic label="ProductRatingService" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_product_rating_service.html">
                                   <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_product_rating_service.html#ad4e51dc66e4cd78109345e395452bd2c"/>
@@ -20003,17 +20107,21 @@
                                 </topic>
                               </topic>
                             </topic>
-                            <topic label="ServiceFactory" href="dir_fd66977e414c93b4708ceeb431172c5d.html">
+                            <topic label="ServiceFactory" href="dir_dd0e6dce33d587ce50ccc5a3df5735f4.html">
                               <topic label="ReviewServiceFactory.php" href="_review_service_factory_8php.html">
                                 <topic label="ReviewServiceFactory" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html">
-                                  <topic label="getDatabase" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#afa62356c64614aa65992d89d512bc96d"/>
+                                  <topic label="getConnection" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#ab778d5e9895421fb1dc12b8860b3a12d"/>
                                   <topic label="getProductRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a51b914d3aa1a4f4aa7d6ecd1aef35a92"/>
                                   <topic label="getProductRatingDao" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a2ed23cb980781bb972bd501ee78d8c2c"/>
+                                  <topic label="getProductRatingDataMapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#ac728a9631187609f7e265c302bd40928"/>
                                   <topic label="getProductRatingService" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#af145cf92fab0615ae79b31dd56eeae33"/>
+                                  <topic label="getQueryBuilderFactory" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a88c5cef823d63a9c17b5e1c1df488934"/>
                                   <topic label="getRatingCalculator" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#ac3c324ded2e1f74c56e4e2e38b09aa19"/>
                                   <topic label="getRatingDao" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a3a3b465be73297641694a234035d2aa2"/>
+                                  <topic label="getRatingDataMapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#adc01850b12afe3b2835b0d8823f8acc7"/>
                                   <topic label="getReviewAndRatingMergingService" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#ab54b611b946d50e8a63becb80a1074ed"/>
                                   <topic label="getReviewDao" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#aeb4faea81e0d481270cc9b6db50addb8"/>
+                                  <topic label="getReviewDataMapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a0059ded53104f30529c4a1dbc0c274b9"/>
                                   <topic label="getUserRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#ab9a0f88c0e14a43c7bcebb71830179dc"/>
                                   <topic label="getUserRatingService" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a531305fd7f1e35e141fa710f69469994"/>
                                   <topic label="getUserReviewAndRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a81575e37898a914267850ae46480629a"/>
@@ -20022,11 +20130,15 @@
                                   <topic label="getUserReviewService" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a55adc1cce71e258e974b0762462caa5a"/>
                                   <topic label="$productRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a1fdeb1bf3e09c4282c577cc343aae70e"/>
                                   <topic label="$productRatingDao" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a0123f62b277f00b2047ba18ed941721e"/>
+                                  <topic label="$productRatingDataMapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a50512a654a3c7945debc3db9f3fbbe2b"/>
                                   <topic label="$productRatingService" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a3e432fc8549262cc63eee7a3017fc221"/>
+                                  <topic label="$queryBuilderFactory" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#ae09288b51684f41cf32c8bfaf47b993a"/>
                                   <topic label="$ratingCalculator" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#aa7042834b346b56e0b23a44643def8e2"/>
                                   <topic label="$ratingDao" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#ac579e4d4bff638489fbcad83b16b9e0c"/>
+                                  <topic label="$ratingDataMapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a81efdbef1fdbe42b2f726150d4dc5051"/>
                                   <topic label="$reviewAndRatingMergingService" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a0dcd5bbe48a5ce0c64b0b0376dc12123"/>
                                   <topic label="$reviewDao" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a2b4604de7abf8f199cb71bab7d0a187a"/>
+                                  <topic label="$reviewDataMapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#aee35da50fb34e2c6ad065f20c0d1aceb"/>
                                   <topic label="$userRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a2bd1755631ec4c36d546a34bacc93cc7"/>
                                   <topic label="$userRatingService" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#ab8d45808f66ca6e529983e9d0a708818"/>
                                   <topic label="$userReviewAndRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a98fb9767fae194d42f7192defffb36e1"/>
@@ -20036,7 +20148,7 @@
                                 </topic>
                               </topic>
                             </topic>
-                            <topic label="ViewDataObject" href="dir_1d318b2023e319216590c5c05bd78ca9.html">
+                            <topic label="ViewDataObject" href="dir_228a7442e92efe699fbdd2d11d59c99f.html">
                               <topic label="ReviewAndRating.php" href="_review_and_rating_8php.html">
                                 <topic label="ReviewAndRating" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_view_data_object_1_1_review_and_rating.html">
                                   <topic label="getCreatedAt" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#a994be94dbf782e6d253128330f960dea"/>
@@ -20068,8 +20180,8 @@
                             </topic>
                           </topic>
                         </topic>
-                        <topic label="migration" href="dir_1cb751dbca64904a7a13cad966c2f872.html">
-                          <topic label="data" href="dir_8f9176062f4d59eb09d9cc891cc0809a.html">
+                        <topic label="migration" href="dir_0d629003bb504724fd22521fa16566cd.html">
+                          <topic label="data" href="dir_2716ff89bec8edc850c1cf932efa49bc.html">
                             <topic label="Version20170718124421.php" href="_version20170718124421_8php.html">
                               <topic label="Version20170718124421" href="class_oxid_esales_1_1_eshop_community_1_1_migrations_1_1_version20170718124421.html">
                                 <topic label="down" href="class_oxid_esales_1_1_eshop_community_1_1_migrations_1_1_version20170718124421.html#ae278b157903537b9b1f03d276eb17fa3"/>
@@ -20096,15 +20208,15 @@
                             </topic>
                           </topic>
                         </topic>
-                        <topic label="modules" href="dir_6da8d063b21090eb9fad6d146fe4830b.html">
-                          <topic label="oe" href="dir_57961ab028dc8c6c7ec449169344b153.html">
+                        <topic label="modules" href="dir_9a73ae6c155cbd021c5542b7185bc2ef.html">
+                          <topic label="oe" href="dir_0c29110fb0a644fade023a8ebd17610d.html">
                             <topic label="vendormetadata.php" href="vendormetadata_8php.html">
                               <topic label="$sVendorMetadataVersion" href="vendormetadata_8php.html#a60ef7c49e4410669c3818e35d52812b8"/>
                             </topic>
                           </topic>
                         </topic>
-                        <topic label="Setup" href="dir_58649b4e3715556dc2e5745861623246.html">
-                          <topic label="Controller" href="dir_f73b768bcc050d5accb1a7a7c523c237.html">
+                        <topic label="Setup" href="dir_f7ba85ea8ca4f0f266914c3095426a01.html">
+                          <topic label="Controller" href="dir_706125e31fb011e28d25057d6e5b443e.html">
                             <topic label="ModuleStateMapGenerator.php" href="_module_state_map_generator_8php.html">
                               <topic label="ModuleStateMapGenerator" href="class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_controller_1_1_module_state_map_generator.html">
                                 <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_controller_1_1_module_state_map_generator.html#a76d629c1bce720a9df7b3aad25c57977"/>
@@ -20131,17 +20243,17 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="De" href="dir_f21adbc5357b37f5f63c766b5c037505.html">
+                          <topic label="De" href="dir_5b148a56782586329257f63fcd535e15.html">
                             <topic label="lang.php" href="_setup_2_de_2lang_8php.html">
                               <topic label="$aLang" href="_setup_2_de_2lang_8php.html#a81e64087cf8dd69f7963ec9480204c46"/>
                             </topic>
                           </topic>
-                          <topic label="En" href="dir_068d57c4b86172a472fab1f20d628827.html">
+                          <topic label="En" href="dir_d886eb16786fe08244d1ad8a07d4465a.html">
                             <topic label="lang.php" href="_setup_2_en_2lang_8php.html">
                               <topic label="$aLang" href="_setup_2_en_2lang_8php.html#a81e64087cf8dd69f7963ec9480204c46"/>
                             </topic>
                           </topic>
-                          <topic label="Exception" href="dir_fd0ae278b6dbcff7f248d107d5de826b.html">
+                          <topic label="Exception" href="dir_66c355489642516cc535663a7d591ba7.html">
                             <topic label="CommandExecutionFailedException.php" href="_command_execution_failed_exception_8php.html">
                               <topic label="CommandExecutionFailedException" href="class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_exception_1_1_command_execution_failed_exception.html">
                                 <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_exception_1_1_command_execution_failed_exception.html#aa38ad79a3530fc81d1af45cc847e4660"/>
@@ -20168,7 +20280,7 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="tpl" href="dir_aa2b04ce8d57a6253f3686c20695ef01.html">
+                          <topic label="tpl" href="dir_7427dab40a865117c995c8c004e36910.html">
                             <topic label="_footer.php" href="__footer_8php.html"/>
                             <topic label="_header.php" href="__header_8php.html">
                               <topic label="$aMessages" href="__header_8php.html#a72c661842a8a64744d67b6d97c3da095"/>

@@ -36,6 +36,8 @@ var searchData=
   ['ensuremultilanguagefields',['ensureMultiLanguageFields',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_db_meta_data_handler.html#ab34136032f844335d10481807a59c54d',1,'OxidEsales::EshopCommunity::Core::DbMetaDataHandler']]],
   ['enterprise',['ENTERPRISE',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_edition_1_1_edition_selector.html#a29a15de89514d5aa14bd3f90bc13f3ec',1,'OxidEsales::EshopCommunity::Core::Edition::EditionSelector']]],
   ['enterprise_5fdirectory',['ENTERPRISE_DIRECTORY',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_edition_1_1_edition_root_path_provider.html#a1313188438a9ac1aadba13bd44d2f25a',1,'OxidEsales::EshopCommunity::Core::Edition::EditionRootPathProvider']]],
+  ['entitymapperinterface',['EntityMapperInterface',['../interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_entity_mapper_interface.html',1,'OxidEsales::EshopCommunity::Internal::Common::DataMapper']]],
+  ['entitymapperinterface_2ephp',['EntityMapperInterface.php',['../_entity_mapper_interface_8php.html',1,'']]],
   ['entrydoesnotexistdaoexception',['EntryDoesNotExistDaoException',['../class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_exception_1_1_entry_does_not_exist_dao_exception.html',1,'OxidEsales::EshopCommunity::Internal::Common::Exception']]],
   ['entrydoesnotexistdaoexception_2ephp',['EntryDoesNotExistDaoException.php',['../_entry_does_not_exist_dao_exception_8php.html',1,'']]],
   ['error_5fcould_5fnot_5fcreate_5fdb',['ERROR_COULD_NOT_CREATE_DB',['../class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_database.html#a93104ce06892d5235f939aeae85f0fdc',1,'OxidEsales::EshopCommunity::Setup::Database']]],

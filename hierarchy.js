@@ -296,7 +296,7 @@ var hierarchy =
     [ "OxidEsales\\EshopCommunity\\Core\\CompanyVatInChecker", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_company_vat_in_checker.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\CompanyVatInValidator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_company_vat_in_validator.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\ConfigFile", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_config_file.html", null ],
-    [ "OxidEsales\\EshopCommunity\\Internal\\Common\\Container\\Container", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Application\\Container", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html", null ],
     [ "ContentController", null, [
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\CreditsController", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_credits_controller.html", null ]
     ] ],
@@ -412,19 +412,19 @@ var hierarchy =
     [ "OxidEsales\\EshopCommunity\\Core\\Hasher", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_hasher.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\Header", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_header.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\Contract\\IConfigurable", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_configurable.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Core\\Contract\\ICountryAware", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_country_aware.html", null ],
     [ "ICountryAware", null, [
       [ "OxidEsales\\EshopCommunity\\Core\\CompanyVatInCountryChecker", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_company_vat_in_country_checker.html", null ]
     ] ],
-    [ "OxidEsales\\EshopCommunity\\Core\\Contract\\ICountryAware", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_country_aware.html", null ],
     [ "IDisplayError", null, [
       [ "OxidEsales\\EshopCommunity\\Core\\DisplayError", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_display_error.html", null ],
       [ "OxidEsales\\EshopCommunity\\Core\\Exception\\ExceptionToDisplay", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_to_display.html", null ]
     ] ],
     [ "OxidEsales\\EshopCommunity\\Core\\Contract\\IDisplayError", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_display_error.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Core\\Contract\\IModuleValidator", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_module_validator.html", null ],
     [ "IModuleValidator", null, [
       [ "OxidEsales\\EshopCommunity\\Core\\Module\\ModuleMetadataValidator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_metadata_validator.html", null ]
     ] ],
-    [ "OxidEsales\\EshopCommunity\\Core\\Contract\\IModuleValidator", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_module_validator.html", null ],
     [ "ImportObject", null, [
       [ "OxidEsales\\EshopCommunity\\Core\\GenericImport\\ImportObject\\Accessories2Article", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_generic_import_1_1_import_object_1_1_accessories2_article.html", null ],
       [ "OxidEsales\\EshopCommunity\\Core\\GenericImport\\ImportObject\\Article", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_generic_import_1_1_import_object_1_1_article.html", null ],
@@ -575,6 +575,13 @@ var hierarchy =
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\Admin\\NewsletterSend", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_newsletter_send.html", null ]
     ] ],
     [ "OxidEsales\\EshopCommunity\\Core\\NoJsValidator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_no_js_validator.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Common\\DataMapper\\ObjectMapperInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_object_mapper_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Common\\DataMapper\\EntityMapperInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_entity_mapper_interface.html", [
+        [ "OxidEsales\\EshopCommunity\\Internal\\Review\\DataMapper\\ProductRatingDataMapper", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_product_rating_data_mapper.html", null ],
+        [ "OxidEsales\\EshopCommunity\\Internal\\Review\\DataMapper\\RatingDataMapper", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_rating_data_mapper.html", null ],
+        [ "OxidEsales\\EshopCommunity\\Internal\\Review\\DataMapper\\ReviewDataMapper", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_review_data_mapper.html", null ]
+      ] ]
+    ] ],
     [ "ObjectSeo", null, [
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\Admin\\ArticleSeo", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_article_seo.html", null ],
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\Admin\\CategorySeo", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_category_seo.html", null ],
@@ -582,19 +589,19 @@ var hierarchy =
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\Admin\\ManufacturerSeo", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_manufacturer_seo.html", null ],
       [ "OxidEsales\\EshopCommunity\\Application\\Controller\\Admin\\VendorSeo", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_vendor_seo.html", null ]
     ] ],
-    [ "OxidEsales\\EshopCommunity\\Core\\OnlineCaller", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_caller.html", null ],
     [ "OnlineCaller", null, [
       [ "OxidEsales\\EshopCommunity\\Core\\OnlineLicenseCheckCaller", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_license_check_caller.html", null ],
       [ "OxidEsales\\EshopCommunity\\Core\\OnlineModuleVersionNotifierCaller", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_module_version_notifier_caller.html", null ]
     ] ],
+    [ "OxidEsales\\EshopCommunity\\Core\\OnlineCaller", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_caller.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\OnlineLicenseCheck", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_license_check.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\OnlineLicenseCheckResponse", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_license_check_response.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\OnlineModuleVersionNotifier", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_module_version_notifier.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Core\\OnlineRequest", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_request.html", null ],
     [ "OnlineRequest", null, [
       [ "OxidEsales\\EshopCommunity\\Core\\OnlineLicenseCheckRequest", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_license_check_request.html", null ],
       [ "OxidEsales\\EshopCommunity\\Core\\OnlineModulesNotifierRequest", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_modules_notifier_request.html", null ]
     ] ],
-    [ "OxidEsales\\EshopCommunity\\Core\\OnlineRequest", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_request.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\OpenSSLFunctionalityChecker", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_open_s_s_l_functionality_checker.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\Oxid", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_oxid.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\PasswordHasher", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_password_hasher.html", null ],
@@ -613,6 +620,9 @@ var hierarchy =
     ] ],
     [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Service\\ProductRatingServiceInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_product_rating_service_interface.html", [
       [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Service\\ProductRatingService", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_product_rating_service.html", null ]
+    ] ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Common\\Database\\QueryBuilderFactoryInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_database_1_1_query_builder_factory_interface.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Common\\Database\\QueryBuilderFactory", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_database_1_1_query_builder_factory.html", null ]
     ] ],
     [ "OxidEsales\\EshopCommunity\\Internal\\Review\\DataObject\\Rating", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_object_1_1_rating.html", null ],
     [ "OxidEsales\\EshopCommunity\\Internal\\Review\\Service\\RatingCalculatorServiceInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_rating_calculator_service_interface.html", [

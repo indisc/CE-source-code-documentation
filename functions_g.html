@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.16"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>OXID eShop CE: Class Members</title>
+<title>OXID eShop CD: Class Members</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -29,8 +29,8 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">OXID eShop CE
-   &#160;<span id="projectnumber">6.0.2</span>
+   <div id="projectname">OXID eShop CD
+   &#160;<span id="projectnumber">6.0.3</span>
    </div>
   </td>
  </tr>
@@ -1142,6 +1142,7 @@ $(document).ready(function(){initNavTree('functions_g.html','');});
 </li>
 <li>getConnection()
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_database_1_1_adapter_1_1_doctrine_1_1_database.html#a9862f35f93eb884b6c272b7cf591bded">OxidEsales\EshopCommunity\Core\Database\Adapter\Doctrine\Database</a>
+, <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#ab778d5e9895421fb1dc12b8860b3a12d">OxidEsales\EshopCommunity\Internal\Review\ServiceFactory\ReviewServiceFactory</a>
 , <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_database.html#a97edea1281a59e45c610595f8242d61c">OxidEsales\EshopCommunity\Setup\Database</a>
 </li>
 <li>getConnectionCharset()
@@ -1157,6 +1158,9 @@ $(document).ready(function(){initNavTree('functions_g.html','');});
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_database_1_1_adapter_1_1_doctrine_1_1_database.html#ab87832beac519f2bb162d44fc4e1b20a">OxidEsales\EshopCommunity\Core\Database\Adapter\Doctrine\Database</a>
 , <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_database_provider.html#ac75a4416e2037c570df4883a75ed1d65">OxidEsales\EshopCommunity\Core\DatabaseProvider</a>
 </li>
+<li>getContactFormMessage()
+: <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller.html#aad705c9627af927ed25a1fcb7f4431e3">OxidEsales\EshopCommunity\Application\Controller\ContactController</a>
+</li>
 <li>getContactMessage()
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller.html#a3f74f2f14d8b9555c03885803f96f5b7">OxidEsales\EshopCommunity\Application\Controller\ContactController</a>
 </li>
@@ -1167,9 +1171,8 @@ $(document).ready(function(){initNavTree('functions_g.html','');});
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller.html#a02e2d1b7c211f09f43c9964b7761ea27">OxidEsales\EshopCommunity\Application\Controller\ContactController</a>
 </li>
 <li>getContainer()
-: <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#af8a69428eccb92b4ad5524b8b58a5da1">OxidEsales\EshopCommunity\Application\Controller\AccountController</a>
-, <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_review_controller.html#a62f74c726704ee8962ca3be72f8bdff4">OxidEsales\EshopCommunity\Application\Controller\AccountReviewController</a>
-, <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#a13578068ecd588e48238330bf22c27ad">OxidEsales\EshopCommunity\Application\Controller\CompareController</a>
+: <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_review_controller.html#a62f74c726704ee8962ca3be72f8bdff4">OxidEsales\EshopCommunity\Application\Controller\AccountReviewController</a>
+, <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#aab20c27ac771a72c4eaaceee77677049">OxidEsales\EshopCommunity\Application\Controller\FrontendController</a>
 , <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_rating.html#a447354335efa44f8774c351db98af85f">OxidEsales\EshopCommunity\Application\Model\Rating</a>
 , <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_review.html#a887a4757039b2d3a6c6c439754ff8482">OxidEsales\EshopCommunity\Application\Model\Review</a>
 </li>
@@ -1336,10 +1339,15 @@ $(document).ready(function(){initNavTree('functions_g.html','');});
 <li>getCustomVAT()
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a51f9e17c89a9413b47bea096bbe36b0d">OxidEsales\EshopCommunity\Application\Model\Article</a>
 </li>
+<li>getData()
+: <a class="el" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_object_mapper_interface.html#ae33d003ea8fa0429e1fd06e3a5a35a93">OxidEsales\EshopCommunity\Internal\Common\DataMapper\ObjectMapperInterface</a>
+, <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_product_rating_data_mapper.html#ade57bef2a2fdad56765a890a91b9e527">OxidEsales\EshopCommunity\Internal\Review\DataMapper\ProductRatingDataMapper</a>
+, <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_rating_data_mapper.html#a91af454be31abe639c1b33d3eefeb029">OxidEsales\EshopCommunity\Internal\Review\DataMapper\RatingDataMapper</a>
+, <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_review_data_mapper.html#ae793c35ca8e99d7e24cf252602f24fab">OxidEsales\EshopCommunity\Internal\Review\DataMapper\ReviewDataMapper</a>
+</li>
 <li>getDatabase()
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_article_overview.html#a8dc2ade1ccdb0e9753d52a9320698baa">OxidEsales\EshopCommunity\Application\Controller\Admin\ArticleOverview</a>
 , <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#aa55c0ce3b6fe80cbb595598c4597e5d6">OxidEsales\EshopCommunity\Application\Model\Article</a>
-, <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#afa62356c64614aa65992d89d512bc96d">OxidEsales\EshopCommunity\Internal\Review\ServiceFactory\ReviewServiceFactory</a>
 </li>
 <li>getDatabaseInstance()
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_core.html#aa10403cc7360643b317213da09605f09">OxidEsales\EshopCommunity\Setup\Core</a>
@@ -1522,6 +1530,12 @@ $(document).ready(function(){initNavTree('functions_g.html','');});
 </li>
 <li>getDynamicUrl()
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_seo_encoder.html#a65b03fcc79bd6594d6b58899d40b6550">OxidEsales\EshopCommunity\Core\SeoEncoder</a>
+</li>
+<li>getDynamicValues()
+: <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#ac00ab21b223775edc043e52394ab9d84">OxidEsales\EshopCommunity\Application\Model\Order</a>
+</li>
+<li>getDynamicValuesFromPaymentType()
+: <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#a441235f215c5bf334ef40b385cb57b5a">OxidEsales\EshopCommunity\Application\Model\Order</a>
 </li>
 <li>getDynDataFiltered()
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_payment_controller.html#a368ec54dedb32d9f663e76692aa00d74">OxidEsales\EshopCommunity\Application\Controller\PaymentController</a>
@@ -2046,7 +2060,7 @@ $(document).ready(function(){initNavTree('functions_g.html','');});
 , <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_database_provider.html#aec7fe9a86aa0932786cb233b3bc7add7">OxidEsales\EshopCommunity\Core\DatabaseProvider</a>
 , <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_dynamic_image_generator.html#a4bf3616910cd8c82fc1cf2001e536c5e">OxidEsales\EshopCommunity\Core\DynamicImageGenerator</a>
 , <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_object.html#a95b33afca7fe4dc9ba3bcc484eb69766">OxidEsales\EshopCommunity\Core\UtilsObject</a>
-, <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html#a66b9d49516bc6a7e1052eb7727a286ba">OxidEsales\EshopCommunity\Internal\Common\Container\Container</a>
+, <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html#abfb83a7ac8048f49c8e45d0764dcc66d">OxidEsales\EshopCommunity\Internal\Application\Container</a>
 , <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_core.html#af16bd8e8c4172aae7195684cec77b1ef">OxidEsales\EshopCommunity\Setup\Core</a>
 </li>
 <li>getInvalidFields()
@@ -3144,6 +3158,12 @@ $(document).ready(function(){initNavTree('functions_g.html','');});
 <li>getPriceInfo()
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_price_list.html#ae9b96660579e57d40b717d588f4602ff">OxidEsales\EshopCommunity\Core\PriceList</a>
 </li>
+<li>getPrimaryKey()
+: <a class="el" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_entity_mapper_interface.html#a2de4f3632530cd4c1ffe691acaeba878">OxidEsales\EshopCommunity\Internal\Common\DataMapper\EntityMapperInterface</a>
+, <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_product_rating_data_mapper.html#abf89d23d94d000807f6ee103bf85534f">OxidEsales\EshopCommunity\Internal\Review\DataMapper\ProductRatingDataMapper</a>
+, <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_rating_data_mapper.html#ab5a6a64a2188c446dcc9e39007c34db8">OxidEsales\EshopCommunity\Internal\Review\DataMapper\RatingDataMapper</a>
+, <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_review_data_mapper.html#a6adaaeff68dc888a6417c9e911efc6a3">OxidEsales\EshopCommunity\Internal\Review\DataMapper\ReviewDataMapper</a>
+</li>
 <li>getProduct()
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_categories_component.html#ac8f10b9c6192e4ed66e8bed20fdd4c42">OxidEsales\EshopCommunity\Application\Component\CategoriesComponent</a>
 , <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_widget_1_1_article_box.html#a6671d407b6d75da80c4f6200d75cf348">OxidEsales\EshopCommunity\Application\Component\Widget\ArticleBox</a>
@@ -3171,7 +3191,7 @@ $(document).ready(function(){initNavTree('functions_g.html','');});
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_picture_handler.html#a3298ae2d185392468bd8741f8a770046">OxidEsales\EshopCommunity\Core\PictureHandler</a>
 </li>
 <li>getProductRatingBridge()
-: <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html#afbc5bcaafb9af1579d2b5b04f83c4883">OxidEsales\EshopCommunity\Internal\Common\Container\Container</a>
+: <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html#ada8ba3080a9d71289ee8f9f9f7528cc0">OxidEsales\EshopCommunity\Internal\Application\Container</a>
 , <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a51b914d3aa1a4f4aa7d6ecd1aef35a92">OxidEsales\EshopCommunity\Internal\Review\ServiceFactory\ReviewServiceFactory</a>
 </li>
 <li>getProductRatingById()
@@ -3181,8 +3201,8 @@ $(document).ready(function(){initNavTree('functions_g.html','');});
 <li>getProductRatingDao()
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a2ed23cb980781bb972bd501ee78d8c2c">OxidEsales\EshopCommunity\Internal\Review\ServiceFactory\ReviewServiceFactory</a>
 </li>
-<li>getProductRatingDataById()
-: <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao.html#a17faa1049eb11275a7223f7c93a8cd93">OxidEsales\EshopCommunity\Internal\Review\Dao\ProductRatingDao</a>
+<li>getProductRatingDataMapper()
+: <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#ac728a9631187609f7e265c302bd40928">OxidEsales\EshopCommunity\Internal\Review\ServiceFactory\ReviewServiceFactory</a>
 </li>
 <li>getProductRatingService()
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#af145cf92fab0615ae79b31dd56eeae33">OxidEsales\EshopCommunity\Internal\Review\ServiceFactory\ReviewServiceFactory</a>
@@ -3224,6 +3244,9 @@ $(document).ready(function(){initNavTree('functions_g.html','');});
 <li>getQuery()
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_curl.html#a425f39a5698b000e29a28e1b5761ad16">OxidEsales\EshopCommunity\Core\Curl</a>
 </li>
+<li>getQueryBuilderFactory()
+: <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a88c5cef823d63a9c17b5e1c1df488934">OxidEsales\EshopCommunity\Internal\Review\ServiceFactory\ReviewServiceFactory</a>
+</li>
 <li>getQueryToFetchNextUpdateTime()
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article_list.html#af41903512f18941d4b6e73f87bda9621">OxidEsales\EshopCommunity\Application\Model\ArticleList</a>
 </li>
@@ -3258,6 +3281,9 @@ $(document).ready(function(){initNavTree('functions_g.html','');});
 <li>getRatingDao()
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a3a3b465be73297641694a234035d2aa2">OxidEsales\EshopCommunity\Internal\Review\ServiceFactory\ReviewServiceFactory</a>
 </li>
+<li>getRatingDataMapper()
+: <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#adc01850b12afe3b2835b0d8823f8acc7">OxidEsales\EshopCommunity\Internal\Review\ServiceFactory\ReviewServiceFactory</a>
+</li>
 <li>getRatingId()
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#a077aaa13d40aaa022a691c6100ab142c">OxidEsales\EshopCommunity\Internal\Review\ViewDataObject\ReviewAndRating</a>
 </li>
@@ -3275,12 +3301,6 @@ $(document).ready(function(){initNavTree('functions_g.html','');});
 <li>getRatingsByUserId()
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html#ae2a63d936b9a0ee1fc6a248bab734b65">OxidEsales\EshopCommunity\Internal\Review\Dao\RatingDao</a>
 , <a class="el" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao_interface.html#a166c093a824413943f0ff1d5bcd9eec5">OxidEsales\EshopCommunity\Internal\Review\Dao\RatingDaoInterface</a>
-</li>
-<li>getRatingsFromDatabaseByProductId()
-: <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html#adf4ff9495f012fa8de89affa415ae4c2">OxidEsales\EshopCommunity\Internal\Review\Dao\RatingDao</a>
-</li>
-<li>getRatingsFromDatabaseByUserId()
-: <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_rating_dao.html#a93b980dbd379a086637e3b810af4bd2e">OxidEsales\EshopCommunity\Internal\Review\Dao\RatingDao</a>
 </li>
 <li>getRatingValue()
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_widget_1_1_article_details.html#a3c3ab6266dbf5c22a6a8c974a1662f17">OxidEsales\EshopCommunity\Application\Component\Widget\ArticleDetails</a>
@@ -3492,8 +3512,7 @@ $(document).ready(function(){initNavTree('functions_g.html','');});
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_exception_1_1_command_execution_failed_exception.html#a42b04c9b63bdae603403a9fbb1e20e4d">OxidEsales\EshopCommunity\Setup\Exception\CommandExecutionFailedException</a>
 </li>
 <li>getReviewAndRatingItemsCount()
-: <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_account_controller.html#abdf006de08bc5a9482ad710dfa546638">OxidEsales\EshopCommunity\Application\Controller\AccountController</a>
-, <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_compare_controller.html#abde370cb3f792aba78a96885f311cba1">OxidEsales\EshopCommunity\Application\Controller\CompareController</a>
+: <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a14913961839e7a0ed1e3aca522a04f2f">OxidEsales\EshopCommunity\Application\Controller\FrontendController</a>
 </li>
 <li>getReviewAndRatingList()
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_user_review_and_rating_bridge.html#a2b9d62c766cf79909830172d4bc54576">OxidEsales\EshopCommunity\Internal\Review\Bridge\UserReviewAndRatingBridge</a>
@@ -3518,6 +3537,9 @@ $(document).ready(function(){initNavTree('functions_g.html','');});
 </li>
 <li>getReviewDao()
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#aeb4faea81e0d481270cc9b6db50addb8">OxidEsales\EshopCommunity\Internal\Review\ServiceFactory\ReviewServiceFactory</a>
+</li>
+<li>getReviewDataMapper()
+: <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a0059ded53104f30529c4a1dbc0c274b9">OxidEsales\EshopCommunity\Internal\Review\ServiceFactory\ReviewServiceFactory</a>
 </li>
 <li>getReviewDataWithRating()
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_review_and_rating_merging_service.html#a4442773d3c8fcc2ef002dbd572004d1c">OxidEsales\EshopCommunity\Internal\Review\Service\ReviewAndRatingMergingService</a>
@@ -3550,10 +3572,7 @@ $(document).ready(function(){initNavTree('functions_g.html','');});
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_review_controller.html#ad013fe1d168b4392f979a7dec2bc7412">OxidEsales\EshopCommunity\Application\Controller\ReviewController</a>
 </li>
 <li>getReviewServiceFactory()
-: <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html#a6b4e447fb0ad2a52557222fd7e8c2b84">OxidEsales\EshopCommunity\Internal\Common\Container\Container</a>
-</li>
-<li>getReviewsFromDatabaseByUserId()
-: <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_review_dao.html#acb474b71098b8e0358eed5cf36eae4c9">OxidEsales\EshopCommunity\Internal\Review\Dao\ReviewDao</a>
+: <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html#a944f4bcf99cf4f68947dff1e01847e48">OxidEsales\EshopCommunity\Internal\Application\Container</a>
 </li>
 <li>getReviewText()
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#a856bbc5835a32c1b0ec9174d9c46efe2">OxidEsales\EshopCommunity\Internal\Review\ViewDataObject\ReviewAndRating</a>
@@ -4495,12 +4514,15 @@ $(document).ready(function(){initNavTree('functions_g.html','');});
 , <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_object_1_1_rating.html#ad9dc08555e92db222981ec3a1e92c6cb">OxidEsales\EshopCommunity\Internal\Review\DataObject\Rating</a>
 , <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_object_1_1_review.html#a00a2543052278790c8471a05d0437119">OxidEsales\EshopCommunity\Internal\Review\DataObject\Review</a>
 </li>
+<li>getUserIdByUserName()
+: <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_email.html#a9b36c837d2f1cf496303d43c1949b974">OxidEsales\EshopCommunity\Core\Email</a>
+</li>
 <li>getUserPayments()
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_user_payment.html#ac69cf3f5508ff074012fcec43322b899">OxidEsales\EshopCommunity\Application\Controller\Admin\UserPayment</a>
 , <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user.html#ac128f2eead3e7a8dba4452fc38b7c955">OxidEsales\EshopCommunity\Application\Model\User</a>
 </li>
 <li>getUserRatingBridge()
-: <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html#a0c1f345ec89959f9a8a9950b8a563d26">OxidEsales\EshopCommunity\Internal\Common\Container\Container</a>
+: <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html#a2dbfe86227532b54f0130cee48f345c5">OxidEsales\EshopCommunity\Internal\Application\Container</a>
 , <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#ab9a0f88c0e14a43c7bcebb71830179dc">OxidEsales\EshopCommunity\Internal\Review\ServiceFactory\ReviewServiceFactory</a>
 </li>
 <li>getUserRatingService()
@@ -4510,14 +4532,14 @@ $(document).ready(function(){initNavTree('functions_g.html','');});
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user.html#a637f0a31b07f37cc4287ef749ebbf609">OxidEsales\EshopCommunity\Application\Model\User</a>
 </li>
 <li>getUserReviewAndRatingBridge()
-: <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html#acf37eb6758cceb4cdff05da9b5f6a962">OxidEsales\EshopCommunity\Internal\Common\Container\Container</a>
+: <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html#ae93688c4eb828f22182922dca7e2e154">OxidEsales\EshopCommunity\Internal\Application\Container</a>
 , <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#a81575e37898a914267850ae46480629a">OxidEsales\EshopCommunity\Internal\Review\ServiceFactory\ReviewServiceFactory</a>
 </li>
 <li>getUserReviewAndRatingService()
 : <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#ac8aee02f252e52adc21247bf3a30c3db">OxidEsales\EshopCommunity\Internal\Review\ServiceFactory\ReviewServiceFactory</a>
 </li>
 <li>getUserReviewBridge()
-: <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_container_1_1_container.html#a8e683eddc93a2f8e1e7183edc9809061">OxidEsales\EshopCommunity\Internal\Common\Container\Container</a>
+: <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html#a3c8eb0fafdc05bb8b4fd7eb461852409">OxidEsales\EshopCommunity\Internal\Application\Container</a>
 , <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#ac2051b10a91e5196be22a699dda2e454">OxidEsales\EshopCommunity\Internal\Review\ServiceFactory\ReviewServiceFactory</a>
 </li>
 <li>getUserReviewService()

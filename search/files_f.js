@@ -27,6 +27,7 @@ var searchData=
   ['productratingbridgeinterface_2ephp',['ProductRatingBridgeInterface.php',['../_product_rating_bridge_interface_8php.html',1,'']]],
   ['productratingdao_2ephp',['ProductRatingDao.php',['../_product_rating_dao_8php.html',1,'']]],
   ['productratingdaointerface_2ephp',['ProductRatingDaoInterface.php',['../_product_rating_dao_interface_8php.html',1,'']]],
+  ['productratingdatamapper_2ephp',['ProductRatingDataMapper.php',['../_product_rating_data_mapper_8php.html',1,'']]],
   ['productratingservice_2ephp',['ProductRatingService.php',['../_product_rating_service_8php.html',1,'']]],
   ['productratingserviceinterface_2ephp',['ProductRatingServiceInterface.php',['../_product_rating_service_interface_8php.html',1,'']]]
 ];

@@ -1,0 +1,5 @@
+var namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper =
+[
+    [ "EntityMapperInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_entity_mapper_interface.html", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_entity_mapper_interface" ],
+    [ "ObjectMapperInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_object_mapper_interface.html", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_object_mapper_interface" ]
+];

@@ -40,7 +40,6 @@ var class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user =
     [ "deleteRecommendationLists", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user.html#aca1435fe2bfb1bb94ab6e1ae35255c12", null ],
     [ "deleteReviews", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user.html#aa6b821b97b1699ff97494bba71edb6b5", null ],
     [ "deleteUserFromGroups", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user.html#a62ca1697ef5fbe3a70392de60b45b9ed", null ],
-    [ "deleteUserPayments", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user.html#a7a48f8dd335293e81e542108893c94ef", null ],
     [ "encodePassword", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user.html#ac0beee6238df71696d66a87b0249d7af", null ],
     [ "exists", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user.html#a6dcaf105e969c94468c39032dfafc58d", null ],
     [ "formQueryPartForAdminView", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user.html#a83338e51bc38076703d0a20f3003997a", null ],

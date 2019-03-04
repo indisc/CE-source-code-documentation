@@ -1,6 +1,7 @@
 var class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller =
 [
     [ "getBreadCrumb", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller.html#af39e5050e06d018868dba5baa73057f9", null ],
+    [ "getContactFormMessage", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller.html#aad705c9627af927ed25a1fcb7f4431e3", null ],
     [ "getContactMessage", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller.html#a3f74f2f14d8b9555c03885803f96f5b7", null ],
     [ "getContactSendStatus", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller.html#aced0e306af6daaa246be33b2d636a385", null ],
     [ "getContactSubject", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_contact_controller.html#a02e2d1b7c211f09f43c9964b7761ea27", null ],

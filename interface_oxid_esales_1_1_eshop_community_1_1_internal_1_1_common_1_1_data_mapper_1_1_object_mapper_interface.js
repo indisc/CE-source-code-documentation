@@ -1,0 +1,5 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_object_mapper_interface =
+[
+    [ "getData", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_object_mapper_interface.html#ae33d003ea8fa0429e1fd06e3a5a35a93", null ],
+    [ "map", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_object_mapper_interface.html#afaeab7cee46d161db08bfc415654f235", null ]
+];
