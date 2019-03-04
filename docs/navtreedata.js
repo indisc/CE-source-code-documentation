@@ -2,17 +2,16 @@
 @ @licstart  The following is the entire license notice for the
 JavaScript code in this file.
 
-Copyright (C) 1997-2017 by Dimitri van Heesch
+Copyright (C) 1997-2019 by Dimitri van Heesch
 
 This program is free software; you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation; either version 2 of the License, or
-(at your option) any later version.
+it under the terms of version 2 of the GNU General Public License as published by
+the Free Software Foundation
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- GNU General Public License for more details.
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along
 with this program; if not, write to the Free Software Foundation, Inc.,
@@ -89,8 +88,8 @@ var NAVTREEINDEX =
 "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_view_helper_1_1_java_script_registrator.html#a496240c61ea29fe94b43f107ef4bf892",
 "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_object_1_1_rating.html",
 "class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_session.html#ac30d9c8d4a1f7c965ef000b23a9ae925",
-"functions.html",
-"interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_user_rating_bridge_interface.html"
+"function_8oxvariantselect_8php.html#ae2ec785e551c90c45f06d131351a430e",
+"interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_product_rating_bridge_interface.html#a05b6a1908c57648b155c9048aab3283d"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
