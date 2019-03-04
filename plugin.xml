@@ -1,4 +1,4 @@
-<plugin name="org.doxygen.OXID_eShop_6.1.1" id="org.doxygen.OXID_eShop_6.1.1"
+<plugin name="org.doxygen.OXID_eShop_6.1.2" id="org.doxygen.OXID_eShop_6.1.2"
         version="1.0.0" provider-name="Doxygen">
   <extension point="org.eclipse.help.toc">
     <toc file="toc.xml" primary="true" />

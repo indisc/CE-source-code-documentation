@@ -248,6 +248,6 @@ var NAVTREEINDEX4 =
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_admin_content.html":[2,0,0,0,0,1,0,7],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_admin_content.html#a9990c32ba68a7e394bbb39087576b6d9":[2,0,0,0,0,1,0,7,0],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_admin_controller.html":[2,0,0,0,0,1,0,8],
-"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_admin_controller.html#a030ed83e7fbc21e4be3650b25f7624de":[2,0,0,0,0,1,0,8,21],
-"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_admin_controller.html#a0bbf3259750fef841bd12537dbff55e1":[2,0,0,0,0,1,0,8,37]
+"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_admin_controller.html#a030ed83e7fbc21e4be3650b25f7624de":[2,0,0,0,0,1,0,8,23],
+"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_admin_controller.html#a0bbf3259750fef841bd12537dbff55e1":[2,0,0,0,0,1,0,8,39]
 };

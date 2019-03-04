@@ -36,6 +36,7 @@ var searchData=
   ['onordersend',['onOrderSend',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_order_main.html#a723ca9198bafa0d5d8207e4d795f5c4c',1,'OxidEsales::EshopCommunity::Application::Controller::Admin::OrderMain']]],
   ['onpostconnect',['onPostConnect',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_database_provider.html#a3475ecb0bcccc5c981e8718dee4517c4',1,'OxidEsales::EshopCommunity::Core::DatabaseProvider']]],
   ['onsave',['onSave',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_recommendation_list.html#ab04edd615b25aa9c3252bd73ab3f1215',1,'OxidEsales::EshopCommunity::Application::Model::RecommendationList']]],
+  ['onshopend',['onShopEnd',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_event_handler.html#a1d7a00c9aae78550fd492ab443875994',1,'OxidEsales::EshopCommunity::Core::SystemEventHandler']]],
   ['onshopstart',['onShopStart',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_event_handler.html#a64a5348e22ca7d02ef97c104fd09e6c9',1,'OxidEsales::EshopCommunity::Core::SystemEventHandler']]],
   ['onupdate',['onUpdate',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_basket.html#a9703dce5e889b914786a7dfc78c2a5ec',1,'OxidEsales::EshopCommunity::Application::Model::Basket']]],
   ['onupdatecategorytree',['onUpdateCategoryTree',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_category_list.html#a8ec8e677371aa8f602230dc0d2036924',1,'OxidEsales::EshopCommunity::Application::Model::CategoryList']]],

@@ -11,6 +11,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_event_handler =
     [ "isSendingShopDataEnabled", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_event_handler.html#adad5d1947e04428b85d4a7b7dfbce325", null ],
     [ "needToSendShopInformation", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_event_handler.html#a7f9efe7537df293a0450f92dc912295d", null ],
     [ "onAdminLogin", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_event_handler.html#abac7abb211f3e1dd3ae73bbd346209c1", null ],
+    [ "onShopEnd", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_event_handler.html#a1d7a00c9aae78550fd492ab443875994", null ],
     [ "onShopStart", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_event_handler.html#a64a5348e22ca7d02ef97c104fd09e6c9", null ],
     [ "sendShopInformation", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_event_handler.html#a6eeb2c0c5575f363fa8b974eee17f785", null ],
     [ "setOnlineLicenseCheck", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_event_handler.html#a9b54ccd93246146d3f2a53c47c647f9c", null ],
