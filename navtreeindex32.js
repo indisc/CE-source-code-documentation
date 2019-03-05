@@ -1,5 +1,10 @@
 var NAVTREEINDEX32 =
 {
+"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_event_handler.html#a84a4d2b81a7fe82c3a1f45f62ecf6db9":[2,0,0,0,1,83,16],
+"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_event_handler.html#a952188ed054f4a361f5598cd6b8ed638":[2,0,0,0,1,83,4],
+"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_event_handler.html#a9b54ccd93246146d3f2a53c47c647f9c":[2,0,0,0,1,83,13],
+"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_event_handler.html#aae8335f56ef450c3be0f6cd230b106ff":[2,0,0,0,1,83,17],
+"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_event_handler.html#ab20dd1780cfcff94532db3b9d48f7037":[2,0,0,0,1,83,18],
 "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_event_handler.html#abac7abb211f3e1dd3ae73bbd346209c1":[2,0,0,0,1,83,10],
 "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_event_handler.html#ac537878061533b4c6f88929f04db2d75":[2,0,0,0,1,83,2],
 "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_event_handler.html#acbb7be318c1fd121ea5241e5f0f13e00":[2,0,0,0,1,83,6],
@@ -244,10 +249,5 @@ var NAVTREEINDEX32 =
 "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_server.html#af88305ca5311a25f7381fb0e84293773":[2,0,0,0,1,94,8],
 "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_server.html#af9d1b197eca5fc421ec826789b4298f5":[2,0,0,0,1,94,19],
 "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_string.html":[2,0,0,0,1,95],
-"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_string.html#a05f48ae12879bdd9f7cd74431d18e617":[2,0,0,0,1,95,3],
-"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_string.html#a7320774b5333c929e8727dd8a96d66a6":[2,0,0,0,1,95,2],
-"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_string.html#aad959805b72efd9d57c6c3ff0a5481d2":[2,0,0,0,1,95,1],
-"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_string.html#ab07aff041dad13630d0cf6cbc8b6ec72":[2,0,0,0,1,95,0],
-"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_url.html":[2,0,0,0,1,96],
-"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_url.html#a15ab5e549f0d8c6b6edc416284685a43":[2,0,0,0,1,96,9]
+"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_string.html#a05f48ae12879bdd9f7cd74431d18e617":[2,0,0,0,1,95,3]
 };
