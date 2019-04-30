@@ -825,6 +825,9 @@ var hierarchy =
     [ "ClassProviderStorageInterface", null, [
       [ "OxidEsales\\EshopCommunity\\Core\\Routing\\Module\\ClassProviderStorage", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_routing_1_1_module_1_1_class_provider_storage.html", null ]
     ] ],
+    [ "CompilerPassInterface", null, [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Application\\Utility\\GraphQlTypePass", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_utility_1_1_graph_ql_type_pass.html", null ]
+    ] ],
     [ "ContainerExceptionInterface", null, [
       [ "OxidEsales\\EshopCommunity\\Internal\\Application\\PSR11Compliance\\ContainerException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_p_s_r11_compliance_1_1_container_exception.html", null ]
     ] ],

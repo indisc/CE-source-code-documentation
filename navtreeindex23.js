@@ -1,5 +1,6 @@
 var NAVTREEINDEX23 =
 {
+"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_voucher.html#a6158517c995bdc9cc0bed5258bf6b465":[2,0,0,0,0,2,91,25],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_voucher.html#a67aa91d99993445601e279cb0352c0aa":[2,0,0,0,0,2,91,26],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_voucher.html#a72eea0d3375451a97597bb5556bf187b":[2,0,0,0,0,2,91,22],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_voucher.html#a75decc500ea616abb0f7bfe94a910da4":[2,0,0,0,0,2,91,34],
@@ -248,6 +249,5 @@ var NAVTREEINDEX23 =
 "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_config.html#ad071185b157d822a63581d04293598d4":[2,0,0,0,1,23,53],
 "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_config.html#ad574f9d234e8f58d374806a5eb93706b":[2,0,0,0,1,23,67],
 "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_config.html#ad6a98855f83297eca042a6d68002c9ba":[2,0,0,0,1,23,135],
-"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_config.html#ad6c117391a0f6978a93204224eeba790":[2,0,0,0,1,23,37],
-"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_config.html#ad6f010d06c1c8088aa9980816e534891":[2,0,0,0,1,23,57]
+"class_oxid_esales_1_1_eshop_community_1_1_core_1_1_config.html#ad6c117391a0f6978a93204224eeba790":[2,0,0,0,1,23,37]
 };

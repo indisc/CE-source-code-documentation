@@ -1,5 +1,6 @@
 var NAVTREEINDEX19 =
 {
+"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_manufacturer.html#abe2ef468771846900702e72a93fd09b6":[2,0,0,0,0,2,37,13],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_manufacturer.html#ad63b7bb88cd3e507373d8f3d201920da":[2,0,0,0,0,2,37,19],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_manufacturer.html#ad88b9d618f656c45facb619f1f265b8b":[2,0,0,0,0,2,37,0],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_manufacturer.html#ade9d184916bed7f85317b1c7b76a6fa4":[2,0,0,0,0,2,37,3],
@@ -248,6 +249,5 @@ var NAVTREEINDEX19 =
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#aefe49742456621dc91e0a371bf8e604d":[2,0,0,0,0,2,47,75],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#af0450e6f2e1a4529e3dda8bf1da259d5":[2,0,0,0,0,2,47,67],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#af6ba51a5b2867cd98b9aff5c28571bab":[2,0,0,0,0,2,47,3],
-"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#af7d2948cc2dda9d5a5f1d690c3cd0709":[2,0,0,0,0,2,47,92],
-"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#afc02b8e6e4fee190ce629696d8a931f9":[2,0,0,0,0,2,47,26]
+"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_order.html#af7d2948cc2dda9d5a5f1d690c3cd0709":[2,0,0,0,0,2,47,92]
 };

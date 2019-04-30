@@ -40,7 +40,7 @@ var searchData=
   ['setup',['Setup',['../namespace_oxid_esales_1_1_eshop_community_1_1_setup.html',1,'OxidEsales::EshopCommunity']]],
   ['smarty',['Smarty',['../namespace_oxid_esales_1_1_eshop_community_1_1_core_1_1_smarty.html',1,'OxidEsales::EshopCommunity::Core']]],
   ['user',['User',['../namespace_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user.html',1,'OxidEsales::EshopCommunity::Application::Model']]],
-  ['utility',['Utility',['../namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_utility.html',1,'OxidEsales::EshopCommunity::Internal']]],
+  ['utility',['Utility',['../namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_utility.html',1,'OxidEsales\EshopCommunity\Internal\Application\Utility'],['../namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_utility.html',1,'OxidEsales\EshopCommunity\Internal\Utility']]],
   ['validator',['Validator',['../namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_validator.html',1,'OxidEsales::EshopCommunity::Internal::Logger']]],
   ['viewdataobject',['ViewDataObject',['../namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_view_data_object.html',1,'OxidEsales::EshopCommunity::Internal::Review']]],
   ['viewhelper',['ViewHelper',['../namespace_oxid_esales_1_1_eshop_community_1_1_core_1_1_view_helper.html',1,'OxidEsales::EshopCommunity::Core']]],

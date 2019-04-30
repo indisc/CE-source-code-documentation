@@ -1,0 +1,4 @@
+var namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_utility =
+[
+    [ "GraphQlTypePass", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_utility_1_1_graph_ql_type_pass.html", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_utility_1_1_graph_ql_type_pass" ]
+];

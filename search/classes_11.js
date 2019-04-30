@@ -23,7 +23,7 @@ var searchData=
   ['sepavalidator',['SepaValidator',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_sepa_validator.html',1,'OxidEsales::EshopCommunity::Core']]],
   ['servicelist',['ServiceList',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_widget_1_1_service_list.html',1,'OxidEsales::EshopCommunity::Application::Component::Widget']]],
   ['servicemenu',['ServiceMenu',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_widget_1_1_service_menu.html',1,'OxidEsales::EshopCommunity::Application::Component::Widget']]],
-  ['session',['Session',['../class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_session.html',1,'OxidEsales\EshopCommunity\Setup\Session'],['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_session.html',1,'OxidEsales\EshopCommunity\Core\Session']]],
+  ['session',['Session',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_session.html',1,'OxidEsales\EshopCommunity\Core\Session'],['../class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_session.html',1,'OxidEsales\EshopCommunity\Setup\Session']]],
   ['settingshandler',['SettingsHandler',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_settings_handler.html',1,'OxidEsales::EshopCommunity::Core']]],
   ['setup',['Setup',['../class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_setup.html',1,'OxidEsales::EshopCommunity::Setup']]],
   ['setupcontrollerexitexception',['SetupControllerExitException',['../class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_exception_1_1_setup_controller_exit_exception.html',1,'OxidEsales::EshopCommunity::Setup::Exception']]],

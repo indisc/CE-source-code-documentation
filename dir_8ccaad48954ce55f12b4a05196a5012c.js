@@ -1,4 +1,4 @@
 var dir_8ccaad48954ce55f12b4a05196a5012c =
 [
-    [ "OXID_ESHOP_CE_6.1.1", "dir_fd797f59f0fff1a8580501f10d8dea58.html", "dir_fd797f59f0fff1a8580501f10d8dea58" ]
+    [ "OXID_ESHOP_CE_6.1.3", "dir_948c83bb8c25c27f74ec69b9d3cdb183.html", "dir_948c83bb8c25c27f74ec69b9d3cdb183" ]
 ];

@@ -1,5 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_configuration_1_1_psr_logger_configuration_interface.html" title=" " alt="" coords="6,4,237,60"/>
-<area shape="rect" id="node2" href="$interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_configuration_1_1_monolog_configuration_interface.html" title=" " alt="" coords="285,4,507,60"/>
-<area shape="rect" id="node3" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_configuration_1_1_monolog_configuration.html" title=" " alt="" coords="555,4,765,60"/>
+<area shape="rect" id="node1" href="$interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_form_1_1_contact_form_1_1_contact_form_message_builder_interface.html" title=" " alt="" coords="5,5,248,61"/>
+<area shape="rect" id="node2" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_form_1_1_contact_form_1_1_contact_form_message_builder.html" title=" " alt="" coords="296,5,488,61"/>
 </map>
