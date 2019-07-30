@@ -52,6 +52,7 @@ var searchData=
   ['simplevariantlist',['SimpleVariantList',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_simple_variant_list.html',1,'OxidEsales::EshopCommunity::Application::Model']]],
   ['simplexml',['SimpleXml',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_simple_xml.html',1,'OxidEsales::EshopCommunity::Core']]],
   ['smartyrenderer',['SmartyRenderer',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_smarty_renderer.html',1,'OxidEsales::EshopCommunity::Application::Model']]],
+  ['sortingvalidator',['SortingValidator',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_sorting_validator.html',1,'OxidEsales::EshopCommunity::Core']]],
   ['standardexception',['StandardException',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_standard_exception.html',1,'OxidEsales::EshopCommunity::Core::Exception']]],
   ['startcontroller',['StartController',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_start_controller.html',1,'OxidEsales::EshopCommunity::Application::Controller']]],
   ['state',['State',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_state.html',1,'OxidEsales::EshopCommunity::Application::Model']]],

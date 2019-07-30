@@ -120,6 +120,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_fro
     [ "getWishlistUserId", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a38e64704cfa33ebd799cf8d92adea54e", null ],
     [ "init", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a9024584d89c8c7448012475321ac32b0", null ],
     [ "isActive", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a5c8c819ffbebdc46e5a53dc5afc077a8", null ],
+    [ "isAllowedSortingOrder", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a74556925bf5f8fa0c98ceb1839fa54cd", null ],
     [ "isEnabledDownloadableFiles", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a8539caf61562974f6746c1f8286214d1", null ],
     [ "isEnabledPrivateSales", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#ae0c6feb20807f148c0a6e268d08fd93a", null ],
     [ "isFieldRequired", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#aaf8863d34e52fa192d0e8483a8364dce", null ],

@@ -322,6 +322,5 @@ var searchData=
   ['currencylist_2ephp',['CurrencyList.php',['../_currency_list_8php.html',1,'']]],
   ['current',['current',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_list_model.html#a90a046f91071ad095090b609b155c8ab',1,'OxidEsales::EshopCommunity::Core::Model::ListModel']]],
   ['current_5ftemplate',['CURRENT_TEMPLATE',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_shop_controller.html#aefebf88970fe4dfc1e731ad0391a2def',1,'OxidEsales::EshopCommunity::Application::Controller::Admin::ShopController']]],
-  ['cust_5flang_2ephp',['cust_lang.php',['../de_2cust__lang_8php.html',1,'(Global Namespace)'],['../en_2cust__lang_8php.html',1,'(Global Namespace)']]],
   ['customizearticleinformation',['customizeArticleInformation',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_article_main.html#a9ce79fe202d7035cd7c506991e3e10ec',1,'OxidEsales::EshopCommunity::Application::Controller::Admin::ArticleMain']]]
 ];

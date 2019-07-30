@@ -8,7 +8,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_core_1_1_input_validator =
     [ "_hasRequiredParametersForVatInCheck", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_input_validator.html#ad3cd777dcbebfeedbd0b03aba60859db", null ],
     [ "_isAllBankInformationSet", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_input_validator.html#a11e8d0e9a12c204752f59086a60b7183", null ],
     [ "_setFields", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_input_validator.html#ab82b5b75ef72bcbbb6a3632f4db11cc5", null ],
-    [ "_validateDebitNote", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_input_validator.html#a5903ded5ba6556e0ccacb4040e4dfca3", null ],
+    [ "_validateDebitNote", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_input_validator.html#a4ce978287aae3468c2c9e7ac650da775", null ],
     [ "_validateOldDebitInfo", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_input_validator.html#ae3c7cbb15354dffe01d2820c26a09e9c", null ],
     [ "addValidationError", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_input_validator.html#aee23183c9d3bc3ae0e788216b7aab113", null ],
     [ "checkCountries", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_input_validator.html#ab71d1b84cb20bb0fa5420839220db334", null ],

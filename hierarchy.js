@@ -446,19 +446,19 @@ var hierarchy =
     [ "OxidEsales\\EshopCommunity\\Core\\Hasher", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_hasher.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\Header", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_header.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\Contract\\IConfigurable", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_configurable.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Core\\Contract\\ICountryAware", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_country_aware.html", null ],
     [ "ICountryAware", null, [
       [ "OxidEsales\\EshopCommunity\\Core\\CompanyVatInCountryChecker", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_company_vat_in_country_checker.html", null ]
     ] ],
-    [ "OxidEsales\\EshopCommunity\\Core\\Contract\\ICountryAware", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_country_aware.html", null ],
     [ "IDisplayError", null, [
       [ "OxidEsales\\EshopCommunity\\Core\\DisplayError", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_display_error.html", null ],
       [ "OxidEsales\\EshopCommunity\\Core\\Exception\\ExceptionToDisplay", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_to_display.html", null ]
     ] ],
     [ "OxidEsales\\EshopCommunity\\Core\\Contract\\IDisplayError", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_display_error.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Core\\Contract\\IModuleValidator", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_module_validator.html", null ],
     [ "IModuleValidator", null, [
       [ "OxidEsales\\EshopCommunity\\Core\\Module\\ModuleMetadataValidator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_metadata_validator.html", null ]
     ] ],
-    [ "OxidEsales\\EshopCommunity\\Core\\Contract\\IModuleValidator", "interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_module_validator.html", null ],
     [ "ImportObject", null, [
       [ "OxidEsales\\EshopCommunity\\Core\\GenericImport\\ImportObject\\Accessories2Article", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_generic_import_1_1_import_object_1_1_accessories2_article.html", null ],
       [ "OxidEsales\\EshopCommunity\\Core\\GenericImport\\ImportObject\\Article", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_generic_import_1_1_import_object_1_1_article.html", null ],
@@ -726,6 +726,7 @@ var hierarchy =
     [ "OxidEsales\\EshopCommunity\\Application\\Model\\ShopViewValidator", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_shop_view_validator.html", null ],
     [ "OxidEsales\\EshopCommunity\\Core\\SimpleXml", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_simple_xml.html", null ],
     [ "OxidEsales\\EshopCommunity\\Application\\Model\\SmartyRenderer", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_smarty_renderer.html", null ],
+    [ "OxidEsales\\EshopCommunity\\Core\\SortingValidator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_sorting_validator.html", null ],
     [ "StandardException", null, [
       [ "OxidEsales\\EshopCommunity\\Core\\Exception\\ArticleException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_article_exception.html", null ],
       [ "OxidEsales\\EshopCommunity\\Core\\Exception\\ConnectionException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_connection_exception.html", null ],
@@ -841,6 +842,9 @@ var hierarchy =
       [ "OxidEsales\\EshopCommunity\\Core\\Database\\Adapter\\Doctrine\\Database", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_database_1_1_adapter_1_1_doctrine_1_1_database.html", null ]
     ] ],
     [ "Exception", null, [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Application\\PSR11Compliance\\ContainerException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_p_s_r11_compliance_1_1_container_exception.html", null ]
+    ] ],
+    [ "Exception", null, [
       [ "OxidEsales\\EshopCommunity\\Core\\Exception\\StandardException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_standard_exception.html", null ],
       [ "OxidEsales\\EshopCommunity\\Internal\\Application\\PSR11Compliance\\NotFoundException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_p_s_r11_compliance_1_1_not_found_exception.html", null ],
       [ "OxidEsales\\EshopCommunity\\Internal\\Common\\Exception\\EntryDoesNotExistDaoException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_exception_1_1_entry_does_not_exist_dao_exception.html", null ],
@@ -851,9 +855,6 @@ var hierarchy =
       [ "OxidEsales\\EshopCommunity\\Setup\\Exception\\CommandExecutionFailedException", "class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_exception_1_1_command_execution_failed_exception.html", null ],
       [ "OxidEsales\\EshopCommunity\\Setup\\Exception\\SetupControllerExitException", "class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_exception_1_1_setup_controller_exit_exception.html", null ],
       [ "OxidEsales\\EshopCommunity\\Setup\\Exception\\TemplateNotFoundException", "class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_exception_1_1_template_not_found_exception.html", null ]
-    ] ],
-    [ "Exception", null, [
-      [ "OxidEsales\\EshopCommunity\\Internal\\Application\\PSR11Compliance\\ContainerException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_p_s_r11_compliance_1_1_container_exception.html", null ]
     ] ],
     [ "LoggerInterface", null, [
       [ "OxidEsales\\EshopCommunity\\Internal\\Logger\\Wrapper\\LoggerWrapper", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_wrapper_1_1_logger_wrapper.html", null ]

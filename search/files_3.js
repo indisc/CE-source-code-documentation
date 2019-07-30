@@ -65,6 +65,5 @@ var searchData=
   ['crossselling_2ephp',['CrossSelling.php',['../_cross_selling_8php.html',1,'']]],
   ['curl_2ephp',['Curl.php',['../_curl_8php.html',1,'']]],
   ['currencycomponent_2ephp',['CurrencyComponent.php',['../_currency_component_8php.html',1,'']]],
-  ['currencylist_2ephp',['CurrencyList.php',['../_currency_list_8php.html',1,'']]],
-  ['cust_5flang_2ephp',['cust_lang.php',['../de_2cust__lang_8php.html',1,'(Global Namespace)'],['../en_2cust__lang_8php.html',1,'(Global Namespace)']]]
+  ['currencylist_2ephp',['CurrencyList.php',['../_currency_list_8php.html',1,'']]]
 ];

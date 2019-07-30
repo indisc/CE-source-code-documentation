@@ -1,5 +1,7 @@
 var NAVTREEINDEX15 =
 {
+"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a63ae2d247936b94294cdff51cf0a19e4":[2,0,0,0,0,2,6,71],
+"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a63eb36b8a06315ab7b60f56e1ccc1c40":[2,0,0,0,0,2,6,198],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a652681361071b0b23d40f35d39b97a05":[2,0,0,0,0,2,6,275],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a6652f7a5373124bc0bf630cc28e99cf8":[2,0,0,0,0,2,6,221],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a66985b5ea6f51f43b3ce8f7edb506bfb":[2,0,0,0,0,2,6,271],
@@ -247,7 +249,5 @@ var NAVTREEINDEX15 =
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_attribute_list.html":[2,0,0,0,0,2,9],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_attribute_list.html#a00ce9c91df6af72ffafbd00e97b82453":[2,0,0,0,0,2,9,2],
 "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_attribute_list.html#a08e6bc0d76ffd925151e9d3df0bd8d50":[2,0,0,0,0,2,9,4],
-"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_attribute_list.html#a0adcc5e517bd8c8451a8dfecea055f25":[2,0,0,0,0,2,9,1],
-"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_attribute_list.html#a1e13f7e2c9339442ca2942ed1aeb20f6":[2,0,0,0,0,2,9,5],
-"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_attribute_list.html#a27fdfa82c75b6c33851dc50cd2c14ba3":[2,0,0,0,0,2,9,6]
+"class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_attribute_list.html#a0adcc5e517bd8c8451a8dfecea055f25":[2,0,0,0,0,2,9,1]
 };

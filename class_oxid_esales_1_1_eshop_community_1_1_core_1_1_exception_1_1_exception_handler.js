@@ -8,7 +8,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_h
     [ "getFormattedException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_handler.html#a2e779bdd932d963aca5066da207872a3", null ],
     [ "getLogFileName", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_handler.html#ac30aa727acad8a507d6f701a883dba8c", null ],
     [ "handleDatabaseException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_handler.html#a958dbe5e39f2b6bbcd0079d6d9fbec46", null ],
-    [ "handleUncaughtException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_handler.html#a7f8ced9d08447ad3cc6b7fcb77a2b945", null ],
+    [ "handleUncaughtException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_handler.html#aab42ae6d0d124dec2af2e7128882a699", null ],
     [ "setIDebug", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_handler.html#a01907c55f440ba122cca2cefd9bdf12e", null ],
     [ "setLogFileName", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_handler.html#ab99c035f5a13b932d388b1a474f5724f", null ],
     [ "writeExceptionToLog", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_handler.html#a5cbb7cb9f714196ec8a4ca169896985b", null ],
