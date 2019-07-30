@@ -52,6 +52,7 @@ var searchData=
   ['simplevariantlist_2ephp',['SimpleVariantList.php',['../_simple_variant_list_8php.html',1,'']]],
   ['simplexml_2ephp',['SimpleXml.php',['../_simple_xml_8php.html',1,'']]],
   ['smartyrenderer_2ephp',['SmartyRenderer.php',['../_smarty_renderer_8php.html',1,'']]],
+  ['sortingvalidator_2ephp',['SortingValidator.php',['../_sorting_validator_8php.html',1,'']]],
   ['standardexception_2ephp',['StandardException.php',['../_standard_exception_8php.html',1,'']]],
   ['startcontroller_2ephp',['StartController.php',['../_start_controller_8php.html',1,'']]],
   ['state_2ephp',['State.php',['../_state_8php.html',1,'']]],

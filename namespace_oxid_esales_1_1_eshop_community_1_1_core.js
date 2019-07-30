@@ -79,6 +79,7 @@ var namespace_oxid_esales_1_1_eshop_community_1_1_core =
     [ "ShopIdCalculator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_shop_id_calculator.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_shop_id_calculator" ],
     [ "ShopVersion", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_shop_version.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_shop_version" ],
     [ "SimpleXml", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_simple_xml.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_simple_xml" ],
+    [ "SortingValidator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_sorting_validator.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_sorting_validator" ],
     [ "Str", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_str.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_str" ],
     [ "StrMb", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_str_mb.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_str_mb" ],
     [ "StrRegular", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_str_regular.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_str_regular" ],

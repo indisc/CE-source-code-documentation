@@ -213,7 +213,7 @@ var NAVTREEINDEX0 =
 "_core_2_language_8php.html":[3,0,0,0,0,0,0,0,0,0,0,3,43],
 "_core_2_module_2_module_list_8php.html":[3,0,0,0,0,0,0,0,0,0,0,3,12,5],
 "_core_2_session_8php.html":[3,0,0,0,0,0,0,0,0,0,0,3,73],
-"_core_2_system_requirements_8php.html":[3,0,0,0,0,0,0,0,0,0,0,3,85],
+"_core_2_system_requirements_8php.html":[3,0,0,0,0,0,0,0,0,0,0,3,86],
 "_core_8php.html":[3,0,0,0,0,0,0,0,0,0,0,7,6],
 "_counter_8php.html":[3,0,0,0,0,0,0,0,0,0,0,3,26],
 "_country_controller_8php.html":[3,0,0,0,0,0,0,0,0,0,0,1,1,0,62],

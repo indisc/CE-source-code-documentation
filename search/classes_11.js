@@ -50,6 +50,7 @@ var searchData=
   ['simplevariantlist',['SimpleVariantList',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_simple_variant_list.html',1,'OxidEsales::EshopCommunity::Application::Model']]],
   ['simplexml',['SimpleXml',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_simple_xml.html',1,'OxidEsales::EshopCommunity::Core']]],
   ['smartyrenderer',['SmartyRenderer',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_smarty_renderer.html',1,'OxidEsales::EshopCommunity::Application::Model']]],
+  ['sortingvalidator',['SortingValidator',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_sorting_validator.html',1,'OxidEsales::EshopCommunity::Core']]],
   ['standardexception',['StandardException',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_standard_exception.html',1,'OxidEsales::EshopCommunity::Core::Exception']]],
   ['startcontroller',['StartController',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_start_controller.html',1,'OxidEsales::EshopCommunity::Application::Controller']]],
   ['state',['State',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_state.html',1,'OxidEsales::EshopCommunity::Application::Model']]],
@@ -63,7 +64,7 @@ var searchData=
   ['systemcomponentexception',['SystemComponentException',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_system_component_exception.html',1,'OxidEsales::EshopCommunity::Core::Exception']]],
   ['systemeventhandler',['SystemEventHandler',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_event_handler.html',1,'OxidEsales::EshopCommunity::Core']]],
   ['systeminfocontroller',['SystemInfoController',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_system_info_controller.html',1,'OxidEsales::EshopCommunity::Application::Controller::Admin']]],
-  ['systemrequirements',['SystemRequirements',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_system_requirements.html',1,'OxidEsales\EshopCommunity\Application\Controller\Admin\SystemRequirements'],['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_requirements.html',1,'OxidEsales\EshopCommunity\Core\SystemRequirements']]],
+  ['systemrequirements',['SystemRequirements',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_requirements.html',1,'OxidEsales\EshopCommunity\Core\SystemRequirements'],['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_system_requirements.html',1,'OxidEsales\EshopCommunity\Application\Controller\Admin\SystemRequirements']]],
   ['systemrequirementslist',['SystemRequirementsList',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_system_requirements_list.html',1,'OxidEsales::EshopCommunity::Application::Controller::Admin']]],
   ['systemrequirementsmain',['SystemRequirementsMain',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_system_requirements_main.html',1,'OxidEsales::EshopCommunity::Application::Controller::Admin']]]
 ];

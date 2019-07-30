@@ -2517,6 +2517,7 @@
                 <topic label="getWishlistUserId" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a38e64704cfa33ebd799cf8d92adea54e"/>
                 <topic label="init" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a9024584d89c8c7448012475321ac32b0"/>
                 <topic label="isActive" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a5c8c819ffbebdc46e5a53dc5afc077a8"/>
+                <topic label="isAllowedSortingOrder" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a74556925bf5f8fa0c98ceb1839fa54cd"/>
                 <topic label="isEnabledDownloadableFiles" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a8539caf61562974f6746c1f8286214d1"/>
                 <topic label="isEnabledPrivateSales" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#ae0c6feb20807f148c0a6e268d08fd93a"/>
                 <topic label="isFieldRequired" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#aaf8863d34e52fa192d0e8483a8364dce"/>
@@ -7943,6 +7944,10 @@
               <topic label="objectToXml" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_simple_xml.html#a083773fb66082287b02fa70af1b70df0"/>
               <topic label="xmlToObject" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_simple_xml.html#acfc25978e190980448bfefab3223b430"/>
             </topic>
+            <topic label="SortingValidator" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_sorting_validator.html">
+              <topic label="getSortingOrders" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_sorting_validator.html#a606caf94ad3466dc57ec7c0717cf4d04"/>
+              <topic label="isValid" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_sorting_validator.html#a6b61896ff609c07d428eadb7ea9f635f"/>
+            </topic>
             <topic label="Str" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_str.html">
               <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_str.html#a5ec803f0e92617e414a8d8232dc60dae"/>
               <topic label="_getStrHandler" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_str.html#a38f6d182a51bd9fa756991c810a81fd3"/>
@@ -9477,19 +9482,19 @@
       <topic label="OxidEsales\EshopCommunity\Core\Hasher" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_hasher.html"/>
       <topic label="OxidEsales\EshopCommunity\Core\Header" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_header.html"/>
       <topic label="OxidEsales\EshopCommunity\Core\Contract\IConfigurable" href="interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_configurable.html"/>
-      <topic label="OxidEsales\EshopCommunity\Core\Contract\ICountryAware" href="interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_country_aware.html"/>
       <topic label="ICountryAware">
         <topic label="OxidEsales\EshopCommunity\Core\CompanyVatInCountryChecker" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_company_vat_in_country_checker.html"/>
       </topic>
+      <topic label="OxidEsales\EshopCommunity\Core\Contract\ICountryAware" href="interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_country_aware.html"/>
       <topic label="IDisplayError">
         <topic label="OxidEsales\EshopCommunity\Core\DisplayError" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_display_error.html"/>
         <topic label="OxidEsales\EshopCommunity\Core\Exception\ExceptionToDisplay" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_to_display.html"/>
       </topic>
       <topic label="OxidEsales\EshopCommunity\Core\Contract\IDisplayError" href="interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_display_error.html"/>
-      <topic label="OxidEsales\EshopCommunity\Core\Contract\IModuleValidator" href="interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_module_validator.html"/>
       <topic label="IModuleValidator">
         <topic label="OxidEsales\EshopCommunity\Core\Module\ModuleMetadataValidator" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module_metadata_validator.html"/>
       </topic>
+      <topic label="OxidEsales\EshopCommunity\Core\Contract\IModuleValidator" href="interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_i_module_validator.html"/>
       <topic label="ImportObject">
         <topic label="OxidEsales\EshopCommunity\Core\GenericImport\ImportObject\Accessories2Article" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_generic_import_1_1_import_object_1_1_accessories2_article.html"/>
         <topic label="OxidEsales\EshopCommunity\Core\GenericImport\ImportObject\Article" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_generic_import_1_1_import_object_1_1_article.html"/>
@@ -9662,11 +9667,11 @@
       <topic label="OxidEsales\EshopCommunity\Core\OnlineLicenseCheck" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_license_check.html"/>
       <topic label="OxidEsales\EshopCommunity\Core\OnlineLicenseCheckResponse" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_license_check_response.html"/>
       <topic label="OxidEsales\EshopCommunity\Core\OnlineModuleVersionNotifier" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_module_version_notifier.html"/>
-      <topic label="OxidEsales\EshopCommunity\Core\OnlineRequest" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_request.html"/>
       <topic label="OnlineRequest">
         <topic label="OxidEsales\EshopCommunity\Core\OnlineLicenseCheckRequest" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_license_check_request.html"/>
         <topic label="OxidEsales\EshopCommunity\Core\OnlineModulesNotifierRequest" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_modules_notifier_request.html"/>
       </topic>
+      <topic label="OxidEsales\EshopCommunity\Core\OnlineRequest" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_request.html"/>
       <topic label="OxidEsales\EshopCommunity\Core\OpenSSLFunctionalityChecker" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_open_s_s_l_functionality_checker.html"/>
       <topic label="OxidEsales\EshopCommunity\Core\Oxid" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_oxid.html"/>
       <topic label="OxidEsales\EshopCommunity\Core\PasswordHasher" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_password_hasher.html"/>
@@ -9740,6 +9745,7 @@
       <topic label="OxidEsales\EshopCommunity\Application\Model\ShopViewValidator" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_shop_view_validator.html"/>
       <topic label="OxidEsales\EshopCommunity\Core\SimpleXml" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_simple_xml.html"/>
       <topic label="OxidEsales\EshopCommunity\Application\Model\SmartyRenderer" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_smarty_renderer.html"/>
+      <topic label="OxidEsales\EshopCommunity\Core\SortingValidator" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_sorting_validator.html"/>
       <topic label="StandardException">
         <topic label="OxidEsales\EshopCommunity\Core\Exception\ArticleException" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_article_exception.html"/>
         <topic label="OxidEsales\EshopCommunity\Core\Exception\ConnectionException" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_connection_exception.html"/>
@@ -9947,12 +9953,12 @@
         <topic label="marco" href="dir_90980a26345ad243c32d02bfe0eaddee.html">
           <topic label="public" href="dir_64a234a2509d8775bc2e549be58cb746.html">
             <topic label="OXID_ESHOP_CE" href="dir_8ccaad48954ce55f12b4a05196a5012c.html">
-              <topic label="OXID_ESHOP_CE_6.0.4" href="dir_e3b3156f15da4339f8095f14302c0015.html">
-                <topic label="vendor" href="dir_d8e2c95a356c8c5a45665123c6e136b2.html">
-                  <topic label="oxid-esales" href="dir_b823912c9dec788418547f45b7465d2b.html">
-                    <topic label="oxideshop-ce" href="dir_c95264b8a43ed96cde7f1d8d18d88954.html">
-                      <topic label="source" href="dir_a11c39116f5946599d1868a98b032de5.html">
-                        <topic label="admin" href="dir_4b7583ff4cbdbc33c304d4c4c6513a9a.html">
+              <topic label="OXID_ESHOP_CE_6.0.5" href="dir_816b92b1d2166895b3c42b95e294200d.html">
+                <topic label="vendor" href="dir_c3d66ffb2bad46577eb71a64e9ab1a32.html">
+                  <topic label="oxid-esales" href="dir_eb2f7fdd5aa4a9d49e52f2f982ef7e0e.html">
+                    <topic label="oxideshop-ce" href="dir_a70b2d2b1746d4b09025dbe7c53b41cd.html">
+                      <topic label="source" href="dir_254d15b9bcacea4377885e46e0874a74.html">
+                        <topic label="admin" href="dir_829c67aedf725f3622f95098551c86ea.html">
                           <topic label="index.php" href="admin_2index_8php.html">
                             <topic label="OX_ADMIN_DIR" href="admin_2index_8php.html#ae56799dcc59b164f6e79bb88864d60e7"/>
                             <topic label="OX_IS_ADMIN" href="admin_2index_8php.html#ad38d7f48a20cb8309f00c0ccd7427647"/>
@@ -9962,9 +9968,9 @@
                             <topic label="if" href="oxajax_8php.html#aef4b40197f4684783678ee8374d19cd9"/>
                           </topic>
                         </topic>
-                        <topic label="Application" href="dir_60119d44f99c4381d32fdab4f73b09c3.html">
-                          <topic label="Component" href="dir_fce118a0ef3266116499126dbffe74f8.html">
-                            <topic label="Widget" href="dir_4aeee2f1b92d21eb7fb4f60b375713a6.html">
+                        <topic label="Application" href="dir_a4ee87ecfe2fba0fa66a58e8fedf3588.html">
+                          <topic label="Component" href="dir_1076acd2d7b98014c94f2454c0726a57.html">
+                            <topic label="Widget" href="dir_8125d581361205495b9b55d0f2880f12.html">
                               <topic label="Actions.php" href="_component_2_widget_2_actions_8php.html">
                                 <topic label="Actions" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_widget_1_1_actions.html">
                                   <topic label="_getLoadActionsParam" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_widget_1_1_actions.html#a0d18509c7749de85ebbfc187af6f9a33"/>
@@ -10343,8 +10349,8 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Controller" href="dir_9b6ac0f63d6e8b27adc17de4335ad5e3.html">
-                            <topic label="Admin" href="dir_a08ad7f730f11ef76b8b66f7dc078d1f.html">
+                          <topic label="Controller" href="dir_c4fe9481f9fad1aba2f557e1723e6ccd.html">
+                            <topic label="Admin" href="dir_61ae2b7b7d58f0086fd5f9d00bfefa11.html">
                               <topic label="ActionsArticleAjax.php" href="_actions_article_ajax_8php.html">
                                 <topic label="ActionsArticleAjax" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_actions_article_ajax.html">
                                   <topic label="_addFilter" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_actions_article_ajax.html#ad02e694c493e7d9f966c9084a22a8d48"/>
@@ -13002,6 +13008,7 @@
                                 <topic label="getWishlistUserId" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a38e64704cfa33ebd799cf8d92adea54e"/>
                                 <topic label="init" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a9024584d89c8c7448012475321ac32b0"/>
                                 <topic label="isActive" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a5c8c819ffbebdc46e5a53dc5afc077a8"/>
+                                <topic label="isAllowedSortingOrder" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a74556925bf5f8fa0c98ceb1839fa54cd"/>
                                 <topic label="isEnabledDownloadableFiles" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#a8539caf61562974f6746c1f8286214d1"/>
                                 <topic label="isEnabledPrivateSales" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#ae0c6feb20807f148c0a6e268d08fd93a"/>
                                 <topic label="isFieldRequired" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html#aaf8863d34e52fa192d0e8483a8364dce"/>
@@ -13676,8 +13683,8 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Model" href="dir_6fc1155a4c7063427e3805a7acd0c5c5.html">
-                            <topic label="Contract" href="dir_363e7b17300067975638d6f0e4554167.html">
+                          <topic label="Model" href="dir_6eea7da6d713cd82aaf880130fa112f4.html">
+                            <topic label="Contract" href="dir_e977c732a34481c7df939381fe3dd4b1.html">
                               <topic label="ArticleInterface.php" href="_article_interface_8php.html">
                                 <topic label="ArticleInterface" href="interface_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_contract_1_1_article_interface.html">
                                   <topic label="checkForStock" href="interface_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_contract_1_1_article_interface.html#aa5a6412032f9252e9f1325545988a076"/>
@@ -13695,7 +13702,7 @@
                                 <topic label="CacheConnectorInterface" href="interface_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_contract_1_1_cache_connector_interface.html"/>
                               </topic>
                             </topic>
-                            <topic label="User" href="dir_d64e438734a7aa19ac3200dae394d67c.html">
+                            <topic label="User" href="dir_3c7ec7d76c3161f22f80b40bce4ee77c.html">
                               <topic label="UserShippingAddressUpdatableFields.php" href="_user_shipping_address_updatable_fields_8php.html">
                                 <topic label="UserShippingAddressUpdatableFields" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user_1_1_user_shipping_address_updatable_fields.html">
                                   <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user_1_1_user_shipping_address_updatable_fields.html#af49a94c193d17813180abb5ec5981a4b"/>
@@ -16196,8 +16203,8 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="translations" href="dir_3339297433e7fc49c5025c381ce608ca.html">
-                            <topic label="de" href="dir_21df6d5cb9ffbd161bdf8a0293403ace.html">
+                          <topic label="translations" href="dir_166b3d7fb3e809a07081c92d1727e481.html">
+                            <topic label="de" href="dir_ff645fd5aa942a13b225032808e26960.html">
                               <topic label="lang.php" href="_application_2translations_2de_2lang_8php.html">
                                 <topic label="$aLang" href="_application_2translations_2de_2lang_8php.html#a81e64087cf8dd69f7963ec9480204c46"/>
                                 <topic label="$sLangName" href="_application_2translations_2de_2lang_8php.html#a75b26fe81eca1d9521cfa097f1069916"/>
@@ -16207,7 +16214,7 @@
                                 <topic label="$aSeoReplaceChars" href="de_2translit__lang_8php.html#ae3cb1276f78d1297dd695410b369d42b"/>
                               </topic>
                             </topic>
-                            <topic label="en" href="dir_e047b9527e55d2eddb8293b6b12f55aa.html">
+                            <topic label="en" href="dir_19e5a5965e653f88377206905e2d3ef6.html">
                               <topic label="lang.php" href="_application_2translations_2en_2lang_8php.html">
                                 <topic label="$aLang" href="_application_2translations_2en_2lang_8php.html#a81e64087cf8dd69f7963ec9480204c46"/>
                                 <topic label="$sLangName" href="_application_2translations_2en_2lang_8php.html#a75b26fe81eca1d9521cfa097f1069916"/>
@@ -16218,9 +16225,9 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="views" href="dir_4791bd3addf286423109cc3b8b1c165c.html">
-                            <topic label="admin" href="dir_791823ffe9c690b84b18a7f731d6d5c0.html">
-                              <topic label="de" href="dir_585b5aa39c37a2473897f73dab93742e.html">
+                          <topic label="views" href="dir_05335b05672a79e253c98fb0655f64fc.html">
+                            <topic label="admin" href="dir_837cff116d3e44187be356d3083bd20c.html">
+                              <topic label="de" href="dir_9d1d27b6f09b81b4856cf94bb9afdaf3.html">
                                 <topic label="cust_lang.php" href="de_2cust__lang_8php.html">
                                   <topic label="$aLang" href="de_2cust__lang_8php.html#a81e64087cf8dd69f7963ec9480204c46"/>
                                   <topic label="$sLangName" href="de_2cust__lang_8php.html#a75b26fe81eca1d9521cfa097f1069916"/>
@@ -16233,7 +16240,7 @@
                                   <topic label="$sLangName" href="_application_2views_2admin_2de_2lang_8php.html#a75b26fe81eca1d9521cfa097f1069916"/>
                                 </topic>
                               </topic>
-                              <topic label="en" href="dir_f021d27d4eac655e3a267dfcf6d5a29f.html">
+                              <topic label="en" href="dir_cf34a90d57ced9905e539aed5c4c69a8.html">
                                 <topic label="cust_lang.php" href="en_2cust__lang_8php.html">
                                   <topic label="$aLang" href="en_2cust__lang_8php.html#a81e64087cf8dd69f7963ec9480204c46"/>
                                   <topic label="$sLangName" href="en_2cust__lang_8php.html#a75b26fe81eca1d9521cfa097f1069916"/>
@@ -16248,13 +16255,13 @@
                             </topic>
                           </topic>
                         </topic>
-                        <topic label="bin" href="dir_f82f190b8c3c428e77fb4c580ec0c2cf.html">
+                        <topic label="bin" href="dir_df7bd530fa6848161781037f0f781374.html">
                           <topic label="cron.php" href="cron_8php.html">
                             <topic label="$myConfig" href="cron_8php.html#ab610e5cf24ddbebef56903fe63acb03c"/>
                           </topic>
                         </topic>
-                        <topic label="Core" href="dir_afbc2ac6e72449cc939632b5d44bac50.html">
-                          <topic label="Autoload" href="dir_d4a4b0b398f1b5f4b101cebdea56dbe1.html">
+                        <topic label="Core" href="dir_ecc90e0bbc15a12cf6324d573f89a969.html">
+                          <topic label="Autoload" href="dir_04fe2611f2c1b4184cd4ef6282ad94b3.html">
                             <topic label="BackwardsCompatibilityAutoload.php" href="_backwards_compatibility_autoload_8php.html">
                               <topic label="BackwardsCompatibilityAutoload" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_autoload_1_1_backwards_compatibility_autoload.html">
                                 <topic label="autoload" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_autoload_1_1_backwards_compatibility_autoload.html#a010d0d6031fae65a6878e86770b75b79"/>
@@ -16283,7 +16290,7 @@
                               <topic label="return" href="_unified_name_space_class_map_8php.html#a2d00a0a5527637e7ba80181ddc73aa10"/>
                             </topic>
                           </topic>
-                          <topic label="Contract" href="dir_0caedc85280c92a7c0d74c90df62c098.html">
+                          <topic label="Contract" href="dir_8029619238ebbce016851e16228684e2.html">
                             <topic label="AbstractUpdatableFields.php" href="_abstract_updatable_fields_8php.html">
                               <topic label="AbstractUpdatableFields" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_abstract_updatable_fields.html">
                                 <topic label="getTableName" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_contract_1_1_abstract_updatable_fields.html#a2c4154e86253f0ebb0e1b93859934b52"/>
@@ -16349,7 +16356,7 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Controller" href="dir_05cc585b309a364c5c3adfe94301d6bc.html">
+                          <topic label="Controller" href="dir_f30490273f1ec0ad07d16553745505d2.html">
                             <topic label="BaseController.php" href="_base_controller_8php.html">
                               <topic label="BaseController" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_controller_1_1_base_controller.html">
                                 <topic label="_executeNewAction" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_controller_1_1_base_controller.html#aec3f0ee3d7e0567003d9dd5a80940ae3"/>
@@ -16433,7 +16440,7 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Dao" href="dir_bc1c557b6854619c4cf4f5674197bea6.html">
+                          <topic label="Dao" href="dir_a165ecf467d09ddc65f0d58ecd2f7af0.html">
                             <topic label="ApplicationServerDao.php" href="_application_server_dao_8php.html">
                               <topic label="ApplicationServerDao" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_dao_1_1_application_server_dao.html">
                                 <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_dao_1_1_application_server_dao.html#ab3172c9a4a283993db396aa1f5a7776c"/>
@@ -16475,9 +16482,9 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Database" href="dir_a6398ef0fd7d8731189ae22038b611e3.html">
-                            <topic label="Adapter" href="dir_d53d14c05a0d96804878e6a28c7925cd.html">
-                              <topic label="Doctrine" href="dir_959f30ecb7e76abaf8c0c1ee52adca2a.html">
+                          <topic label="Database" href="dir_1bf2619e6eb408d5879682170a2bd751.html">
+                            <topic label="Adapter" href="dir_84951c71161ec05b76d4c676b2bb4827.html">
+                              <topic label="Doctrine" href="dir_037d20d9d3cc9198475beb75da6784a9.html">
                                 <topic label="Database.php" href="_core_2_database_2_adapter_2_doctrine_2_database_8php.html">
                                   <topic label="Database" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_database_1_1_adapter_1_1_doctrine_1_1_database.html">
                                     <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_database_1_1_adapter_1_1_doctrine_1_1_database.html#a8289fd32a7d6f726e0531ba9e8c8d8a9"/>
@@ -16597,7 +16604,7 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="DataObject" href="dir_b27c5fba2a4291f595a568187da73c9a.html">
+                          <topic label="DataObject" href="dir_7ab8f6da2b78cd40290cfc9fe2b9d6da.html">
                             <topic label="ApplicationServer.php" href="_application_server_8php.html">
                               <topic label="ApplicationServer" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_data_object_1_1_application_server.html">
                                 <topic label="getId" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_data_object_1_1_application_server.html#a846eb1cb491d04f761d80131bc777358"/>
@@ -16626,7 +16633,7 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Edition" href="dir_8dd5615f39e182c9609f3f0c728ae1c6.html">
+                          <topic label="Edition" href="dir_a200b451f3d196f1873f4bf9f7155870.html">
                             <topic label="EditionPathProvider.php" href="_edition_path_provider_8php.html">
                               <topic label="EditionPathProvider" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_edition_1_1_edition_path_provider.html">
                                 <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_edition_1_1_edition_path_provider.html#ae926fa8c0f4fcf0db4c29fc685d14c94"/>
@@ -16667,7 +16674,7 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Exception" href="dir_17507d09bcae80fb5c4de52c600cccf4.html">
+                          <topic label="Exception" href="dir_78327e8686728803cb0f25c72ffe3931.html">
                             <topic label="ArticleException.php" href="_article_exception_8php.html">
                               <topic label="ArticleException" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_article_exception.html">
                                 <topic label="getArticleNr" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_article_exception.html#ad81cf7ff87e5bb805b7004e73dc9a646"/>
@@ -16893,7 +16900,7 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="FileSystem" href="dir_a2c7f0df7fcf94971d67a95cadbb98eb.html">
+                          <topic label="FileSystem" href="dir_81970f0e10097a5f2e40a4aa9646a02a.html">
                             <topic label="FileSystem.php" href="_file_system_8php.html">
                               <topic label="FileSystem" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_file_system_1_1_file_system.html">
                                 <topic label="combinePaths" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_file_system_1_1_file_system.html#aec4b11e177cae610700b9ac983e9d5ff"/>
@@ -16901,7 +16908,7 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Form" href="dir_ff6f39212563beff5e16e6d4294fd5e9.html">
+                          <topic label="Form" href="dir_f8414340e2735be87e6c6237c77d4e34.html">
                             <topic label="FormFields.php" href="_form_fields_8php.html">
                               <topic label="FormFields" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_form_1_1_form_fields.html">
                                 <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_form_1_1_form_fields.html#adc52e6b54bcc88674f98443e99fe22d5"/>
@@ -16935,8 +16942,8 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="GenericImport" href="dir_72385be065507ac6a2dbef2592288922.html">
-                            <topic label="ImportObject" href="dir_fd883b6f68c605bca3d251b42823e8da.html">
+                          <topic label="GenericImport" href="dir_4eb22e2c5b87018c4cc7e50c8ae57ee8.html">
+                            <topic label="ImportObject" href="dir_cbdeef71101aa025a9549e39d1840932.html">
                               <topic label="Accessories2Article.php" href="_accessories2_article_8php.html">
                                 <topic label="Accessories2Article" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_generic_import_1_1_import_object_1_1_accessories2_article.html">
                                   <topic label="$tableName" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_generic_import_1_1_import_object_1_1_accessories2_article.html#a6990f28435d2fc0ea8605abdf35f86d4"/>
@@ -17090,7 +17097,7 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Model" href="dir_3e924ed22b06a6fa2dbdc7d2425aa47b.html">
+                          <topic label="Model" href="dir_cb1c58cb80534205c488680ce0448e50.html">
                             <topic label="BaseModel.php" href="_base_model_8php.html">
                               <topic label="BaseModel" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html">
                                 <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_base_model.html#a48bb4f13d7924eb1b7d0a6c51874160e"/>
@@ -17270,7 +17277,7 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Module" href="dir_243d6855b96db66519e332f6c19c06ca.html">
+                          <topic label="Module" href="dir_6470d00816cb9371ccf007cc16ba5f25.html">
                             <topic label="Module.php" href="_module_8php.html">
                               <topic label="Module" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module.html">
                                 <topic label="_countActivatedExtensions" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_module_1_1_module.html#a4ce7175bd98ffa016b13e55ca5d62146"/>
@@ -17521,8 +17528,8 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Routing" href="dir_ab1003406ad5e46db28d55eb31d2e379.html">
-                            <topic label="Module" href="dir_aa0974bab892893fa740f491994f8c3b.html">
+                          <topic label="Routing" href="dir_56250b6d1c1482257eda67075f55e1f4.html">
+                            <topic label="Module" href="dir_dc004a012b8b886cfe280baa5658369e.html">
                               <topic label="ClassProviderStorage.php" href="_class_provider_storage_8php.html">
                                 <topic label="ClassProviderStorage" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_routing_1_1_module_1_1_class_provider_storage.html">
                                   <topic label="add" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_routing_1_1_module_1_1_class_provider_storage.html#af295caa55b469ba5085d2e3aa0bd9804"/>
@@ -17565,7 +17572,7 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Service" href="dir_185c4c8e9f1d2bf046379ca9889c0a9b.html">
+                          <topic label="Service" href="dir_db83c62940948334a5ccacbba2cdd3e2.html">
                             <topic label="ApplicationServerExporter.php" href="_application_server_exporter_8php.html">
                               <topic label="ApplicationServerExporter" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_service_1_1_application_server_exporter.html">
                                 <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_service_1_1_application_server_exporter.html#accd6f358930383a213635af742b9cbc7"/>
@@ -17611,8 +17618,8 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Smarty" href="dir_5d24491188f2cd1817da4edc0408454e.html">
-                            <topic label="Plugin" href="dir_93468e11a207e2f110279afd2549e1b2.html">
+                          <topic label="Smarty" href="dir_18721a55a333f596407bde1e65f75cd8.html">
+                            <topic label="Plugin" href="dir_a76a47b00b86dec21bc1af845690ad95.html">
                               <topic label="block.oxhasrights.php" href="block_8oxhasrights_8php.html">
                                 <topic label="smarty_block_oxhasrights" href="block_8oxhasrights_8php.html#ad25df7ea7466b1956b073993a0394c32"/>
                               </topic>
@@ -17830,10 +17837,10 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="utils" href="dir_1c8c4bb59fc0c5a416f37c110a18705f.html">
+                          <topic label="utils" href="dir_50ba7afbc03cf068b5c64102da8e0495.html">
                             <topic label="oxpicgenerator.php" href="oxpicgenerator_8php.html"/>
                           </topic>
-                          <topic label="ViewHelper" href="dir_0079407b4ba3cadccb801c0245e1fe42.html">
+                          <topic label="ViewHelper" href="dir_9e40a8c88ee460a0ccf121356860bd5a.html">
                             <topic label="JavaScriptRegistrator.php" href="_java_script_registrator_8php.html">
                               <topic label="JavaScriptRegistrator" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_view_helper_1_1_java_script_registrator.html">
                                 <topic label="addFile" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_view_helper_1_1_java_script_registrator.html#a496240c61ea29fe94b43f107ef4bf892"/>
@@ -19197,6 +19204,12 @@
                               <topic label="xmlToObject" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_simple_xml.html#acfc25978e190980448bfefab3223b430"/>
                             </topic>
                           </topic>
+                          <topic label="SortingValidator.php" href="_sorting_validator_8php.html">
+                            <topic label="SortingValidator" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_sorting_validator.html">
+                              <topic label="getSortingOrders" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_sorting_validator.html#a606caf94ad3466dc57ec7c0717cf4d04"/>
+                              <topic label="isValid" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_sorting_validator.html#a6b61896ff609c07d428eadb7ea9f635f"/>
+                            </topic>
+                          </topic>
                           <topic label="Str.php" href="_str_8php.html">
                             <topic label="Str" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_str.html">
                               <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_str.html#a5ec803f0e92617e414a8d8232dc60dae"/>
@@ -19766,8 +19779,8 @@
                             </topic>
                           </topic>
                         </topic>
-                        <topic label="Internal" href="dir_e9b1d7ebe38be40e0f0cc4451365aa4b.html">
-                          <topic label="Application" href="dir_fd251e9cc0fb6c7f7b84210fc895eaa5.html">
+                        <topic label="Internal" href="dir_aec52fd9430008255319d5b82766c0f2.html">
+                          <topic label="Application" href="dir_cb086c648e707722b5ad853d31c8bc19.html">
                             <topic label="Container.php" href="_container_8php.html">
                               <topic label="Container" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html">
                                 <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_application_1_1_container.html#adac456a12ab6187a89dff0389ebf4f0f"/>
@@ -19782,8 +19795,8 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Common" href="dir_e73170cf2551f54d789bcdbf716da7ea.html">
-                            <topic label="Database" href="dir_04cc3752f5428e9cb6edd66a8976b054.html">
+                          <topic label="Common" href="dir_f2eebeafdfd5198ac7fa6fdd39854c72.html">
+                            <topic label="Database" href="dir_cc039711e3587fbc7cc5c1a74e2d50b7.html">
                               <topic label="QueryBuilderFactory.php" href="_query_builder_factory_8php.html">
                                 <topic label="QueryBuilderFactory" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_database_1_1_query_builder_factory.html">
                                   <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_database_1_1_query_builder_factory.html#adb68fe21c83caeebddfcad25e980b50c"/>
@@ -19797,7 +19810,7 @@
                                 </topic>
                               </topic>
                             </topic>
-                            <topic label="DataMapper" href="dir_fe16390b3fe558cecc94b2886c3beaad.html">
+                            <topic label="DataMapper" href="dir_5852a9c36e08973d36ad9f858f6ab1bc.html">
                               <topic label="EntityMapperInterface.php" href="_entity_mapper_interface_8php.html">
                                 <topic label="EntityMapperInterface" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_entity_mapper_interface.html">
                                   <topic label="getPrimaryKey" href="interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_entity_mapper_interface.html#a2de4f3632530cd4c1ffe691acaeba878"/>
@@ -19810,7 +19823,7 @@
                                 </topic>
                               </topic>
                             </topic>
-                            <topic label="Exception" href="dir_5dfa2431b6081e1ea2bd148b12ddd0f7.html">
+                            <topic label="Exception" href="dir_45faa4fc847fe1c7d877f032c8817e20.html">
                               <topic label="EntryDoesNotExistDaoException.php" href="_entry_does_not_exist_dao_exception_8php.html">
                                 <topic label="EntryDoesNotExistDaoException" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_exception_1_1_entry_does_not_exist_dao_exception.html"/>
                               </topic>
@@ -19819,8 +19832,8 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="Review" href="dir_42382644a915e778fb3db1ffbb29bddc.html">
-                            <topic label="Bridge" href="dir_904d720758dfccabafbac59f45634cbc.html">
+                          <topic label="Review" href="dir_388763ae9702184c5c9648ccb83eee78.html">
+                            <topic label="Bridge" href="dir_48e27a979c5c9190f089bf39578c6ad1.html">
                               <topic label="ProductRatingBridge.php" href="_product_rating_bridge_8php.html">
                                 <topic label="ProductRatingBridge" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_product_rating_bridge.html">
                                   <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_bridge_1_1_product_rating_bridge.html#acd500b20f19274c627b8442c2275a48e"/>
@@ -19884,7 +19897,7 @@
                                 </topic>
                               </topic>
                             </topic>
-                            <topic label="Dao" href="dir_6e7aa1e40f394eb7a78c8349c95dd6b9.html">
+                            <topic label="Dao" href="dir_10a2b0d057e9eb9c49005a0fdb71d38a.html">
                               <topic label="ProductRatingDao.php" href="_product_rating_dao_8php.html">
                                 <topic label="ProductRatingDao" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao.html">
                                   <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_dao_1_1_product_rating_dao.html#a355ceb9ed79c440c2ffc823eb75aa5e2"/>
@@ -19936,7 +19949,7 @@
                                 </topic>
                               </topic>
                             </topic>
-                            <topic label="DataMapper" href="dir_97b36845007ae0ce68802486c84ca8e4.html">
+                            <topic label="DataMapper" href="dir_bc13f20982cad11c85c5ec90e1271e92.html">
                               <topic label="ProductRatingDataMapper.php" href="_product_rating_data_mapper_8php.html">
                                 <topic label="ProductRatingDataMapper" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_product_rating_data_mapper.html">
                                   <topic label="getData" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_mapper_1_1_product_rating_data_mapper.html#ade57bef2a2fdad56765a890a91b9e527"/>
@@ -19959,7 +19972,7 @@
                                 </topic>
                               </topic>
                             </topic>
-                            <topic label="DataObject" href="dir_e2f441352655337394e831832d356098.html">
+                            <topic label="DataObject" href="dir_f5e3dabe253b48a0e5a0a2c85191af62.html">
                               <topic label="ProductRating.php" href="_product_rating_8php.html">
                                 <topic label="ProductRating" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_object_1_1_product_rating.html">
                                   <topic label="getProductId" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_data_object_1_1_product_rating.html#acec24277336b9cc24b0a7bc2513d9492"/>
@@ -20021,7 +20034,7 @@
                                 </topic>
                               </topic>
                             </topic>
-                            <topic label="Exception" href="dir_c5f6a45995e819fc6ad6d3c2e1376210.html">
+                            <topic label="Exception" href="dir_735a704e644289dd00b20c989d88afc5.html">
                               <topic label="RatingPermissionException.php" href="_rating_permission_exception_8php.html">
                                 <topic label="RatingPermissionException" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_exception_1_1_rating_permission_exception.html"/>
                               </topic>
@@ -20032,7 +20045,7 @@
                                 <topic label="ReviewPermissionException" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_exception_1_1_review_permission_exception.html"/>
                               </topic>
                             </topic>
-                            <topic label="Service" href="dir_c70a131d2217344c06616caea2c5c45c.html">
+                            <topic label="Service" href="dir_4cde57bbac259a4caf292df7c70b1853.html">
                               <topic label="ProductRatingService.php" href="_product_rating_service_8php.html">
                                 <topic label="ProductRatingService" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_product_rating_service.html">
                                   <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_1_1_product_rating_service.html#ad4e51dc66e4cd78109345e395452bd2c"/>
@@ -20117,7 +20130,7 @@
                                 </topic>
                               </topic>
                             </topic>
-                            <topic label="ServiceFactory" href="dir_90a5dafa5f8edfdf9b79f5e1a0399888.html">
+                            <topic label="ServiceFactory" href="dir_6c0e94a5b31dd97d4c71a67236c773ad.html">
                               <topic label="ReviewServiceFactory.php" href="_review_service_factory_8php.html">
                                 <topic label="ReviewServiceFactory" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html">
                                   <topic label="getConnection" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_service_factory_1_1_review_service_factory.html#ab778d5e9895421fb1dc12b8860b3a12d"/>
@@ -20158,7 +20171,7 @@
                                 </topic>
                               </topic>
                             </topic>
-                            <topic label="ViewDataObject" href="dir_9a6e56b1c10902aec770daeca5ad55db.html">
+                            <topic label="ViewDataObject" href="dir_415e057187efe2106a52f99c27aec3ca.html">
                               <topic label="ReviewAndRating.php" href="_review_and_rating_8php.html">
                                 <topic label="ReviewAndRating" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_view_data_object_1_1_review_and_rating.html">
                                   <topic label="getCreatedAt" href="class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#a994be94dbf782e6d253128330f960dea"/>
@@ -20190,8 +20203,8 @@
                             </topic>
                           </topic>
                         </topic>
-                        <topic label="migration" href="dir_c0b6614ccf76f26149472feb400aeefb.html">
-                          <topic label="data" href="dir_ab51fc4d91d9533f424925453ddb5935.html">
+                        <topic label="migration" href="dir_9da7df002746124ae2a867f9cff5f58b.html">
+                          <topic label="data" href="dir_787e747aeb5492060d2f99e9093cfb3b.html">
                             <topic label="Version20170718124421.php" href="_version20170718124421_8php.html">
                               <topic label="Version20170718124421" href="class_oxid_esales_1_1_eshop_community_1_1_migrations_1_1_version20170718124421.html">
                                 <topic label="down" href="class_oxid_esales_1_1_eshop_community_1_1_migrations_1_1_version20170718124421.html#ae278b157903537b9b1f03d276eb17fa3"/>
@@ -20218,15 +20231,15 @@
                             </topic>
                           </topic>
                         </topic>
-                        <topic label="modules" href="dir_f7495369d4f6e9523a928d1cf6a0b77c.html">
-                          <topic label="oe" href="dir_49c020fb158be3c3abc389d63826d73d.html">
+                        <topic label="modules" href="dir_98957ce2a2afaee7f81f8e60ea2c05f7.html">
+                          <topic label="oe" href="dir_aff633787e2bb3518d11ee661ad63390.html">
                             <topic label="vendormetadata.php" href="vendormetadata_8php.html">
                               <topic label="$sVendorMetadataVersion" href="vendormetadata_8php.html#a60ef7c49e4410669c3818e35d52812b8"/>
                             </topic>
                           </topic>
                         </topic>
-                        <topic label="Setup" href="dir_4bf51eb896997fda2e140d472834731b.html">
-                          <topic label="Controller" href="dir_cbb192fe631864c973eb24969faf27a2.html">
+                        <topic label="Setup" href="dir_967b02d06593b6d6e7f1078d2be44d2d.html">
+                          <topic label="Controller" href="dir_cd6873e83b6951aff84a383b32ac9d23.html">
                             <topic label="ModuleStateMapGenerator.php" href="_module_state_map_generator_8php.html">
                               <topic label="ModuleStateMapGenerator" href="class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_controller_1_1_module_state_map_generator.html">
                                 <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_controller_1_1_module_state_map_generator.html#a76d629c1bce720a9df7b3aad25c57977"/>
@@ -20253,17 +20266,17 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="De" href="dir_b6819e8e3c2bb7d646e31c27fbdb2f0d.html">
+                          <topic label="De" href="dir_44f298b09c7339d098595415f839dec0.html">
                             <topic label="lang.php" href="_setup_2_de_2lang_8php.html">
                               <topic label="$aLang" href="_setup_2_de_2lang_8php.html#a81e64087cf8dd69f7963ec9480204c46"/>
                             </topic>
                           </topic>
-                          <topic label="En" href="dir_7d660e183451231e656aa0bb55fa8f7a.html">
+                          <topic label="En" href="dir_1330d99a42ea8d4eeec82df0acaab3f2.html">
                             <topic label="lang.php" href="_setup_2_en_2lang_8php.html">
                               <topic label="$aLang" href="_setup_2_en_2lang_8php.html#a81e64087cf8dd69f7963ec9480204c46"/>
                             </topic>
                           </topic>
-                          <topic label="Exception" href="dir_8b5e885d7d5c857d00bb65670475b2e0.html">
+                          <topic label="Exception" href="dir_549e6f3e4259afd136edd97f951af557.html">
                             <topic label="CommandExecutionFailedException.php" href="_command_execution_failed_exception_8php.html">
                               <topic label="CommandExecutionFailedException" href="class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_exception_1_1_command_execution_failed_exception.html">
                                 <topic label="__construct" href="class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_exception_1_1_command_execution_failed_exception.html#aa38ad79a3530fc81d1af45cc847e4660"/>
@@ -20290,7 +20303,7 @@
                               </topic>
                             </topic>
                           </topic>
-                          <topic label="tpl" href="dir_cd6c8b31f92a9eefe84dc1f89ae77e59.html">
+                          <topic label="tpl" href="dir_2746ff05552f3a8ed2700632c0a25452.html">
                             <topic label="_footer.php" href="__footer_8php.html"/>
                             <topic label="_header.php" href="__header_8php.html">
                               <topic label="$aMessages" href="__header_8php.html#a72c661842a8a64744d67b6d97c3da095"/>
