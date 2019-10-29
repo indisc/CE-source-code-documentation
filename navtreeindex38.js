@@ -1,5 +1,7 @@
 var NAVTREEINDEX38 =
 {
+"interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_configuration_1_1_monolog_configuration_interface.html":[2,0,0,0,2,4,0,1],
+"interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_configuration_1_1_monolog_configuration_interface.html#a063b8ababd085e89fce89ab3117d434a":[2,0,0,0,2,4,0,1,0],
 "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_configuration_1_1_monolog_configuration_interface.html#a93feda3779fdc1d9c82d51aa70081e4d":[2,0,0,0,2,4,0,1,1],
 "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_configuration_1_1_psr_logger_configuration_interface.html":[2,0,0,0,2,4,0,2],
 "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_configuration_1_1_psr_logger_configuration_interface.html#a004504d99267d242264079a67e9f95e8":[2,0,0,0,2,4,0,2,0],

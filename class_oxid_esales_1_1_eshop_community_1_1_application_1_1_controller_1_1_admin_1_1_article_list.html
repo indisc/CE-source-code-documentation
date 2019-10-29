@@ -30,7 +30,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">OXID eShop CE
-   &#160;<span id="projectnumber">6.1.4</span>
+   &#160;<span id="projectnumber">6.1.5</span>
    </div>
   </td>
  </tr>
@@ -90,6 +90,7 @@ $(document).ready(function(){initNavTree('class_oxid_esales_1_1_eshop_community_
 <a href="#pub-methods">Public Member Functions</a> &#124;
 <a href="#pro-methods">Protected Member Functions</a> &#124;
 <a href="#pro-attribs">Protected Attributes</a> &#124;
+<a href="#pri-methods">Private Member Functions</a> &#124;
 <a href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_article_list-members.html">List of all members</a>  </div>
   <div class="headertitle">
 <div class="title">OxidEsales\EshopCommunity\Application\Controller\Admin\ArticleList Class Reference</div>  </div>
@@ -146,6 +147,13 @@ Protected Attributes</h2></td></tr>
 <tr class="separator:ab35efea76ec6852012d54af2340e474b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae7f83f191934e72f5203e21ba17591ad"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_article_list.html#ae7f83f191934e72f5203e21ba17591ad">$_sListType</a> = 'oxarticlelist'</td></tr>
 <tr class="separator:ae7f83f191934e72f5203e21ba17591ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-methods"></a>
+Private Member Functions</h2></td></tr>
+<tr class="memitem:aa95ddf6506a16d59617bfc63cd31991d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_article_list.html#aa95ddf6506a16d59617bfc63cd31991d">getServerDateTime</a> ()</td></tr>
+<tr class="separator:aa95ddf6506a16d59617bfc63cd31991d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0fbb4233151c89e25bddd8854e23df33"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_article_list.html#a0fbb4233151c89e25bddd8854e23df33">isArticleActive</a> ($sDateTime, $blUseTimeCheck, $oArticle)</td></tr>
+<tr class="separator:a0fbb4233151c89e25bddd8854e23df33"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p><a class="el" href="namespace_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin.html">Admin</a> article list manager. Collects base article information (according to filtering rules), performs sorting, deletion of articles, etc. <a class="el" href="namespace_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin.html">Admin</a> Menu: Manage Products -&gt; Articles. </p>
@@ -314,6 +322,32 @@ Protected Attributes</h2></td></tr>
 
 </div>
 </div>
+<a id="aa95ddf6506a16d59617bfc63cd31991d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa95ddf6506a16d59617bfc63cd31991d">&#9670;&nbsp;</a></span>getServerDateTime()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">OxidEsales\EshopCommunity\Application\Controller\Admin\ArticleList::getServerDateTime </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<dl class="section return"><dt>Returns</dt><dd>bool|string </dd></dl>
+
+</div>
+</div>
 <a id="a10b8905ca9eddb95d2350bd7f94db3e6"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a10b8905ca9eddb95d2350bd7f94db3e6">&#9670;&nbsp;</a></span>getVendorList()</h2>
 
@@ -348,6 +382,57 @@ Protected Attributes</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>oxVendorList </dd></dl>
+
+</div>
+</div>
+<a id="a0fbb4233151c89e25bddd8854e23df33"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0fbb4233151c89e25bddd8854e23df33">&#9670;&nbsp;</a></span>isArticleActive()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">OxidEsales\EshopCommunity\Application\Controller\Admin\ArticleList::isArticleActive </td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>$sDateTime</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>$blUseTimeCheck</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>$oArticle</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">private</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramtype">bool&#160;|&#160;string</td><td class="paramname">$sDateTime</td><td></td></tr>
+    <tr><td class="paramtype">bool</td><td class="paramname">$blUseTimeCheck</td><td></td></tr>
+    <tr><td class="paramtype">Article</td><td class="paramname">$oArticle</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>bool </dd></dl>
 
 </div>
 </div>
@@ -416,7 +501,7 @@ Protected Attributes</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>/home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.1.4/vendor/oxid-esales/oxideshop-ce/source/Application/Controller/Admin/<a class="el" href="_controller_2_admin_2_article_list_8php.html">ArticleList.php</a></li>
+<li>/home/marco/public/OXID_ESHOP_CE/OXID_ESHOP_CE_6.1.5/vendor/oxid-esales/oxideshop-ce/source/Application/Controller/Admin/<a class="el" href="_controller_2_admin_2_article_list_8php.html">ArticleList.php</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->
