@@ -18,6 +18,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_utilities =
     [ "getFileContents", "class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_utilities.html#a7ec5e3cffb8e6f16acd78c529a9c25f9", null ],
     [ "getLicenseContent", "class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_utilities.html#ab19d95436285e4bd95be1074b5ea811b", null ],
     [ "getRequestVar", "class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_utilities.html#a26e4ac9f2970820fa9cab289fcd774e7", null ],
+    [ "getRootDirectory", "class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_utilities.html#a8976eb8fb54f91ae2bcd80ca9d8501cd", null ],
     [ "getSetupDirectory", "class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_utilities.html#ac0406d59c9a1b344ed867587ba615e57", null ],
     [ "getSqlDirectory", "class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_utilities.html#add3c279e1a061a82fd0dd28622b20665", null ],
     [ "getVendorDirectory", "class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_utilities.html#a136b34112b8801e4e2bfc90df5025d2f", null ],
