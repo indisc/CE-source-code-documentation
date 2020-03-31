@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_logger_1_1_factory_1_1_logger_factory_interface.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Logger\l\\Factory\\LoggerFactoryInterface" alt="" coords="5,5,232,61"/>
+<area shape="rect" id="node2" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_logger_1_1_factory_1_1_monolog_logger_factory.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Logger\l\\Factory\\MonologLoggerFactory" alt="" coords="280,5,503,61"/>
+</map>

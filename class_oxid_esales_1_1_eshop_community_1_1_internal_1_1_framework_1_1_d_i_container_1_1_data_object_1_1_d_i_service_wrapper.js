@@ -1,0 +1,25 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_data_object_1_1_d_i_service_wrapper =
+[
+    [ "__construct", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_data_object_1_1_d_i_service_wrapper.html#ada689db9e04c44aa01aeee2e8dbe7c50", null ],
+    [ "addActiveShops", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_data_object_1_1_d_i_service_wrapper.html#a9762c593669c14c7fe06019f6189d0be", null ],
+    [ "addCall", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_data_object_1_1_d_i_service_wrapper.html#adf9ed3ee2328a29f8c1e0fed36df2530", null ],
+    [ "addShopAwareCallsIfMissing", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_data_object_1_1_d_i_service_wrapper.html#abda4bb6050b800790a06cc37351422be", null ],
+    [ "checkClassExists", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_data_object_1_1_d_i_service_wrapper.html#a836c192512881e414b20515499173760", null ],
+    [ "getCall", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_data_object_1_1_d_i_service_wrapper.html#afb0865f39e173f848f1ab6f4108b7aeb", null ],
+    [ "getCalls", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_data_object_1_1_d_i_service_wrapper.html#a24f3e3db3e519e49da6b772c639614e7", null ],
+    [ "getClass", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_data_object_1_1_d_i_service_wrapper.html#ab41bfcaf117bd42bce59a57b127a20aa", null ],
+    [ "getKey", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_data_object_1_1_d_i_service_wrapper.html#a4c52514f1bb8870047cacef944f729eb", null ],
+    [ "getServiceAsArray", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_data_object_1_1_d_i_service_wrapper.html#a145b1125638769e8e395d5d65d73c92f", null ],
+    [ "hasActiveShops", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_data_object_1_1_d_i_service_wrapper.html#a6b1013314ca3a968355677f1a0137eba", null ],
+    [ "hasCall", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_data_object_1_1_d_i_service_wrapper.html#a179a73c8333efd43a66bcd982c7e4b37", null ],
+    [ "hasClass", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_data_object_1_1_d_i_service_wrapper.html#af85822139ada1517b375d26699fa8e15", null ],
+    [ "isShopAware", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_data_object_1_1_d_i_service_wrapper.html#ae83bcc4b976f843fa2419b6fa86850bc", null ],
+    [ "removeActiveShops", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_data_object_1_1_d_i_service_wrapper.html#a684c3c68f18f61c69a68230fb6ad5a7a", null ],
+    [ "updateCall", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_data_object_1_1_d_i_service_wrapper.html#ab81b41729fc4f72956d54ad26b9cda4c", null ],
+    [ "$key", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_data_object_1_1_d_i_service_wrapper.html#a34ce815ce03eaa8b1eb9c5f218e0b65a", null ],
+    [ "$serviceArray", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_data_object_1_1_d_i_service_wrapper.html#a9ccf58d4dbcd356ae20864f3bb870348", null ],
+    [ "CALLS_SECTION", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_data_object_1_1_d_i_service_wrapper.html#ad4939da66202c4b93252a95241473b66", null ],
+    [ "SET_ACTIVE_SHOPS_METHOD", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_data_object_1_1_d_i_service_wrapper.html#adbdfdf3037bc7f9576974a23b44b1490", null ],
+    [ "SET_CONTEXT_METHOD", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_data_object_1_1_d_i_service_wrapper.html#a6fb38fd08a08903dee38692bfafc3329", null ],
+    [ "SET_CONTEXT_PARAMETER", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_data_object_1_1_d_i_service_wrapper.html#af36c4e7708c27a9483be0f10b59c8682", null ]
+];

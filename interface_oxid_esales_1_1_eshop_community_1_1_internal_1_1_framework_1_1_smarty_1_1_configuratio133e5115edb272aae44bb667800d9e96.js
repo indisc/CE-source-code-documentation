@@ -1,0 +1,4 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_smarty_1_1_configuratio133e5115edb272aae44bb667800d9e96 =
+[
+    [ "getSecuritySettings", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_smarty_1_1_configuratio133e5115edb272aae44bb667800d9e96.html#a82da2659c86bb88c2daeef913cfe5f4a", null ]
+];

@@ -1,7 +1,6 @@
 var class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_object =
 [
     [ "__construct", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_object.html#a5377b8431a01952184c8cb38ae80c0f3", null ],
-    [ "_disableModule", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_object.html#a9c4d074e54afc957c5fb6e9416af7422", null ],
     [ "generateUId", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_object.html#ad88bbec9442caf475365e98a59675fd8", null ],
     [ "getClassAliasName", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_object.html#a0cf0d389116afa665c250920bab1aacb", null ],
     [ "getClassName", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_object.html#a97d9c95e67f59c563f1c42ad801d6fc9", null ],

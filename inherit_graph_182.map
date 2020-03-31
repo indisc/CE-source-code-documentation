@@ -1,4 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_form_configuration_1_1_ford160fecdf0d87913d50ab5ebe2390b8b.html" title=" " alt="" coords="5,5,240,61"/>
-<area shape="rect" id="node2" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_form_1_1_contact_form_1_1_contact_form_configuration_factory.html" title=" " alt="" coords="288,5,507,61"/>
+<area shape="rect" id="node1" href="$interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_bridge_1_1_user_rating_bridge_interface.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Domain\\Review\l\\Bridge\\UserRatingBridgeInterface" alt="" coords="5,5,249,61"/>
+<area shape="rect" id="node2" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_bridge_1_1_user_rating_bridge.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Domain\\Review\l\\Bridge\\UserRatingBridge" alt="" coords="297,5,511,61"/>
 </map>

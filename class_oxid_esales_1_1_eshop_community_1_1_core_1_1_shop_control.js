@@ -24,6 +24,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_core_1_1_shop_control =
     [ "formOutput", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_shop_control.html#acada98adf44fb7c855937b805d0ab9ef", null ],
     [ "getControllerClass", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_shop_control.html#a951425709e455d8f563903b112e71dd9", null ],
     [ "getFrontendStartControllerKey", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_shop_control.html#a2bcc45625c5891ab4b167f9e1251ce34", null ],
+    [ "getRenderer", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_shop_control.html#a31d27fce71a0dfb67b9fb38dd7f8e2d2", null ],
     [ "getStartControllerKey", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_shop_control.html#a67f9dabdda07aac155acfc5702ac3f49", null ],
     [ "getTotalTime", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_shop_control.html#a3e4fcb4dcfc813c71a3da84a7ecaadd8", null ],
     [ "handleDatabaseException", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_shop_control.html#a0dcf524e2e0307f1f9377d38eacb6c40", null ],

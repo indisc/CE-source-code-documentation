@@ -1,0 +1,12 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_va532889ebb6bcd8c0a10bae790067673c =
+[
+    [ "__construct", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_va532889ebb6bcd8c0a10bae790067673c.html#a498fd93074663912c590bed695604980", null ],
+    [ "validate", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_va532889ebb6bcd8c0a10bae790067673c.html#a5c3546194e359dd58f5ddcbdec9923dd", null ],
+    [ "validateMetaDataKey", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_va532889ebb6bcd8c0a10bae790067673c.html#abf05ae7ab9d3e86f5a437251f248af23", null ],
+    [ "validateMetaDataSection", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_va532889ebb6bcd8c0a10bae790067673c.html#ae362d39cfbe8e816918515ca9320d44b", null ],
+    [ "validateMetaDataSectionItems", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_va532889ebb6bcd8c0a10bae790067673c.html#adf8b14f7cc83519200f4b4a028a187bb", null ],
+    [ "$currentValidationMetaDataVersion", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_va532889ebb6bcd8c0a10bae790067673c.html#abe6645bb1c12e70cfc6c3bac87ab6934", null ],
+    [ "$metaDataFilePath", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_va532889ebb6bcd8c0a10bae790067673c.html#ab5736314044baf9cb9868063f3b3ef1d", null ],
+    [ "$metaDataSchemataProvider", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_va532889ebb6bcd8c0a10bae790067673c.html#a3ea1c944e27d6c4eddaf1d74728e7eed", null ],
+    [ "$sectionsExcludedFromItemValidation", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_va532889ebb6bcd8c0a10bae790067673c.html#a640ebb068072902d7bfb086887b0751b", null ]
+];

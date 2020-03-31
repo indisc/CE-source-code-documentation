@@ -1,0 +1,6 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_coca61fab6ddec1eebec3c8e4d959684e2 =
+[
+    [ "convert", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_coca61fab6ddec1eebec3c8e4d959684e2.html#aaa37f0f6c3e56abb1bbbe695a949bb49", null ],
+    [ "updateValue", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_coca61fab6ddec1eebec3c8e4d959684e2.html#a8d5cfdc957e106c2eb369144ab47e673", null ],
+    [ "CONVERSION_MAP", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_coca61fab6ddec1eebec3c8e4d959684e2.html#a8abe9ef701cd70b987a187256372f699", null ]
+];

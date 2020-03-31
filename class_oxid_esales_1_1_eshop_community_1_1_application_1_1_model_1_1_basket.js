@@ -173,6 +173,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_basket =
     [ "$_oVoucherDiscount", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_basket.html#a41fa34a7258fca1f3460551e717a957d", null ],
     [ "$_sBasketCategoryId", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_basket.html#a18c6408b3c4c3a591e36c52d0256d673", null ],
     [ "$_sCardId", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_basket.html#a772c47d95e02412b11737f058393f5dc", null ],
+    [ "$_sCardMessage", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_basket.html#adf15639dd6ee0f8bcf03a5174fa6d829", null ],
     [ "$_sOrderId", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_basket.html#af169d115f1c616551442d6c403a4432e", null ],
     [ "$_sPaymentId", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_basket.html#a857336ba5763a947f531c38a07ab6444", null ],
     [ "$_sShippingSetId", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_basket.html#a8171714d8e8782c780f9aaa0e7a9aac9", null ]

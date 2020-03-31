@@ -1,0 +1,4 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_event_1_1_project_yaml_changed_event =
+[
+    [ "NAME", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_event_1_1_project_yaml_changed_event.html#a0f34104c44a44050731eccf60e1fef21", null ]
+];

@@ -1,0 +1,5 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_smarty_1_1_legacy_1_1_legacy_smarty_engine_interface =
+[
+    [ "getSmarty", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_smarty_1_1_legacy_1_1_legacy_smarty_engine_interface.html#a67ec3a7e33dd451f448efd113cfc62fe", null ],
+    [ "setSmarty", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_smarty_1_1_legacy_1_1_legacy_smarty_engine_interface.html#a41e4ddbc38961375324926f3fae16990", null ]
+];

@@ -1,0 +1,14 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_bridge_1_1_user_review_and_rating_bridge =
+[
+    [ "__construct", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_bridge_1_1_user_review_and_rating_bridge.html#ae27ab4cb233e1a7614cc1d1d5c3850df", null ],
+    [ "formatReviewAndRatingDate", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_bridge_1_1_user_review_and_rating_bridge.html#aefbd3cda301843b612ee311098a1bb8f", null ],
+    [ "formatReviewText", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_bridge_1_1_user_review_and_rating_bridge.html#a8c13e6eb4b9ca770bce09d2ee8591704", null ],
+    [ "getObjectModel", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_bridge_1_1_user_review_and_rating_bridge.html#a13df7a3a67fd50b4d84c6b9edda20a58", null ],
+    [ "getObjectTitle", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_bridge_1_1_user_review_and_rating_bridge.html#a522b0b8dd21e0714a70ed5c67de13093", null ],
+    [ "getObjectTitleFieldName", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_bridge_1_1_user_review_and_rating_bridge.html#a3e7892535b78a143b33f9b025b928c4a", null ],
+    [ "getReviewAndRatingList", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_bridge_1_1_user_review_and_rating_bridge.html#ace2b635bf50a2099132ea2b5ddaa07da", null ],
+    [ "getReviewAndRatingListCount", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_bridge_1_1_user_review_and_rating_bridge.html#a900e2a49c6ac7e9c323c98ec982bbd3f", null ],
+    [ "prepareRatingAndReviewPropertiesData", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_bridge_1_1_user_review_and_rating_bridge.html#af227f6e17582e692f4f4292a3f76406f", null ],
+    [ "setObjectTitleToReviewAndRating", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_bridge_1_1_user_review_and_rating_bridge.html#a256a4e16fd2a3b091b24cc2b66dad8b7", null ],
+    [ "$userReviewAndRatingService", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_bridge_1_1_user_review_and_rating_bridge.html#ad559caab52342f2863b48072639719c5", null ]
+];

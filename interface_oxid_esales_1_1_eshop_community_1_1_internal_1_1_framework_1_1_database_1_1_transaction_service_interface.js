@@ -1,0 +1,6 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_database_1_1_transaction_service_interface =
+[
+    [ "begin", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_database_1_1_transaction_service_interface.html#ac99beb80b044d756cea2a5788f7e865d", null ],
+    [ "commit", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_database_1_1_transaction_service_interface.html#ad1c1817201d37b98c650723ab3cbc153", null ],
+    [ "rollback", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_database_1_1_transaction_service_interface.html#ace9924e61b0ff6a7eb3a23e8991a8fa2", null ]
+];

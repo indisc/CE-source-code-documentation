@@ -1,0 +1,6 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_smarty_1_1_configuration_1_1_smarty_plugins_data_provider =
+[
+    [ "__construct", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_smarty_1_1_configuration_1_1_smarty_plugins_data_provider.html#a9ca69245d9912604e268e7e82da16055", null ],
+    [ "getPlugins", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_smarty_1_1_configuration_1_1_smarty_plugins_data_provider.html#a1bff6a75ea40acbb61857177ea83df51", null ],
+    [ "$context", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_smarty_1_1_configuration_1_1_smarty_plugins_data_provider.html#a98ad794774e8857fc4cac859e0da0fab", null ]
+];

@@ -1,0 +1,4 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_service_1_1_rat5cf9ed8c2ac79463db18876beb66695d =
+[
+    [ "getAverage", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_service_1_1_rat5cf9ed8c2ac79463db18876beb66695d.html#a328b362d6f673529ca76c1b9de9060f8", null ]
+];

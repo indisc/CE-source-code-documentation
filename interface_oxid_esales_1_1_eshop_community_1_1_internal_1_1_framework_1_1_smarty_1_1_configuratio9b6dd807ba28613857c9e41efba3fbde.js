@@ -1,0 +1,4 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_smarty_1_1_configuratio9b6dd807ba28613857c9e41efba3fbde =
+[
+    [ "getPrefilterPlugins", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_smarty_1_1_configuratio9b6dd807ba28613857c9e41efba3fbde.html#a4669f3d3979b8b7078cd8892cc57714e", null ]
+];

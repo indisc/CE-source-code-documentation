@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_controller_1_1_module_state_map_generator.html" title=" " alt="" coords="5,5,227,61"/>
+<area shape="rect" id="node1" href="$interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_database_1_1_logger_1_1_query_filter_interface.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Database\l\\Logger\\QueryFilterInterface" alt="" coords="5,5,224,61"/>
+<area shape="rect" id="node2" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_database_1_1_logger_1_1_query_filter.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Database\l\\Logger\\QueryFilter" alt="" coords="272,5,491,61"/>
 </map>

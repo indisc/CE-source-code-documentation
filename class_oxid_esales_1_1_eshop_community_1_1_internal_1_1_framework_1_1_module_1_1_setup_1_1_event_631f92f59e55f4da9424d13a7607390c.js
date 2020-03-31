@@ -1,0 +1,4 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_setup_1_1_event_631f92f59e55f4da9424d13a7607390c =
+[
+    [ "NAME", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_setup_1_1_event_631f92f59e55f4da9424d13a7607390c.html#a43a71f7ff9ce5bcf6ace7646da441b1e", null ]
+];

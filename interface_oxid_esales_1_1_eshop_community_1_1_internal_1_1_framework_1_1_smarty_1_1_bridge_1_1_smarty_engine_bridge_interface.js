@@ -1,0 +1,4 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_smarty_1_1_bridge_1_1_smarty_engine_bridge_interface =
+[
+    [ "renderFragment", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_smarty_1_1_bridge_1_1_smarty_engine_bridge_interface.html#a91ff70c3ed07cfb6608f1cc1d4464fe6", null ]
+];

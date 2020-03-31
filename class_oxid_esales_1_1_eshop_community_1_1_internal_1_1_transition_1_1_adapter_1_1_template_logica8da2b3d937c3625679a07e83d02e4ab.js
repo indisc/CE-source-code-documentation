@@ -1,0 +1,6 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_adapter_1_1_template_logica8da2b3d937c3625679a07e83d02e4ab =
+[
+    [ "loadArticleObject", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_adapter_1_1_template_logica8da2b3d937c3625679a07e83d02e4ab.html#a1cc99462459b501518025d040686a48f", null ],
+    [ "renderTemplate", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_adapter_1_1_template_logica8da2b3d937c3625679a07e83d02e4ab.html#a7acf1dc30ceae52fe4b24b54f8d260a5", null ],
+    [ "validateTemplateEngine", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_adapter_1_1_template_logica8da2b3d937c3625679a07e83d02e4ab.html#a00043437b54dc4f77aa6a54d0c1eed03", null ]
+];

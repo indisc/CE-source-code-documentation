@@ -1,0 +1,5 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_service_1_1_rating_calculator_service =
+[
+    [ "getAverage", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_service_1_1_rating_calculator_service.html#afe66f806c672b006fe67103e10bee83f", null ],
+    [ "getSum", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_service_1_1_rating_calculator_service.html#ae72a8c0056298d87bbe5aa374ed3438a", null ]
+];

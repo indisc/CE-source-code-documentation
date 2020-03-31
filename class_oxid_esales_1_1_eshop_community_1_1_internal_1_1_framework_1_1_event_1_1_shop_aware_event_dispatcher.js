@@ -1,0 +1,4 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_event_1_1_shop_aware_event_dispatcher =
+[
+    [ "doDispatch", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_event_1_1_shop_aware_event_dispatcher.html#aa355e0e49edec13e93ad2da8d56415f5", null ]
+];

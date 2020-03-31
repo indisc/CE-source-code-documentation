@@ -1,0 +1,4 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_bridge_1_1_user_review_bridge_interface =
+[
+    [ "deleteReview", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_bridge_1_1_user_review_bridge_interface.html#a8edd4d5f4b58a959be5c556f3e98afa6", null ]
+];

@@ -1,0 +1,6 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_templating_1_1_resolver_1_1_template_name_resolver =
+[
+    [ "__construct", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_templating_1_1_resolver_1_1_template_name_resolver.html#a87e5514b17660da52c03d1f3da40c0fb", null ],
+    [ "resolve", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_templating_1_1_resolver_1_1_template_name_resolver.html#abc9e8a8443751d9adbe64ed1a5ed37dc", null ],
+    [ "$templateEngine", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_templating_1_1_resolver_1_1_template_name_resolver.html#aad9dec435c1673d768607e41a1027e46", null ]
+];

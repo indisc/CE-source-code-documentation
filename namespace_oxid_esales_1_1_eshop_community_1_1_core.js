@@ -90,6 +90,7 @@ var namespace_oxid_esales_1_1_eshop_community_1_1_core =
     [ "Theme", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_theme.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_theme" ],
     [ "UniversallyUniqueIdGenerator", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_universally_unique_id_generator.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_universally_unique_id_generator" ],
     [ "UserCounter", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_user_counter.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_user_counter" ],
+    [ "Utils", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils" ],
     [ "UtilsCount", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_count.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_count" ],
     [ "UtilsDate", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_date.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_date" ],
     [ "UtilsFile", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_file.html", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_utils_file" ],

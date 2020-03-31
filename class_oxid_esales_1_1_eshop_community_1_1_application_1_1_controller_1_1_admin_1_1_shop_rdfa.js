@@ -5,5 +5,6 @@ var class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_adm
     [ "getHttpResponseCode", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_shop_rdfa.html#a5536b2b870de830429240b752524ee11", null ],
     [ "submitUrl", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_shop_rdfa.html#a9b97d889bd91af20576b37ef9bf2f9eb", null ],
     [ "$_aCustomers", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_shop_rdfa.html#ac94a54efef0815a4a6afbd39aa2cd0c3", null ],
-    [ "$_sThisTemplate", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_shop_rdfa.html#a33df90c25b733f5b236470e0e9e029e6", null ]
+    [ "$_sThisTemplate", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_shop_rdfa.html#a33df90c25b733f5b236470e0e9e029e6", null ],
+    [ "Reseller", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_shop_rdfa.html#a4927983d0024a1f76290ab8eac62ea60", null ]
 ];

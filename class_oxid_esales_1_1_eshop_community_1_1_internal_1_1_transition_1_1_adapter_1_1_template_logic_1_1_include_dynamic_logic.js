@@ -1,0 +1,5 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_adapter_1_1_template_logic_1_1_include_dynamic_logic =
+[
+    [ "includeDynamicPrefix", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_adapter_1_1_template_logic_1_1_include_dynamic_logic.html#a5b79484a0944082ff765d41984c6de7a", null ],
+    [ "renderForCache", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_adapter_1_1_template_logic_1_1_include_dynamic_logic.html#a36acdb64ff47b56206ba79765e506c1a", null ]
+];

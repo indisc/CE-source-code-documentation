@@ -1,0 +1,4 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_servi6d0f60b1a261db48bf94b2d2d774e578 =
+[
+    [ "isLaunched", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_servi6d0f60b1a261db48bf94b2d2d774e578.html#ab59dcf98c554ac90becff213ea796497", null ]
+];

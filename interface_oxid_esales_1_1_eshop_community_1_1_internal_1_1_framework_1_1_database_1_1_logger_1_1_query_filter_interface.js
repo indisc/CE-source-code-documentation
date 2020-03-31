@@ -1,0 +1,4 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_database_1_1_logger_1_1_query_filter_interface =
+[
+    [ "shouldLogQuery", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_database_1_1_logger_1_1_query_filter_interface.html#a1bdf5175c04ba03fac64dbcd40defda8", null ]
+];

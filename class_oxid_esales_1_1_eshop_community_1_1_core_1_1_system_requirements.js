@@ -42,6 +42,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_requirements =
     [ "fetchBlockRecords", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_requirements.html#a584d4616cd3176fca136b04e76c3671f", null ],
     [ "filter", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_requirements.html#af012fce0b7cd2944ca6ed2788d5f8990", null ],
     [ "getConfig", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_requirements.html#ad7bb180a32f13a58895665b3d3754ad7", null ],
+    [ "getContainer", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_requirements.html#a55ef942ea3bc6019722cb41f2d7abadf", null ],
     [ "getMissingTemplateBlocks", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_requirements.html#ad4666f0b8a587d3ca3b6736a024a3e49", null ],
     [ "getModuleInfo", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_requirements.html#aaa75c943a838dcbd68c160634c46138b", null ],
     [ "getPhpVersion", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_requirements.html#abcf05810f9c508f9b2fe498c49c71c1d", null ],
@@ -63,5 +64,6 @@ var class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_requirements =
     [ "MODULE_STATUS_BLOCKS_SETUP", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_requirements.html#a0b7b27fb0c77fabf1dc0d79bc6dcbd23", null ],
     [ "MODULE_STATUS_FITS_MINIMUM_REQUIREMENTS", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_requirements.html#a59bad199f95f4d1b5348c647df066ddc", null ],
     [ "MODULE_STATUS_OK", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_requirements.html#aca6a980b554828251843397b0c57b4af", null ],
-    [ "MODULE_STATUS_UNABLE_TO_DETECT", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_requirements.html#aa71a589368ee4c5c67b4db7711c46c5c", null ]
+    [ "MODULE_STATUS_UNABLE_TO_DETECT", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_requirements.html#aa71a589368ee4c5c67b4db7711c46c5c", null ],
+    [ "php_xml", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_system_requirements.html#a375f6953899ebc796e708e48ac060745", null ]
 ];

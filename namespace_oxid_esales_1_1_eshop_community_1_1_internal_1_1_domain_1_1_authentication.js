@@ -1,0 +1,7 @@
+var namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_authentication =
+[
+    [ "Bridge", "namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_authentication_1_1_bridge.html", "namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_authentication_1_1_bridge" ],
+    [ "Exception", "namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_authentication_1_1_exception.html", "namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_authentication_1_1_exception" ],
+    [ "Policy", "namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_authentication_1_1_policy.html", "namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_authentication_1_1_policy" ],
+    [ "Service", "namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_authentication_1_1_service.html", "namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_authentication_1_1_service" ]
+];

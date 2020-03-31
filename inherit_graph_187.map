@@ -1,5 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_configuration_1_1_psr_logger_configuration_interface.html" title=" " alt="" coords="5,5,216,61"/>
-<area shape="rect" id="node2" href="$interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_configuration_1_1_monolog_configuration_interface.html" title=" " alt="" coords="264,5,465,61"/>
-<area shape="rect" id="node3" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_logger_1_1_configuration_1_1_monolog_configuration.html" title=" " alt="" coords="513,5,704,61"/>
+<area shape="rect" id="node1" href="$interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_dao_1_1_review_dao_interface.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Domain\\Review\l\\Dao\\ReviewDaoInterface" alt="" coords="5,5,219,61"/>
+<area shape="rect" id="node2" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_dao_1_1_review_dao.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Domain\\Review\l\\Dao\\ReviewDao" alt="" coords="267,5,480,61"/>
 </map>

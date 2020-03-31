@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_smarty_1_1_legacy_1_1_legacy_smarty_engine_interface.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Smarty\l\\Legacy\\LegacySmartyEngineInterface" alt="" coords="5,5,276,61"/>
+<area shape="rect" id="node2" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_smarty_1_1_legacy_1_1_legacy_smarty_engine.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Smarty\l\\Legacy\\LegacySmartyEngine" alt="" coords="324,5,537,61"/>
+<area shape="rect" id="node3" href="$interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_templating_1_1_template_engine_interface.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Templating\l\\TemplateEngineInterface" alt="" coords="27,85,255,141"/>
+<area shape="rect" id="node4" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_smarty_1_1_smarty_engine.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Smarty\l\\SmartyEngine" alt="" coords="324,85,537,141"/>
+</map>

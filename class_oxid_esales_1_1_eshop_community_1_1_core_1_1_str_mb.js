@@ -22,7 +22,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_core_1_1_str_mb =
     [ "strtoupper", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_str_mb.html#af953b98ce5a23d83e550a25afcb31754", null ],
     [ "substr", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_str_mb.html#a9935bc5e1178e79a153ea8a435b1d80b", null ],
     [ "ucfirst", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_str_mb.html#a43973a8841ace48f530b96268dfa35b0", null ],
-    [ "wordwrap", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_str_mb.html#acaea03cd532bf523ae0c216490f054bc", null ],
+    [ "wordwrap", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_str_mb.html#a9a132293dd53e1db6e56d636d4bfc3a1", null ],
     [ "$_aUmlEntities", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_str_mb.html#a97c0467d90cac725ec924b3dfaf2bc0a", null ],
     [ "$_aUmls", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_str_mb.html#a0c83f87833652d6cc602ebc869567c82", null ],
     [ "$_sEncoding", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_str_mb.html#a8cb4e672b89c9ea57e0298b0c06d6b38", null ]

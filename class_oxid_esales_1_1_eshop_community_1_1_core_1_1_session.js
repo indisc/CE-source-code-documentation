@@ -51,6 +51,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_core_1_1_session =
     [ "setForceNewSession", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_session.html#a0f95731e68691c9b5ff0ae3c2f72c2eb", null ],
     [ "setId", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_session.html#a46fb7c5a04692cc37cdcb9c25c1b4585", null ],
     [ "setName", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_session.html#aefcf23a37d9223c1860c0891dc755724", null ],
+    [ "setSessionCookie", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_session.html#aecf75623769254ec4785e1273fe4b3a0", null ],
     [ "setVariable", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_session.html#a2a4ce4648fa28df87c3049454e9d3c44", null ],
     [ "sid", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_session.html#a9b63b43a64edde4b0ff5aa6302f1c41f", null ],
     [ "sidToUrlEvent", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_session.html#a052f9c56b4b005dd13a5397170154150", null ],

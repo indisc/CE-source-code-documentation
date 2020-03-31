@@ -1,0 +1,5 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_config_1_1_utility_1_1_shop_setting_encoder_interface =
+[
+    [ "decode", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_config_1_1_utility_1_1_shop_setting_encoder_interface.html#aa07313b8cda17d3c95188a5bab14a602", null ],
+    [ "encode", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_config_1_1_utility_1_1_shop_setting_encoder_interface.html#a40728c938a98b3f00e192e383c698ef8", null ]
+];

@@ -1,0 +1,5 @@
+<map id="OxidEsales\EshopCommunity\Internal\Framework\Module\Setup\Event\ModuleSetupEvent" name="OxidEsales\EshopCommunity\Internal\Framework\Module\Setup\Event\ModuleSetupEvent">
+<area shape="rect" id="node3" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_setup_1_1_event_82426743fb092ead2e9aafd78075fd9a.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Module\l\\Setup\\Event\\BeforeModuleDeactivationEvent" alt="" coords="398,5,717,61"/>
+<area shape="rect" id="node4" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_setup_1_1_event_631f92f59e55f4da9424d13a7607390c.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Module\l\\Setup\\Event\\FinalizingModuleActivationEvent" alt="" coords="398,85,717,141"/>
+<area shape="rect" id="node5" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_setup_1_1_event_71d73879284bef433f01ad98823772e8.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Module\l\\Setup\\Event\\FinalizingModuleDeactivationEvent" alt="" coords="389,165,725,221"/>
+</map>

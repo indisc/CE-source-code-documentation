@@ -1,0 +1,4 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_adapter_1_1_template_logic_1_1_format_time_logic =
+[
+    [ "getFormattedTime", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_adapter_1_1_template_logic_1_1_format_time_logic.html#a407aa10e3eb6de38fdbb66a880c10557", null ]
+];

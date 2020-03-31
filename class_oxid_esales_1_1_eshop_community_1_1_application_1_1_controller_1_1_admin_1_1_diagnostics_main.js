@@ -8,6 +8,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_adm
     [ "_hasError", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_diagnostics_main.html#ae7c8f96cc38a2c79adf62c57ea437473", null ],
     [ "_runBasicDiagnostics", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_diagnostics_main.html#a499803fe935b3c15d5b878a1d5801178", null ],
     [ "downloadResultFile", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_diagnostics_main.html#ab231d37e8f2547516b66aa3a675b5e05", null ],
+    [ "getInstalledModules", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_diagnostics_main.html#a0f2f1279dea3eb18c20a6dc6602508c7", null ],
     [ "getParam", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_diagnostics_main.html#a45fa69d24306311c09ba0ee39aca2beb", null ],
     [ "getSupportContactForm", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_diagnostics_main.html#a83d0c4ecd296e07b8c141f5dd307e063", null ],
     [ "render", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_diagnostics_main.html#af984bba2ff1a8adf68a36c10b0fc5880", null ],

@@ -1,0 +1,4 @@
+var namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_logger_1_1_wrapper =
+[
+    [ "LoggerWrapper", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_logger_1_1_wrapper_1_1_logger_wrapper.html", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_logger_1_1_wrapper_1_1_logger_wrapper" ]
+];

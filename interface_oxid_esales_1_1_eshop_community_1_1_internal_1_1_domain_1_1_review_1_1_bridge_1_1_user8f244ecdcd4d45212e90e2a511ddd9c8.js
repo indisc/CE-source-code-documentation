@@ -1,0 +1,5 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_bridge_1_1_user8f244ecdcd4d45212e90e2a511ddd9c8 =
+[
+    [ "getReviewAndRatingList", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_bridge_1_1_user8f244ecdcd4d45212e90e2a511ddd9c8.html#a56554781fe7fbf50ea885b804cfc0fd3", null ],
+    [ "getReviewAndRatingListCount", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_bridge_1_1_user8f244ecdcd4d45212e90e2a511ddd9c8.html#affea7c8bf67490b27eab896613f897cf", null ]
+];

@@ -1,0 +1,4 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_adapter_1_1_template_logic_1_1_format_date_logic =
+[
+    [ "formdate", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_adapter_1_1_template_logic_1_1_format_date_logic.html#a16d013098f0462cfd96959f181090892", null ]
+];

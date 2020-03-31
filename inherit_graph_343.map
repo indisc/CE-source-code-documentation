@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_core.html" title="OxidEsales\\EshopCommunity\l\\Setup\\Core" alt="" coords="5,235,219,276"/>
+<area shape="rect" id="node2" href="$class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_controller.html" title="OxidEsales\\EshopCommunity\l\\Setup\\Controller" alt="" coords="267,5,480,47"/>
+<area shape="rect" id="node3" href="$class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_database.html" title="OxidEsales\\EshopCommunity\l\\Setup\\Database" alt="" coords="267,71,480,112"/>
+<area shape="rect" id="node4" href="$class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_dispatcher.html" title="OxidEsales\\EshopCommunity\l\\Setup\\Dispatcher" alt="" coords="267,136,480,177"/>
+<area shape="rect" id="node5" href="$class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_language.html" title="OxidEsales\\EshopCommunity\l\\Setup\\Language" alt="" coords="267,201,480,243"/>
+<area shape="rect" id="node6" href="$class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_session.html" title="OxidEsales\\EshopCommunity\l\\Setup\\Session" alt="" coords="267,267,480,308"/>
+<area shape="rect" id="node7" href="$class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_setup.html" title="OxidEsales\\EshopCommunity\l\\Setup\\Setup" alt="" coords="267,332,480,373"/>
+<area shape="rect" id="node8" href="$class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_utilities.html" title="OxidEsales\\EshopCommunity\l\\Setup\\Utilities" alt="" coords="267,397,480,439"/>
+<area shape="rect" id="node9" href="$class_oxid_esales_1_1_eshop_community_1_1_setup_1_1_view.html" title="OxidEsales\\EshopCommunity\l\\Setup\\View" alt="" coords="267,463,480,504"/>
+</map>

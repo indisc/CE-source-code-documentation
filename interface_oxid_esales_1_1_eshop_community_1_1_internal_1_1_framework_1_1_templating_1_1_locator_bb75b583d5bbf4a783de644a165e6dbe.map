@@ -1,0 +1,5 @@
+<map id="OxidEsales\EshopCommunity\Internal\Framework\Templating\Locator\NavigationFileLocatorInterface" name="OxidEsales\EshopCommunity\Internal\Framework\Templating\Locator\NavigationFileLocatorInterface">
+<area shape="rect" id="node2" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_templating_1_1_locator_1_1_admin_navigation_file_locator.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Templating\l\\Locator\\AdminNavigationFileLocator" alt="" coords="331,5,592,61"/>
+<area shape="rect" id="node3" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_templating_1_1_locator_1_1_edition_menu_file_locator.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Templating\l\\Locator\\EditionMenuFileLocator" alt="" coords="347,85,575,141"/>
+<area shape="rect" id="node4" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_templating_1_1_locator_1_1_edition_user_file_locator.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Templating\l\\Locator\\EditionUserFileLocator" alt="" coords="347,165,575,221"/>
+</map>

@@ -1,13 +1,12 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,380,112,407"/>
-<area shape="rect" id="node2" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_basket_component.html" title=" " alt="" coords="160,5,349,61"/>
-<area shape="rect" id="node3" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_categories_component.html" title=" " alt="" coords="160,85,349,141"/>
-<area shape="rect" id="node4" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_currency_component.html" title=" " alt="" coords="160,165,349,221"/>
-<area shape="rect" id="node5" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_language_component.html" title=" " alt="" coords="160,245,349,301"/>
-<area shape="rect" id="node6" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_news_component.html" title=" " alt="" coords="160,325,349,381"/>
-<area shape="rect" id="node7" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_shop_component.html" title=" " alt="" coords="160,405,349,461"/>
-<area shape="rect" id="node8" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_user_component.html" title=" " alt="" coords="160,485,349,541"/>
-<area shape="rect" id="node9" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_utils_component.html" title=" " alt="" coords="160,565,349,621"/>
-<area shape="rect" id="node10" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_admin_controller.html" title=" " alt="" coords="160,645,349,701"/>
-<area shape="rect" id="node11" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html" title=" " alt="" coords="160,725,349,781"/>
+<area shape="rect" id="node2" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_basket_component.html" title="OxidEsales\\EshopCommunity\l\\Application\\Component\l\\BasketComponent" alt="" coords="172,5,385,61"/>
+<area shape="rect" id="node3" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_categories_component.html" title="OxidEsales\\EshopCommunity\l\\Application\\Component\l\\CategoriesComponent" alt="" coords="172,85,385,141"/>
+<area shape="rect" id="node4" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_currency_component.html" title="OxidEsales\\EshopCommunity\l\\Application\\Component\l\\CurrencyComponent" alt="" coords="172,165,385,221"/>
+<area shape="rect" id="node5" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_language_component.html" title="OxidEsales\\EshopCommunity\l\\Application\\Component\l\\LanguageComponent" alt="" coords="172,245,385,301"/>
+<area shape="rect" id="node6" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_news_component.html" title="OxidEsales\\EshopCommunity\l\\Application\\Component\l\\NewsComponent" alt="" coords="172,325,385,381"/>
+<area shape="rect" id="node7" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_shop_component.html" title="OxidEsales\\EshopCommunity\l\\Application\\Component\l\\ShopComponent" alt="" coords="172,405,385,461"/>
+<area shape="rect" id="node8" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_user_component.html" title="OxidEsales\\EshopCommunity\l\\Application\\Component\l\\UserComponent" alt="" coords="172,485,385,541"/>
+<area shape="rect" id="node9" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_component_1_1_utils_component.html" title="OxidEsales\\EshopCommunity\l\\Application\\Component\l\\UtilsComponent" alt="" coords="172,565,385,621"/>
+<area shape="rect" id="node10" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_admin_controller.html" title="OxidEsales\\EshopCommunity\l\\Application\\Controller\l\\Admin\\AdminController" alt="" coords="172,645,385,701"/>
+<area shape="rect" id="node11" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_frontend_controller.html" title="OxidEsales\\EshopCommunity\l\\Application\\Controller\l\\FrontendController" alt="" coords="172,725,385,781"/>
 </map>

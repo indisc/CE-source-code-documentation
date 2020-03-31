@@ -1,0 +1,4 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_logger_1_1_factory_1_1_logger_factory_interface =
+[
+    [ "create", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_logger_1_1_factory_1_1_logger_factory_interface.html#ab55d05d00863206890862bbb6eb65c23", null ]
+];

@@ -1,0 +1,4 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_database_1_1_connection_factory =
+[
+    [ "get", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_database_1_1_connection_factory.html#a66405b90fc4a9d78c09c5864798dd65e", null ]
+];

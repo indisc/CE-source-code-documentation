@@ -1,0 +1,4 @@
+<map id="OxidEsales\EshopCommunity\Internal\Framework\Event\ShopAwareInterface" name="OxidEsales\EshopCommunity\Internal\Framework\Event\ShopAwareInterface">
+<area shape="rect" id="node2" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_console_1_1_abstract_shop_aware_command.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Console\l\\AbstractShopAwareCommand" alt="" coords="286,5,505,61"/>
+<area shape="rect" id="node3" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_event_1_1_abstract_shop_aware_event_subscriber.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Event\l\\AbstractShopAwareEventSubscriber" alt="" coords="267,85,524,141"/>
+</map>

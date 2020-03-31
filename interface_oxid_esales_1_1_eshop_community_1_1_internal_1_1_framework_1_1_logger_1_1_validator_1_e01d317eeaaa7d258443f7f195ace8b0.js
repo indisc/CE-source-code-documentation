@@ -1,0 +1,4 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_logger_1_1_validator_1_e01d317eeaaa7d258443f7f195ace8b0 =
+[
+    [ "validate", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_logger_1_1_validator_1_e01d317eeaaa7d258443f7f195ace8b0.html#ad0be817f807fd0bb72102a8c24970082", null ]
+];

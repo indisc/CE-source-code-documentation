@@ -1,0 +1,4 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_adapter_1_1_template_logic_1_1_format_currency_logic =
+[
+    [ "numberFormat", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_adapter_1_1_template_logic_1_1_format_currency_logic.html#ab9b868f1efe083dc2ca577dd9eec5d5c", null ]
+];

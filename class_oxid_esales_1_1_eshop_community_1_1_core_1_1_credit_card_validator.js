@@ -4,5 +4,6 @@ var class_oxid_esales_1_1_eshop_community_1_1_core_1_1_credit_card_validator =
     [ "_isValidNumer", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_credit_card_validator.html#a360735992c7e3c227a617739ffc44fe7", null ],
     [ "_isValidType", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_credit_card_validator.html#a34389b11eeac14856768f8dbb7df8069", null ],
     [ "isValidCard", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_credit_card_validator.html#a701c122a625ebf93775a4096ddd41bb6", null ],
-    [ "$_aCardsInfo", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_credit_card_validator.html#a4371239da712a3a6fc27f12dd08fd547", null ]
+    [ "$_aCardsInfo", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_credit_card_validator.html#a4371239da712a3a6fc27f12dd08fd547", null ],
+    [ "dlt", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_credit_card_validator.html#a854d87f05115e3902cf76c665ac7709b", null ]
 ];

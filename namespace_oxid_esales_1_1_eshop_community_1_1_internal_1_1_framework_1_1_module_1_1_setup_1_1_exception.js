@@ -1,0 +1,10 @@
+var namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_setup_1_1_exception =
+[
+    [ "ControllersDuplicationModuleConfigurationException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_setup_1_1_except84fbc17ab235486a15d76a4443af5ac3.html", null ],
+    [ "InvalidClassExtensionNamespaceException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_setup_1_1_excepta91ee1e8a2f6d4eb590585364e506035.html", null ],
+    [ "ModuleSettingHandlerNotFoundException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_setup_1_1_exceptf9da2e60342ff5706a42f9adbf697677.html", null ],
+    [ "ModuleSettingNotValidException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_setup_1_1_except6c19aeecb1ab685805c47a7c4077ab7c.html", null ],
+    [ "ModuleSetupException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_setup_1_1_exception_1_1_module_setup_exception.html", null ],
+    [ "ModuleSetupValidationException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_setup_1_1_except18f41aa9aa9c238c7f93aaa60b857e9c.html", null ],
+    [ "ServicesYamlConfigurationError", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_setup_1_1_except69941ca4c649449a0dfc11ece53e70b0.html", null ]
+];

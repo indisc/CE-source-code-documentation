@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_templating_1_1_locator_1_1_file_locator_interface.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Templating\l\\Locator\\FileLocatorInterface" alt="" coords="5,45,233,101"/>
+<area shape="rect" id="node2" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_templating_1_1_locator_1_1_admin_template_file_locator.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Templating\l\\Locator\\AdminTemplateFileLocator" alt="" coords="281,5,532,61"/>
+<area shape="rect" id="node3" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_templating_1_1_locator_1_1_template_file_locator.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Templating\l\\Locator\\TemplateFileLocator" alt="" coords="293,85,521,141"/>
+</map>

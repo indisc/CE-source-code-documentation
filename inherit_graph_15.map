@@ -1,7 +1,6 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,140,197,167"/>
-<area shape="rect" id="node2" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_generic_export.html" title=" " alt="" coords="245,5,435,61"/>
-<area shape="rect" id="node3" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_generic_export_do.html" title=" " alt="" coords="245,85,435,141"/>
-<area shape="rect" id="node4" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_generic_export_main.html" title=" " alt="" coords="245,165,435,221"/>
-<area shape="rect" id="node5" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_voucher_serie_main.html" title=" " alt="" coords="245,245,435,301"/>
+<area shape="rect" id="node2" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_generic_export.html" title="OxidEsales\\EshopCommunity\l\\Application\\Controller\l\\Admin\\GenericExport" alt="" coords="272,5,485,61"/>
+<area shape="rect" id="node3" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_generic_export_do.html" title="OxidEsales\\EshopCommunity\l\\Application\\Controller\l\\Admin\\GenericExportDo" alt="" coords="272,85,485,141"/>
+<area shape="rect" id="node4" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_generic_export_main.html" title="OxidEsales\\EshopCommunity\l\\Application\\Controller\l\\Admin\\GenericExportMain" alt="" coords="272,165,485,221"/>
+<area shape="rect" id="node5" href="$class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_voucher_serie_main.html" title="OxidEsales\\EshopCommunity\l\\Application\\Controller\l\\Admin\\VoucherSerieMain" alt="" coords="272,245,485,301"/>
 </map>

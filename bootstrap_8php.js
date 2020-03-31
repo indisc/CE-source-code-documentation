@@ -1,8 +1,7 @@
 var bootstrap_8php =
 [
     [ "BootstrapConfigFileReader", "class_bootstrap_config_file_reader.html", "class_bootstrap_config_file_reader" ],
-    [ "oxTriggerOfflinePageDisplay", "bootstrap_8php.html#a83cb4c9d0f13a0f28cc42056124c33de", null ],
-    [ "writeToLog", "bootstrap_8php.html#ab1730bfa613f078664eeafb0f34d91f1", null ],
+    [ "writeToLog", "bootstrap_8php.html#a216bbdc4192864eb91c142d385e482f7", null ],
     [ "$bootstrapConfigFileReader", "bootstrap_8php.html#aacc8908fd52fedb1fe3afc54de58ba8a", null ],
     [ "$configFile", "bootstrap_8php.html#a3e265c431ca42bf2f20753540bb64d00", null ],
     [ "$configMissing", "bootstrap_8php.html#aeb865a2c56964b1078b59e1331df011e", null ],

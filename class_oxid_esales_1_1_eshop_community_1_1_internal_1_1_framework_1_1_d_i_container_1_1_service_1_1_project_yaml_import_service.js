@@ -1,0 +1,9 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_service_1_1_project_yaml_import_service =
+[
+    [ "__construct", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_service_1_1_project_yaml_import_service.html#a2a50257fa63031f77d78ff0668cbbcbf", null ],
+    [ "addImport", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_service_1_1_project_yaml_import_service.html#a39bc04321ee8d13e7cd568b25333f73e", null ],
+    [ "removeImport", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_service_1_1_project_yaml_import_service.html#a513d8e1534c410044b0d45f048a8d04a", null ],
+    [ "removeNonExistingImports", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_service_1_1_project_yaml_import_service.html#a4081c95780bef1417fca8b86e7b1cdbc", null ],
+    [ "$projectYamlDao", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_service_1_1_project_yaml_import_service.html#a98bd77fcba7f3d1ac8d4edbf74158239", null ],
+    [ "SERVICE_FILE_NAME", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_d_i_container_1_1_service_1_1_project_yaml_import_service.html#ae51f2710745570ccae1a73d70e826ad3", null ]
+];

@@ -1,0 +1,4 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_service_1_1_user_review_service_interface =
+[
+    [ "getReviews", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_service_1_1_user_review_service_interface.html#a07701d4228f1dc1dbe5c25531c47f51d", null ]
+];

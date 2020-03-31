@@ -1,7 +1,7 @@
 var __header_8php =
 [
     [ "$aMessages", "__header_8php.html#a72c661842a8a64744d67b6d97c3da095", null ],
-    [ "$blAct", "__header_8php.html#ab85e78b1ca64dd6ca2b07783216c54dc", null ],
+    [ "$blAct", "__header_8php.html#a3bb869df76ec812d818fa9c7766669b7", null ],
     [ "$cssData", "__header_8php.html#aa2c2c64efce91c74f9a45847e9e4ec80", null ],
     [ "$facts", "__header_8php.html#a95f75a7919a4c6f27fa343dde46e6061", null ],
     [ "$iCntr", "__header_8php.html#adaa9646fd62fbe9d5409f080353bff0d", null ],
@@ -14,5 +14,5 @@ var __header_8php =
     [ "$iTabWidth", "__header_8php.html#a4093fa534d8f1605d13389a7e5e01925", null ],
     [ "$sTabClass", "__header_8php.html#ad5869ace4af3d6d6d5e9c23945be302b", null ],
     [ "foreach", "__header_8php.html#aa7cfbcf4eaaded6de2af328876edbc90", null ],
-    [ "if", "__header_8php.html#aef595af508bcc1c3c76f517b73d8ef71", null ]
+    [ "if", "__header_8php.html#abdb498b0daba9cd74afe56f67d3fc195", null ]
 ];

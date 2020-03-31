@@ -1,7 +1,11 @@
 var searchData=
 [
+  ['unavailablepasswordhashexception_2ephp',['UnavailablePasswordHashException.php',['../_unavailable_password_hash_exception_8php.html',1,'']]],
   ['unifiednamespaceclassmap_2ephp',['UnifiedNameSpaceClassMap.php',['../_unified_name_space_class_map_8php.html',1,'']]],
   ['universallyuniqueidgenerator_2ephp',['UniversallyUniqueIdGenerator.php',['../_universally_unique_id_generator_8php.html',1,'']]],
+  ['unsupportedmetadatakeyexception_2ephp',['UnsupportedMetaDataKeyException.php',['../_unsupported_meta_data_key_exception_8php.html',1,'']]],
+  ['unsupportedmetadatavaluetypeexception_2ephp',['UnsupportedMetaDataValueTypeException.php',['../_unsupported_meta_data_value_type_exception_8php.html',1,'']]],
+  ['unsupportedmetadataversionexception_2ephp',['UnsupportedMetaDataVersionException.php',['../_unsupported_meta_data_version_exception_8php.html',1,'']]],
   ['updatablefieldsconstructor_2ephp',['UpdatableFieldsConstructor.php',['../_updatable_fields_constructor_8php.html',1,'']]],
   ['user_2ephp',['User.php',['../_application_2_model_2_user_8php.html',1,'(Global Namespace)'],['../_core_2_generic_import_2_import_object_2_user_8php.html',1,'(Global Namespace)']]],
   ['useraddress_2ephp',['UserAddress.php',['../_user_address_8php.html',1,'']]],

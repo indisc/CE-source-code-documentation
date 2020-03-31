@@ -1,0 +1,4 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_theme_1_1_bridge_1_1_admin_theme_bridge_interface =
+[
+    [ "getActiveTheme", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_theme_1_1_bridge_1_1_admin_theme_bridge_interface.html#a40f45f0e920f788254d4026fc383538a", null ]
+];

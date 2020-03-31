@@ -1,0 +1,4 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_logger_1_1_configuratio99dbd2ffc3769217cab1baa26c3fefb9 =
+[
+    [ "getLogLevel", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_logger_1_1_configuratio99dbd2ffc3769217cab1baa26c3fefb9.html#a0960d6a2dbf56bc814b9927b2803c510", null ]
+];

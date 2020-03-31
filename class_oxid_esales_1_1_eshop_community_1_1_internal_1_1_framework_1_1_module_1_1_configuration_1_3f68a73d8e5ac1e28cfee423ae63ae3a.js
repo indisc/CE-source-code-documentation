@@ -1,0 +1,6 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_configuration_1_3f68a73d8e5ac1e28cfee423ae63ae3a =
+[
+    [ "merge", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_configuration_1_3f68a73d8e5ac1e28cfee423ae63ae3a.html#ab3065b779218efb9cabfb0e0bc5d1605", null ],
+    [ "mergeModuleSettings", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_configuration_1_3f68a73d8e5ac1e28cfee423ae63ae3a.html#aaea20b6c72cc9ad90251a67bfa3f8b87", null ],
+    [ "shouldMerge", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_configuration_1_3f68a73d8e5ac1e28cfee423ae63ae3a.html#a11f4cf386c592432d46049bee60e37cb", null ]
+];

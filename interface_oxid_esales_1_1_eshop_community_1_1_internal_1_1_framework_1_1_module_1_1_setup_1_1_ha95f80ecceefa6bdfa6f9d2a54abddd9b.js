@@ -1,0 +1,5 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_setup_1_1_ha95f80ecceefa6bdfa6f9d2a54abddd9b =
+[
+    [ "handleOnModuleActivation", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_setup_1_1_ha95f80ecceefa6bdfa6f9d2a54abddd9b.html#ae6995697e9f85558d602ea11c099407a", null ],
+    [ "handleOnModuleDeactivation", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_setup_1_1_ha95f80ecceefa6bdfa6f9d2a54abddd9b.html#a55dcbacf1c869c343e12ba094d2f8a63", null ]
+];

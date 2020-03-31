@@ -1,0 +1,4 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_bridge_1_1_user_rating_bridge_interface =
+[
+    [ "deleteRating", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_bridge_1_1_user_rating_bridge_interface.html#a0a47c977e27fb9c44d874d9f5771fd33", null ]
+];

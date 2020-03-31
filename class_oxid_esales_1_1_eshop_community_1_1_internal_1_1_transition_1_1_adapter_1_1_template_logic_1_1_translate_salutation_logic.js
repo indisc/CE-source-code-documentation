@@ -1,0 +1,4 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_adapter_1_1_template_logic_1_1_translate_salutation_logic =
+[
+    [ "translateSalutation", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_adapter_1_1_template_logic_1_1_translate_salutation_logic.html#a1e943ec492695925ad9d9b2979012589", null ]
+];

@@ -1,0 +1,4 @@
+<map id="OxidEsales\EshopCommunity\Internal\Framework\Smarty\Legacy\LegacySmartyEngine" name="OxidEsales\EshopCommunity\Internal\Framework\Smarty\Legacy\LegacySmartyEngine">
+<area shape="rect" id="node2" href="$interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_smarty_1_1_legacy_1_1_legacy_smarty_engine_interface.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Smarty\l\\Legacy\\LegacySmartyEngineInterface" alt="" coords="5,5,276,61"/>
+<area shape="rect" id="node3" href="$interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_templating_1_1_template_engine_interface.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Templating\l\\TemplateEngineInterface" alt="" coords="27,85,255,141"/>
+</map>

@@ -1,0 +1,6 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_data_mapper_1_1_rating_data_mapper_interface =
+[
+    [ "getData", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_data_mapper_1_1_rating_data_mapper_interface.html#aff217750a34a3b05a531cfbf82314e70", null ],
+    [ "getPrimaryKey", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_data_mapper_1_1_rating_data_mapper_interface.html#a540b9c20379b1b6481c2308ba6ad3773", null ],
+    [ "map", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_data_mapper_1_1_rating_data_mapper_interface.html#a71e02cd6da76d57cb041487afb2b0c67", null ]
+];

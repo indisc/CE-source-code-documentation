@@ -1,0 +1,4 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_smarty_1_1_configuration_1_0cedffe2508556915f6794e09a8ca493 =
+[
+    [ "getResources", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_smarty_1_1_configuration_1_0cedffe2508556915f6794e09a8ca493.html#a26cfba608adfac96cf19ce2f8975b50f", null ]
+];

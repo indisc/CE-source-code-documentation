@@ -1,0 +1,4 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_adapter_1_1_template_logic_1_1_if_content_logic =
+[
+    [ "getContent", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_adapter_1_1_template_logic_1_1_if_content_logic.html#a5de9486ba8be0e65c37a0a08a07e6147", null ]
+];

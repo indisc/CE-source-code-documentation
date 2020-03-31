@@ -1,0 +1,4 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_configuratio5eb6844523f1a46b5a971d1dd3215386 =
+[
+    [ "merge", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_configuratio5eb6844523f1a46b5a971d1dd3215386.html#a17105620399eba4d855192fb9d13e31e", null ]
+];

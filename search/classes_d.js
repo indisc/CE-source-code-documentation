@@ -3,7 +3,6 @@ var searchData=
   ['object2category',['Object2Category',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_object2_category.html',1,'OxidEsales::EshopCommunity::Application::Model']]],
   ['object2group',['Object2Group',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_object2_group.html',1,'OxidEsales::EshopCommunity::Application::Model']]],
   ['objectexception',['ObjectException',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_object_exception.html',1,'OxidEsales::EshopCommunity::Core::Exception']]],
-  ['objectmapperinterface',['ObjectMapperInterface',['../interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_common_1_1_data_mapper_1_1_object_mapper_interface.html',1,'OxidEsales::EshopCommunity::Internal::Common::DataMapper']]],
   ['objectseo',['ObjectSeo',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_object_seo.html',1,'OxidEsales::EshopCommunity::Application::Controller::Admin']]],
   ['onlinecaller',['OnlineCaller',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_caller.html',1,'OxidEsales::EshopCommunity::Core']]],
   ['onlinelicensecheck',['OnlineLicenseCheck',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_license_check.html',1,'OxidEsales::EshopCommunity::Core']]],
@@ -32,5 +31,6 @@ var searchData=
   ['outofstockexception',['OutOfStockException',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_out_of_stock_exception.html',1,'OxidEsales::EshopCommunity::Core::Exception']]],
   ['output',['Output',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_output.html',1,'OxidEsales::EshopCommunity::Core']]],
   ['oxid',['Oxid',['../class_oxid_esales_1_1_eshop_community_1_1_core_1_1_oxid.html',1,'OxidEsales::EshopCommunity::Core']]],
+  ['oxideshoppackage',['OxidEshopPackage',['../class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_install_1_1_data_object_1_1_oxid_eshop_package.html',1,'OxidEsales::EshopCommunity::Internal::Framework::Module::Install::DataObject']]],
   ['oxidstartcontroller',['OxidStartController',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_oxid_start_controller.html',1,'OxidEsales::EshopCommunity::Application::Controller']]]
 ];

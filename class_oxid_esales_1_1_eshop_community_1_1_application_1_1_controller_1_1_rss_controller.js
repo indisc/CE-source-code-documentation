@@ -6,6 +6,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_rss
     [ "catarts", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_rss_controller.html#abaa32eb6d10218e00cdee0f0a1a417ad", null ],
     [ "getCacheLifeTime", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_rss_controller.html#a9ebfefa2562f11a53cc1d6a76a835d41", null ],
     [ "getChannel", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_rss_controller.html#a2edbdbe51535b0d5974ddca5c5360032", null ],
+    [ "getRenderer", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_rss_controller.html#ab0c6a9742891269ed64ac0f528083141", null ],
     [ "newarts", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_rss_controller.html#a1fa955323c8bd0eb97b06891f1f139b1", null ],
     [ "recommlistarts", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_rss_controller.html#a8955813d65970b0cff9ade2b52ff6936", null ],
     [ "recommlists", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_rss_controller.html#a2dbe613cb08205d227feadde4a28bb46", null ],

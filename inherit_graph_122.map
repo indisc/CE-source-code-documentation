@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_license_check_response.html" title=" " alt="" coords="5,5,236,47"/>
+<area shape="rect" id="node2" href="$class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_license_check_caller.html" title="OxidEsales\\EshopCommunity\l\\Core\\OnlineLicenseCheckCaller" alt="" coords="164,5,393,47"/>
+<area shape="rect" id="node3" href="$class_oxid_esales_1_1_eshop_community_1_1_core_1_1_online_module_version_notifier_caller.html" title="OxidEsales\\EshopCommunity\l\\Core\\OnlineModuleVersionNotifier\lCaller" alt="" coords="156,71,401,127"/>
 </map>

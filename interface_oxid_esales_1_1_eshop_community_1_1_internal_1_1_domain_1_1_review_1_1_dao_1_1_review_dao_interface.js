@@ -1,0 +1,5 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_dao_1_1_review_dao_interface =
+[
+    [ "delete", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_dao_1_1_review_dao_interface.html#a6883056a48af470a359942e6f31222bd", null ],
+    [ "getReviewsByUserId", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_dao_1_1_review_dao_interface.html#aa4468adabf1a8555e15346d29650cda9", null ]
+];

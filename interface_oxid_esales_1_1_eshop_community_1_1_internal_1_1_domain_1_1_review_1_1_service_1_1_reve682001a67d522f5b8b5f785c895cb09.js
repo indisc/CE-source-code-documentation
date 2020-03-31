@@ -1,0 +1,4 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_service_1_1_reve682001a67d522f5b8b5f785c895cb09 =
+[
+    [ "mergeReviewAndRating", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_service_1_1_reve682001a67d522f5b8b5f785c895cb09.html#a98d84e7a839eb3a586848d301274c3c4", null ]
+];

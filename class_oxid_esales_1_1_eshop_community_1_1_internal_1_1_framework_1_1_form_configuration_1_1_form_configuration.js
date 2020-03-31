@@ -1,0 +1,6 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_form_configuration_1_1_form_configuration =
+[
+    [ "addFieldConfiguration", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_form_configuration_1_1_form_configuration.html#a876b38a663a8ff11b68689163662b611", null ],
+    [ "getFieldConfigurations", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_form_configuration_1_1_form_configuration.html#a493f63ed23cb8d5f9c2de1e80e7db1d1", null ],
+    [ "$fieldConfigurations", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_form_configuration_1_1_form_configuration.html#ab909838044fba2518efcc4ce894ea1cf", null ]
+];

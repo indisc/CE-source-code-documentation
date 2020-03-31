@@ -6,6 +6,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_t
     [ "getOxMessage", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_to_display.html#a01454823d0dfcb9c5e8a88eddd08d2b1", null ],
     [ "getStackTrace", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_to_display.html#a909ac5308a1a4ccf1414b5c99bc09286", null ],
     [ "getValue", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_to_display.html#af12389f22d4f2eb0f593294dd89e7763", null ],
+    [ "getValues", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_to_display.html#a83714da72db7abe559cf1f72719baaa1", null ],
     [ "setDebug", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_to_display.html#a38ccd8867293a787c2f212c4835a941f", null ],
     [ "setExceptionType", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_to_display.html#a06333bcc76b334bf262dc192fdc08da1", null ],
     [ "setMessage", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_exception_1_1_exception_to_display.html#a4e474e4b51e870743cd482d56aae909e", null ],

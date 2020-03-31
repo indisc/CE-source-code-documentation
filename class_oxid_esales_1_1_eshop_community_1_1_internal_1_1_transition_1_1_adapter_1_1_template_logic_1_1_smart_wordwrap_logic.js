@@ -1,0 +1,4 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_adapter_1_1_template_logic_1_1_smart_wordwrap_logic =
+[
+    [ "wrapWords", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_adapter_1_1_template_logic_1_1_smart_wordwrap_logic.html#a38a0ff9aaedab4750d1fc1e5fa0beb82", null ]
+];

@@ -1,0 +1,6 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_setting_1_1_setting_dao_interface =
+[
+    [ "delete", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_setting_1_1_setting_dao_interface.html#a363d4c91d433f5e8e21ad504d6ec1b60", null ],
+    [ "get", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_setting_1_1_setting_dao_interface.html#a7aa7e3eb45f72abbc54b15a3d7724b43", null ],
+    [ "save", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_setting_1_1_setting_dao_interface.html#ac20e3996ecb4251acd19aaaa5586113e", null ]
+];

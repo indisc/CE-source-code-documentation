@@ -1,0 +1,4 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_templating_1_1_locator_1_1_file_locator_interface =
+[
+    [ "locate", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_templating_1_1_locator_1_1_file_locator_interface.html#ab45f80e836f07d59d8f7def71b319e1d", null ]
+];

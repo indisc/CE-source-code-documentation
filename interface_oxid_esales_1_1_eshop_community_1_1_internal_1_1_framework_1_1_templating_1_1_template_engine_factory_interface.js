@@ -1,0 +1,4 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_templating_1_1_template_engine_factory_interface =
+[
+    [ "getTemplateEngine", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_templating_1_1_template_engine_factory_interface.html#ad65533d88fab24f56ea174022b02d764", null ]
+];

@@ -5,6 +5,7 @@ var searchData=
   ['widgetcontrol_2ephp',['WidgetControl.php',['../_widget_control_8php.html',1,'']]],
   ['widgetcontroller_2ephp',['WidgetController.php',['../_widget_controller_8php.html',1,'']]],
   ['wishlistcontroller_2ephp',['WishListController.php',['../_wish_list_controller_8php.html',1,'']]],
+  ['wordwraplogic_2ephp',['WordwrapLogic.php',['../_wordwrap_logic_8php.html',1,'']]],
   ['wrapping_2ephp',['Wrapping.php',['../_wrapping_8php.html',1,'']]],
   ['wrappingcontroller_2ephp',['WrappingController.php',['../_wrapping_controller_8php.html',1,'']]],
   ['wrappinglist_2ephp',['WrappingList.php',['../_wrapping_list_8php.html',1,'']]],

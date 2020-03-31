@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_install_1_1_b223ac837ae65c8f44b5399b2e07cb08.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Module\l\\Install\\Service\\ModuleInstallerInterface" alt="" coords="5,45,285,101"/>
+<area shape="rect" id="node2" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_install_1_1_servb7814e8e0f6f4183ee7888f9cc806643.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Module\l\\Install\\Service\\BootstrapModuleInstaller" alt="" coords="333,5,619,61"/>
+<area shape="rect" id="node3" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_install_1_1_service_1_1_module_installer.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Module\l\\Install\\Service\\ModuleInstaller" alt="" coords="365,85,587,141"/>
+</map>

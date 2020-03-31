@@ -1,7 +1,5 @@
 <map id="OxidEsales\EshopCommunity\Core\Model\ListModel" name="OxidEsales\EshopCommunity\Core\Model\ListModel">
-<area shape="rect" id="node1" title=" " alt="" coords="84,80,273,121"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,5,56,32"/>
-<area shape="rect" id="node3" href="$class_array_access.html" title=" " alt="" coords="81,5,175,32"/>
-<area shape="rect" id="node4" href="$class_iterator.html" title=" " alt="" coords="199,5,262,32"/>
-<area shape="rect" id="node5" href="$class_countable.html" title=" " alt="" coords="287,5,367,32"/>
+<area shape="rect" id="node3" href="$class_array_access.html" title="ArrayAccess" alt="" coords="84,5,187,32"/>
+<area shape="rect" id="node4" href="$class_iterator.html" title="Iterator" alt="" coords="211,5,281,32"/>
+<area shape="rect" id="node5" href="$class_countable.html" title="Countable" alt="" coords="306,5,394,32"/>
 </map>

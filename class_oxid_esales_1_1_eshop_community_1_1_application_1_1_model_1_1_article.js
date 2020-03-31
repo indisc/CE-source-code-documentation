@@ -85,6 +85,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article 
     [ "enablePriceLoad", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#acc5fde6f9eb12bc5ecc1389a34318780", null ],
     [ "fetchFirstInPriceCategory", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a7711b36fb38b3728aea772114b81b711", null ],
     [ "getAccessoires", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a7e44c82dd40e185454d0e8a3652dea84", null ],
+    [ "getActionType", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#adec04a1ab9534b5ee7f3a1bf091598dc", null ],
     [ "getActiveCheckQuery", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a0378d5edbe9973bd77c7ca1766d6d88b", null ],
     [ "getAdminVariants", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#aceef9f331b4351fae1ade7f2beeffa8c", null ],
     [ "getAmountPriceList", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a8f93bf25f1dc26feba22508abb2269e2", null ],
@@ -140,6 +141,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article 
     [ "getPictureUrl", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#aad77ab54b643055df839be5d54dde003", null ],
     [ "getPrice", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#ac820383fbe42d5283ecb639641ff6d4f", null ],
     [ "getProductId", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a141288abaa60d0d0a3f65e80b9599980", null ],
+    [ "getRestockDate", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a87b76c3e58d8ab4124f5a3d30fdffe99", null ],
     [ "getReviews", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a5a46971ff343638358c224431d4db76b", null ],
     [ "getSelections", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#af0849de2aa118e45b76531d8369429cc", null ],
     [ "getSelectLists", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a6f47475f31fa1f46a13189b3eb00a219", null ],
@@ -152,6 +154,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article 
     [ "getStock", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a8739e645df480cc7210aa8a3b1ed12d1", null ],
     [ "getStockCheckQuery", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a038010a7a1fc1167db72888794687cda", null ],
     [ "getStockStatus", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a46775950175463ad267d64f6d9387bc7", null ],
+    [ "getStockStatusOnLoad", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a95437678f3d42ba6ae88a33a567357a9", null ],
     [ "getThumbnailUrl", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#ad33a73480bd6849d977e5e7dacdc4cf5", null ],
     [ "getToBasketLink", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#afe26b3d638dfc6d2036747404b8eaa9b", null ],
     [ "getTPrice", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a615f208d20926f44d981fb5d8ae888b6", null ],
@@ -277,5 +280,6 @@ var class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article 
     [ "$_sItemKey", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a0168cf31feb93975eb9f4de50db99908", null ],
     [ "$_sMoreDetailLink", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a652681361071b0b23d40f35d39b97a05", null ],
     [ "$_sToBasketLink", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a8e992026a3939814ba19c50c8a2f7e79", null ],
+    [ "$actionType", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#aea819a28739090df74236bfb60d05f87", null ],
     [ "$basketAttributeList", "class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_article.html#a30caa800d0960b359ef1334d56efd05f", null ]
 ];

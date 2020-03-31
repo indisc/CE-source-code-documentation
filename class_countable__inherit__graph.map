@@ -1,5 +1,4 @@
 <map id="Countable" name="Countable">
-<area shape="rect" id="node1" title=" " alt="" coords="5,56,85,83"/>
-<area shape="rect" id="node2" href="$interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_database_1_1_adapter_1_1_result_set_interface.html" title=" " alt="" coords="133,5,323,61"/>
-<area shape="rect" id="node3" href="$class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_list_model.html" title=" " alt="" coords="133,85,323,126"/>
+<area shape="rect" id="node2" href="$interface_oxid_esales_1_1_eshop_community_1_1_core_1_1_database_1_1_adapter_1_1_result_set_interface.html" title="OxidEsales\\EshopCommunity\l\\Core\\Database\\Adapter\l\\ResultSetInterface" alt="" coords="141,5,355,61"/>
+<area shape="rect" id="node3" href="$class_oxid_esales_1_1_eshop_community_1_1_core_1_1_model_1_1_list_model.html" title="OxidEsales\\EshopCommunity\l\\Core\\Model\\ListModel" alt="" coords="141,86,355,127"/>
 </map>

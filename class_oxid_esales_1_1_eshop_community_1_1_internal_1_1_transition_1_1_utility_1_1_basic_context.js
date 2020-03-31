@@ -1,0 +1,25 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context =
+[
+    [ "getAllShopIds", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#a4e137f65d7ff47ab99d2a5329fc50383", null ],
+    [ "getBackwardsCompatibilityClassMap", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#a48c483e23d97fd6db7ffb90c367cf1ab", null ],
+    [ "getCommunityEditionSourcePath", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#a480f322f48b0c2c52232044f34e32734", null ],
+    [ "getConfigFilePath", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#a3849c1cf2ec8ce970ddd9d8cb3255e81", null ],
+    [ "getConfigTableName", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#aae4ee30b36e06f9cd834dfcb22f8aa82", null ],
+    [ "getConfigurableServicesFilePath", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#a62eb49b84fc8e9a26132496a4a9172cb", null ],
+    [ "getConfigurationDirectoryPath", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#a37a695ee98e3e5344303f6d1b115673a", null ],
+    [ "getContainerCacheFilePath", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#a15488f2b6252fd0c68a2959f91d6da03", null ],
+    [ "getDefaultShopId", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#a4ff305ac33541c81f786b1cc2edb3350", null ],
+    [ "getEdition", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#a59af4e14665dcffe5bb9f36c6abe2211", null ],
+    [ "getEnterpriseEditionRootPath", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#a3ede1d65b7f299dfa0badf390a4a063a", null ],
+    [ "getFacts", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#a59d8639001da33d733d28811d81e8e9b", null ],
+    [ "getGeneratedServicesFilePath", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#ad264f3425ddaa4b7549634430894f3aa", null ],
+    [ "getModulesPath", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#a396b881affd35ab0944c5a36abf2dde2", null ],
+    [ "getProfessionalEditionRootPath", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#aa44bf5ff4297846f2af5bd46f034e20e", null ],
+    [ "getProjectConfigurationDirectory", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#a4b5a5160fb2e4aa584ff2f94ee49b52f", null ],
+    [ "getShopRootPath", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#aa1b2d73c7e4c485e76a7821f74d957b3", null ],
+    [ "getSourcePath", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#a3163be6da286307e8c42495055f29c2f", null ],
+    [ "$facts", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#ad542b065236622abb3e0ccf74801d13b", null ],
+    [ "COMMUNITY_EDITION", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#aead8b59db54773c5fd1e4a70d583dd3a", null ],
+    [ "ENTERPRISE_EDITION", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#aa8af198f2445d43a39cfb8687faf96f0", null ],
+    [ "PROFESSIONAL_EDITION", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#af60b532413b52b6fbc99f9e32edb89a1", null ]
+];

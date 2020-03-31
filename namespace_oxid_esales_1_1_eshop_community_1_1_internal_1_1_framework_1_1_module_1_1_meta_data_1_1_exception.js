@@ -1,0 +1,10 @@
+var namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_exception =
+[
+    [ "InvalidMetaDataException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_ex3f963d7c87be4ce6557f167b30445daf.html", null ],
+    [ "MetaDataVersionException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_ex47979f1080bc3d7a89aecc9e0933fcfb.html", null ],
+    [ "ModuleIdNotValidException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_exebd30ba2d274b1be06cb92d3580c5c32.html", null ],
+    [ "SettingNotValidException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_ex5b98072c730d8bc94650dac19ccdaf43.html", null ],
+    [ "UnsupportedMetaDataKeyException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_exc4811b1180a5bc00d2055922f0d6c985.html", null ],
+    [ "UnsupportedMetaDataValueTypeException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_ex411e060a5441486030fb7803c2ba6750.html", null ],
+    [ "UnsupportedMetaDataVersionException", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_exb899a26cff30e4be7c327f8d03811b9f.html", null ]
+];

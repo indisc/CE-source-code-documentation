@@ -1,0 +1,4 @@
+var interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_path_1_1_module_path_resolver_interface =
+[
+    [ "getFullModulePathFromConfiguration", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_path_1_1_module_path_resolver_interface.html#a1c2ccc1791d8ce02ef909d4577d240ba", null ]
+];

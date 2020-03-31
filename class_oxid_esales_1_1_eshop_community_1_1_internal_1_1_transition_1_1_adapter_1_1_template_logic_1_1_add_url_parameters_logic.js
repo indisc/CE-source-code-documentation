@@ -1,0 +1,4 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_adapter_1_1_template_logic_1_1_add_url_parameters_logic =
+[
+    [ "addUrlParameters", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_adapter_1_1_template_logic_1_1_add_url_parameters_logic.html#a8c51860ee1b16f5b75313ce961019f2e", null ]
+];

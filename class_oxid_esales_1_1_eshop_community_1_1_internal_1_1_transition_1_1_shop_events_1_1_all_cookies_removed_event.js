@@ -1,0 +1,4 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_shop_events_1_1_all_cookies_removed_event =
+[
+    [ "NAME", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_shop_events_1_1_all_cookies_removed_event.html#a3ab408d5052b2e6a1a847118762914fd", null ]
+];

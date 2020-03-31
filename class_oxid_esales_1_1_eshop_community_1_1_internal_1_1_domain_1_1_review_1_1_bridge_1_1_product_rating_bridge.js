@@ -1,0 +1,6 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_bridge_1_1_product_rating_bridge =
+[
+    [ "__construct", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_bridge_1_1_product_rating_bridge.html#a9efe717bcb9bac969f5bc21004face9d", null ],
+    [ "updateProductRating", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_bridge_1_1_product_rating_bridge.html#a73a1c714ddaa06e132ee8afec63c916b", null ],
+    [ "$productRatingService", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_bridge_1_1_product_rating_bridge.html#ae6b70c7cd63ad96df19f286ed16b2993", null ]
+];

@@ -1,0 +1,4 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_adapter_1_1_template_logic_1_1_date_format_helper =
+[
+    [ "fixWindowsTimeFormat", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_adapter_1_1_template_logic_1_1_date_format_helper.html#a8e742d6ac40c9c3373ae572dbe39dcff", null ]
+];

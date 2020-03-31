@@ -1,0 +1,27 @@
+var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_view_data_object_1_1_review_and_rating =
+[
+    [ "getCreatedAt", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#af99cb526169ca1b425554d44ff285e7d", null ],
+    [ "getObjectId", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#a5e0e867ef1ff794abdb86450e70e6842", null ],
+    [ "getObjectTitle", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#ac5af037ceade9f01f927ee8d9a490852", null ],
+    [ "getObjectType", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#a9b66edb2f803f8c27f180239417a837f", null ],
+    [ "getRating", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#a6dd9a3652461d39a7306b2da93d06432", null ],
+    [ "getRatingId", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#a153d01282986599bd8a14c6b98aeabc1", null ],
+    [ "getReviewId", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#aa4ae3e5c1bc18802a9646f76fcf07ad6", null ],
+    [ "getReviewText", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#aa936a0f281957e5619189496c0fbd1e4", null ],
+    [ "setCreatedAt", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#a88c81e3aad93799ecf2aa077bfa2245f", null ],
+    [ "setObjectId", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#a229d4450a0dfd7341e65b6eab6b2c0aa", null ],
+    [ "setObjectTitle", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#a2fe71083f2a6b24d541b5d18761c260f", null ],
+    [ "setObjectType", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#a6e96ab2a343f9ee85d90812215d266d6", null ],
+    [ "setRating", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#aaa177d9043ffbbc7b516fef6ac684d17", null ],
+    [ "setRatingId", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#a2e543ec1ffb55b85d95598caed1ca34a", null ],
+    [ "setReviewId", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#a3ab93bd9ad909269fc4f7d4481a1b8c4", null ],
+    [ "setReviewText", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#a5df4c689759880e149a0134aaea3f168", null ],
+    [ "$createdAt", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#ab3121fb6b20f747a4506c1b0f67b6cec", null ],
+    [ "$objectId", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#a712e51cd26eacf045553e5902506b1ab", null ],
+    [ "$objectTitle", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#a3634cd33680b88c13db16c8e19a74e63", null ],
+    [ "$objectType", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#ae9a16d53a3f3a2a512cbbe2b87af63a5", null ],
+    [ "$rating", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#a328db315889f11b08b5fb3512852374c", null ],
+    [ "$ratingId", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#a95d102a38699ca99404ec105ff8bf6fb", null ],
+    [ "$reviewId", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#aa0fa099e629aa37d35733f4b1453cfd1", null ],
+    [ "$reviewText", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_view_data_object_1_1_review_and_rating.html#a4aa38e92cad4cfddb777751fa862a517", null ]
+];

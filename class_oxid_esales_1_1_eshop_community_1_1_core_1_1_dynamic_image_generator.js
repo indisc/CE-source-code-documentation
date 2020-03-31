@@ -34,5 +34,6 @@ var class_oxid_esales_1_1_eshop_community_1_1_core_1_1_dynamic_image_generator =
     [ "$_hLockHandle", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_dynamic_image_generator.html#a7b7c50e34d2c6420860d0f76634a561e", null ],
     [ "$_oInstance", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_dynamic_image_generator.html#a6fa066d0d606f83c829004a2290988c6", null ],
     [ "$_sImageInfoSep", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_dynamic_image_generator.html#a861833c03c381e3b4eb1ee4276084c03", null ],
-    [ "$_sImageUri", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_dynamic_image_generator.html#ab1cb38607e35adfac6a8b712a42b0ff6", null ]
+    [ "$_sImageUri", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_dynamic_image_generator.html#ab1cb38607e35adfac6a8b712a42b0ff6", null ],
+    [ "sThumbnailsize", "class_oxid_esales_1_1_eshop_community_1_1_core_1_1_dynamic_image_generator.html#aaa0378d8e2ca2c9f53b68480e9f2d0e9", null ]
 ];

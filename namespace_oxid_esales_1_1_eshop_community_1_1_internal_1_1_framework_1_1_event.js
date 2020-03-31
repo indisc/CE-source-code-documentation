@@ -1,0 +1,6 @@
+var namespace_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_event =
+[
+    [ "AbstractShopAwareEventSubscriber", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_event_1_1_abstract_shop_aware_event_subscriber.html", null ],
+    [ "ShopAwareEventDispatcher", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_event_1_1_shop_aware_event_dispatcher.html", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_event_1_1_shop_aware_event_dispatcher" ],
+    [ "ShopAwareInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_event_1_1_shop_aware_interface.html", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_event_1_1_shop_aware_interface" ]
+];

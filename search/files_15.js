@@ -19,6 +19,7 @@ var searchData=
   ['version20180928072235_2ephp',['Version20180928072235.php',['../_version20180928072235_8php.html',1,'']]],
   ['view_2ephp',['View.php',['../_view_8php.html',1,'']]],
   ['viewconfig_2ephp',['ViewConfig.php',['../_view_config_8php.html',1,'']]],
+  ['viewrenderedevent_2ephp',['ViewRenderedEvent.php',['../_view_rendered_event_8php.html',1,'']]],
   ['voucher_2ephp',['Voucher.php',['../_voucher_8php.html',1,'']]],
   ['voucherexception_2ephp',['VoucherException.php',['../_voucher_exception_8php.html',1,'']]],
   ['voucherlist_2ephp',['VoucherList.php',['../_voucher_list_8php.html',1,'']]],
