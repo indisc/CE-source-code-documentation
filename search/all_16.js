@@ -108,7 +108,7 @@ var searchData=
   ['usermainajax_2ephp',['UserMainAjax.php',['../_user_main_ajax_8php.html',1,'']]],
   ['useroverview',['UserOverview',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_user_overview.html',1,'OxidEsales::EshopCommunity::Application::Controller::Admin']]],
   ['useroverview_2ephp',['UserOverview.php',['../_user_overview_8php.html',1,'']]],
-  ['userpayment',['UserPayment',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user_payment.html',1,'OxidEsales\EshopCommunity\Application\Model\UserPayment'],['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_user_payment.html',1,'OxidEsales\EshopCommunity\Application\Controller\Admin\UserPayment']]],
+  ['userpayment',['UserPayment',['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_controller_1_1_admin_1_1_user_payment.html',1,'OxidEsales\EshopCommunity\Application\Controller\Admin\UserPayment'],['../class_oxid_esales_1_1_eshop_community_1_1_application_1_1_model_1_1_user_payment.html',1,'OxidEsales\EshopCommunity\Application\Model\UserPayment']]],
   ['userpayment_2ephp',['UserPayment.php',['../_controller_2_admin_2_user_payment_8php.html',1,'(Global Namespace)'],['../_model_2_user_payment_8php.html',1,'(Global Namespace)']]],
   ['userratingbridge',['UserRatingBridge',['../class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_domain_1_1_review_1_1_bridge_1_1_user_rating_bridge.html',1,'OxidEsales::EshopCommunity::Internal::Domain::Review::Bridge']]],
   ['userratingbridge_2ephp',['UserRatingBridge.php',['../_user_rating_bridge_8php.html',1,'']]],

@@ -29,7 +29,7 @@
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
    <div id="projectname">OXID eShop CE
-   &#160;<span id="projectnumber">6.2.0</span>
+   &#160;<span id="projectnumber">6.2.1</span>
    </div>
   </td>
  </tr>
@@ -232,13 +232,13 @@ Static Protected Attributes</h2></td></tr>
 </div><div class="memdoc">
 <p>Instance getter. Return an existing or new instance for a given class name. Consider using the getter methods over the generic <a class="el" href="class_oxid_esales_1_1_eshop_community_1_1_core_1_1_registry.html#a6522e78b1d033e45de69e38ca2708384">Registry::get()</a> method. In order to avoid issues with different shop editions, the given class name must be from the Unified Namespace.</p>
 <p>For reasons of backwards compatibility old class names like 'oxconfig' are still supported and equivalent to the corresponding class name from the Unified Namespace, as they store and retrieve the same instances. But be aware, that support for old class names will be dropped in the future.</p>
-<dl class="params"><dt>Parameters</dt><dd>
+<p>T </p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramtype">string</td><td class="paramname">$className</td><td>The class name from the Unified Namespace.</td></tr>
+    <tr><td class="paramname">class-string&lt;T&gt;</td><td>$className The class name from the Unified Namespace. param mixed ...$args constructor arguments</td></tr>
   </table>
   </dd>
 </dl>
-<dl class="section return"><dt>Returns</dt><dd>object </dd></dl>
+<dl class="section return"><dt>Returns</dt><dd>T </dd></dl>
 
 </div>
 </div>
@@ -455,13 +455,13 @@ Static Protected Attributes</h2></td></tr>
 </table>
 </div><div class="memdoc">
 <p>Return a well known object from the registry</p>
-<dl class="params"><dt>Parameters</dt><dd>
+<p>T </p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramtype">string</td><td class="paramname">$className</td><td>A unified namespace class name</td></tr>
+    <tr><td class="paramname">class-string&lt;T&gt;</td><td>$className A unified namespace class name param mixed ...$args constructor arguments</td></tr>
   </table>
   </dd>
 </dl>
-<dl class="section return"><dt>Returns</dt><dd>mixed </dd></dl>
+<dl class="section return"><dt>Returns</dt><dd>T </dd></dl>
 
 </div>
 </div>
@@ -1056,7 +1056,7 @@ Static Protected Attributes</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>/home/users/oxidforge/files/OXID_ESHOP_CE_6.2.0/vendor/oxid-esales/oxideshop-ce/source/Core/<a class="el" href="_registry_8php.html">Registry.php</a></li>
+<li>/home/users/oxidforge/files/OXID_ESHOP_CE_6.2.1/vendor/oxid-esales/oxideshop-ce/source/Core/<a class="el" href="_registry_8php.html">Registry.php</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->

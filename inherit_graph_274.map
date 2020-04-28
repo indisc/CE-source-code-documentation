@@ -1,4 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_3a5ea19653d9bf6588229f4b0dc24e59.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Module\l\\MetaData\\Service\\MetaDataSchemata\lProviderInterface" alt="" coords="5,5,279,76"/>
-<area shape="rect" id="node2" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_seac43790ead2f5bb642b219bc312d3872.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Module\l\\MetaData\\Service\\MetaDataSchemata\lProvider" alt="" coords="327,5,600,76"/>
+<area shape="rect" id="node1" href="$interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_c27c3f016ec47545cc5a30e937db8105.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Module\l\\MetaData\\DataMapper\\MetaDataToModule\lConfigurationDataMapperInterface" alt="" coords="5,5,305,76"/>
+<area shape="rect" id="node2" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_data_mapper_1_1_meta_data_mapper.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Module\l\\MetaData\\DataMapper\\MetaDataMapper" alt="" coords="353,13,640,69"/>
 </map>

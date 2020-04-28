@@ -2,6 +2,7 @@ var class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utilit
 [
     [ "getAllShopIds", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#a4e137f65d7ff47ab99d2a5329fc50383", null ],
     [ "getBackwardsCompatibilityClassMap", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#a48c483e23d97fd6db7ffb90c367cf1ab", null ],
+    [ "getCacheDirectory", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#acc5f5a78f328999dac482e0a8ba38b64", null ],
     [ "getCommunityEditionSourcePath", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#a480f322f48b0c2c52232044f34e32734", null ],
     [ "getConfigFilePath", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#a3849c1cf2ec8ce970ddd9d8cb3255e81", null ],
     [ "getConfigTableName", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_transition_1_1_utility_1_1_basic_context.html#aae4ee30b36e06f9cd834dfcb22f8aa82", null ],

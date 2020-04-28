@@ -661,14 +661,14 @@ var hierarchy =
       [ "OxidEsales\\EshopCommunity\\Internal\\Framework\\Module\\MetaData\\Converter\\MetaDataConverterAggregate", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_co4a40c2218911607af041731502554bff.html", null ],
       [ "OxidEsales\\EshopCommunity\\Internal\\Framework\\Module\\MetaData\\Converter\\ModuleSettingsBooleanConverter", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_coca61fab6ddec1eebec3c8e4d959684e2.html", null ]
     ] ],
-    [ "OxidEsales\\EshopCommunity\\Internal\\Framework\\Module\\MetaData\\Service\\MetaDataNormalizerInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_ac6240fca9f468bb417fd6b122e03503.html", [
-      [ "OxidEsales\\EshopCommunity\\Internal\\Framework\\Module\\MetaData\\Service\\MetaDataNormalizer", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_service_1_1_meta_data_normalizer.html", null ]
+    [ "OxidEsales\\EshopCommunity\\Internal\\Framework\\Module\\MetaData\\Dao\\MetaDataNormalizerInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_ce609b15e3142480b419cf6c6f431068.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Framework\\Module\\MetaData\\Dao\\MetaDataNormalizer", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_dao_1_1_meta_data_normalizer.html", null ]
     ] ],
-    [ "OxidEsales\\EshopCommunity\\Internal\\Framework\\Module\\MetaData\\Service\\MetaDataProviderInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_067fe88cd6225a15554066b7ee173631.html", [
-      [ "OxidEsales\\EshopCommunity\\Internal\\Framework\\Module\\MetaData\\Service\\MetaDataProvider", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_service_1_1_meta_data_provider.html", null ]
+    [ "OxidEsales\\EshopCommunity\\Internal\\Framework\\Module\\MetaData\\Dao\\MetaDataProviderInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_2bfb099f0b643c2b36f04282dd78b275.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Framework\\Module\\MetaData\\Dao\\MetaDataProvider", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_dao_1_1_meta_data_provider.html", null ]
     ] ],
-    [ "OxidEsales\\EshopCommunity\\Internal\\Framework\\Module\\MetaData\\Service\\MetaDataSchemataProviderInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_3a5ea19653d9bf6588229f4b0dc24e59.html", [
-      [ "OxidEsales\\EshopCommunity\\Internal\\Framework\\Module\\MetaData\\Service\\MetaDataSchemataProvider", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_seac43790ead2f5bb642b219bc312d3872.html", null ]
+    [ "OxidEsales\\EshopCommunity\\Internal\\Framework\\Module\\MetaData\\Dao\\MetaDataSchemataProviderInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_ac6fdb6f38d19253f928b8caa2e04a2e.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Framework\\Module\\MetaData\\Dao\\MetaDataSchemataProvider", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_dafbb083ca4ee3f5876987592da768971a.html", null ]
     ] ],
     [ "OxidEsales\\EshopCommunity\\Internal\\Framework\\Module\\MetaData\\Validator\\MetaDataSchemaValidatorInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_867f78c73896d1e40640a7ab7144a8b8.html", [
       [ "OxidEsales\\EshopCommunity\\Internal\\Framework\\Module\\MetaData\\Validator\\MetaDataSchemaValidator", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_va532889ebb6bcd8c0a10bae790067673c.html", null ]
@@ -699,11 +699,11 @@ var hierarchy =
     [ "OxidEsales\\EshopCommunity\\Internal\\Framework\\Module\\Configuration\\Bridge\\ModuleConfigurationDaoBridgeInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_configuratioe0527b39a537f7d7f3403088d5ca3142.html", [
       [ "OxidEsales\\EshopCommunity\\Internal\\Framework\\Module\\Configuration\\Bridge\\ModuleConfigurationDaoBridge", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_configuration_1_42f79542116292b9911f41412b85750e.html", null ]
     ] ],
-    [ "OxidEsales\\EshopCommunity\\Internal\\Framework\\Module\\Configuration\\Dao\\ModuleConfigurationDaoInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_configuratioc68c97876a9e73c1b9d71d6d6a26f27d.html", [
-      [ "OxidEsales\\EshopCommunity\\Internal\\Framework\\Module\\Configuration\\Dao\\ModuleConfigurationDao", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_configuration_1_3427f9a78880eec7d9a0f68829e731db.html", null ]
-    ] ],
     [ "OxidEsales\\EshopCommunity\\Internal\\Framework\\Module\\MetaData\\Dao\\ModuleConfigurationDaoInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_513b5b46345a75326fbf4314b85cb2fd.html", [
       [ "OxidEsales\\EshopCommunity\\Internal\\Framework\\Module\\MetaData\\Dao\\ModuleConfigurationDao", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_dao_1_1_module_configuration_dao.html", null ]
+    ] ],
+    [ "OxidEsales\\EshopCommunity\\Internal\\Framework\\Module\\Configuration\\Dao\\ModuleConfigurationDaoInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_configuratioc68c97876a9e73c1b9d71d6d6a26f27d.html", [
+      [ "OxidEsales\\EshopCommunity\\Internal\\Framework\\Module\\Configuration\\Dao\\ModuleConfigurationDao", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_configuration_1_3427f9a78880eec7d9a0f68829e731db.html", null ]
     ] ],
     [ "OxidEsales\\EshopCommunity\\Internal\\Framework\\Module\\Configuration\\DataMapper\\ModuleConfigurationDataMapperInterface", "interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_configuratio8b0523472772bbd107c7e09ef5cb2e37.html", [
       [ "OxidEsales\\EshopCommunity\\Internal\\Framework\\Module\\Configuration\\DataMapper\\ModuleConfiguration\\ClassesWithoutNamespaceDataMapper", "class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_configuration_1_8bffa87694bde852ab5037740d3e9b97.html", null ],

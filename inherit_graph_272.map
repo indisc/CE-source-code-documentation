@@ -1,4 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_ac6240fca9f468bb417fd6b122e03503.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Module\l\\MetaData\\Service\\MetaDataNormalizer\lInterface" alt="" coords="5,5,285,76"/>
-<area shape="rect" id="node2" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_service_1_1_meta_data_normalizer.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Module\l\\MetaData\\Service\\MetaDataNormalizer" alt="" coords="333,13,613,69"/>
+<area shape="rect" id="node1" href="$interface_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_ac6fdb6f38d19253f928b8caa2e04a2e.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Module\l\\MetaData\\Dao\\MetaDataSchemataProvider\lInterface" alt="" coords="5,5,311,76"/>
+<area shape="rect" id="node2" href="$class_oxid_esales_1_1_eshop_community_1_1_internal_1_1_framework_1_1_module_1_1_meta_data_1_1_dafbb083ca4ee3f5876987592da768971a.html" title="OxidEsales\\EshopCommunity\l\\Internal\\Framework\\Module\l\\MetaData\\Dao\\MetaDataSchemataProvider" alt="" coords="359,13,664,69"/>
 </map>
